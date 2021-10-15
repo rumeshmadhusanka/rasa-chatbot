@@ -1,9 +1,10 @@
 .idea
+./.idea
 rasa-chatbot.iml
 rasa-demo
 models
 bot/models
-
+*.iml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
