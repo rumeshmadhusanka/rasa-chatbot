@@ -15,7 +15,7 @@ on:
 
 jobs:
   rasa-test:
-    name: Test RASA bot
+    name: Build RASA bot
     runs-on: ubuntu-latest
     steps:
       # Checks-out GitHub repository
@@ -23,8 +23,15 @@ jobs:
       - uses: actions/checkout@v2
 
       # Run rasa train and rasa test
-      - name: Rasab train and test
+      - name: Rasa train and test
         uses: RasaHQ/rasa-train-test-gha@main
         with:
           test_type: nlu
+
+      - name: Archive built RASA model
+        uses: actions/upload-artifact@v2
+        with:
+          name: dist-without-markdown
+          path: |
+            models
 
