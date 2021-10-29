@@ -22,16 +22,28 @@ jobs:
       # more: https://github.com/actions/checkout
       - uses: actions/checkout@v2
 
-      # Run rasa train and rasa test
-      - name: Rasa train and test
-        uses: RasaHQ/rasa-train-test-gha@main
+      - name: Setup python
+        uses: actions/setup-python@v2
         with:
-          test_type: nlu
-
+          python-version: "3.8"
+      - name: Install python dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: Cache the dependecies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ hashFiles('config.yaml') }}-${{ hashFiles('requirements.txt') }}
+      - name: Train RASA model
+        run: |
+          rasa train
+      - name: Test built model
+        run: |
+          rasa test
       - name: Archive built RASA model
         uses: actions/upload-artifact@v2
         with:
-          name: dist-without-markdown
+          name: models
           path: |
             models
 
