@@ -33,7 +33,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
-          key: ${{ hashFiles('config.yaml') }}-${{ hashFiles('requirements.txt') }}
+          key: ${{ hashFiles('requirements.txt') }}
       - name: Train RASA model
         run: |
           rasa train
