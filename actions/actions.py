@@ -18,6 +18,11 @@ def extract_artist(message):
         return message.split("ගේ")[0]
     if "ගෙ" in message:
         return message.split("ගෙ")[0]
+    if "ගායනා" in message:
+        return message.split("ගායනා")[0]
+    if "කියපු" in message:
+        return message.split("කියපු")[0]
+
 
 
 class ActionMostPopularSong(Action):
