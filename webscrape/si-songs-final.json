@@ -5,7 +5,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 13300,
+        "streams": 28700,
         "sentiment": "negative"
     },
     {
@@ -14,7 +14,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 40200,
+        "streams": 19900,
         "sentiment": "negative"
     },
     {
@@ -24,7 +24,7 @@
             "සුරේන්ද්‍ර පෙරේරා",
             "උරේෂා රවිහාරි"
         ],
-        "streams": 34300,
+        "streams": 21900,
         "sentiment": "negative"
     },
     {
@@ -33,7 +33,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 15800,
+        "streams": 11800,
         "sentiment": "negative"
     },
     {
@@ -43,7 +43,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 12600,
+        "streams": 9900,
         "sentiment": "negative"
     },
     {
@@ -52,7 +52,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 9500,
+        "streams": 9900,
         "sentiment": "negative"
     },
     {
@@ -61,7 +61,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 41400,
+        "streams": 29400,
         "sentiment": "negative"
     },
     {
@@ -70,7 +70,7 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 18500,
+        "streams": 31000,
         "sentiment": "negative"
     },
     {
@@ -79,7 +79,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 38700,
+        "streams": 12400,
         "sentiment": "negative"
     },
     {
@@ -88,7 +88,7 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 32300,
+        "streams": 39300,
         "sentiment": "negative"
     },
     {
@@ -97,7 +97,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 36900,
+        "streams": 29800,
         "sentiment": "negative"
     },
     {
@@ -106,7 +106,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 48200,
+        "streams": 32400,
         "sentiment": "negative"
     },
     {
@@ -115,7 +115,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 33700,
+        "streams": 40300,
         "sentiment": "negative"
     },
     {
@@ -124,7 +124,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 44500,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -133,7 +133,7 @@
         "singers": [
             "ෆන්කි ඩර්ට්"
         ],
-        "streams": 48700,
+        "streams": 12900,
         "sentiment": "positive"
     },
     {
@@ -142,7 +142,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 39100,
+        "streams": 27700,
         "sentiment": "negative"
     },
     {
@@ -151,7 +151,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 11500,
+        "streams": 7800,
         "sentiment": "negative"
     },
     {
@@ -160,7 +160,7 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 9700,
+        "streams": 29800,
         "sentiment": "negative"
     },
     {
@@ -169,7 +169,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 27100,
+        "streams": 10600,
         "sentiment": "negative"
     },
     {
@@ -178,7 +178,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 8700,
+        "streams": 36700,
         "sentiment": "negative"
     },
     {
@@ -187,7 +187,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 42000,
+        "streams": 21300,
         "sentiment": "negative"
     },
     {
@@ -196,7 +196,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 16000,
+        "streams": 9600,
         "sentiment": "negative"
     },
     {
@@ -205,7 +205,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 27100,
+        "streams": 13000,
         "sentiment": "negative"
     },
     {
@@ -215,7 +215,7 @@
             "විජය කුමාරතුංග",
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 11300,
+        "streams": 5700,
         "sentiment": "negative"
     },
     {
@@ -224,7 +224,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 21900,
+        "streams": 24100,
         "sentiment": "negative"
     },
     {
@@ -233,7 +233,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 23500,
+        "streams": 20000,
         "sentiment": "negative"
     },
     {
@@ -242,7 +242,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 15500,
+        "streams": 17200,
         "sentiment": "negative"
     },
     {
@@ -251,7 +251,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 40100,
+        "streams": 32000,
         "sentiment": "negative"
     },
     {
@@ -260,7 +260,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 42500,
+        "streams": 35600,
         "sentiment": "negative"
     },
     {
@@ -269,7 +269,7 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 46500,
+        "streams": 47500,
         "sentiment": "negative"
     },
     {
@@ -278,7 +278,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 13800,
+        "streams": 48500,
         "sentiment": "negative"
     },
     {
@@ -287,7 +287,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 30900,
+        "streams": 27300,
         "sentiment": "negative"
     },
     {
@@ -296,7 +296,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 47600,
+        "streams": 46100,
         "sentiment": "negative"
     },
     {
@@ -305,7 +305,7 @@
         "singers": [
             "චරිතා ප්‍රියදර්ශනී පීරිස්"
         ],
-        "streams": 17900,
+        "streams": 11200,
         "sentiment": "negative"
     },
     {
@@ -314,7 +314,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 19900,
+        "streams": 24400,
         "sentiment": "negative"
     },
     {
@@ -323,7 +323,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 49100,
+        "streams": 38400,
         "sentiment": "negative"
     },
     {
@@ -332,7 +332,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 47400,
+        "streams": 37700,
         "sentiment": "negative"
     },
     {
@@ -341,7 +341,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 15500,
+        "streams": 23700,
         "sentiment": "negative"
     },
     {
@@ -350,7 +350,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 39400,
+        "streams": 48600,
         "sentiment": "negative"
     },
     {
@@ -359,7 +359,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 19100,
+        "streams": 38300,
         "sentiment": "negative"
     },
     {
@@ -368,7 +368,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 47900,
+        "streams": 10400,
         "sentiment": "negative"
     },
     {
@@ -377,7 +377,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 10700,
+        "streams": 9100,
         "sentiment": "negative"
     },
     {
@@ -386,7 +386,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 10200,
+        "streams": 20800,
         "sentiment": "negative"
     },
     {
@@ -395,7 +395,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 5900,
+        "streams": 9100,
         "sentiment": "negative"
     },
     {
@@ -404,7 +404,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 7500,
+        "streams": 9100,
         "sentiment": "negative"
     },
     {
@@ -413,7 +413,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 21300,
+        "streams": 28200,
         "sentiment": "negative"
     },
     {
@@ -422,7 +422,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 42100,
+        "streams": 28100,
         "sentiment": "negative"
     },
     {
@@ -431,7 +431,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 5000,
+        "streams": 48000,
         "sentiment": "negative"
     },
     {
@@ -440,7 +440,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 43800,
+        "streams": 15900,
         "sentiment": "negative"
     },
     {
@@ -450,7 +450,7 @@
             "නිර්මලා රණතුංග",
             "දයා ද අල්විස්"
         ],
-        "streams": 22900,
+        "streams": 43300,
         "sentiment": "negative"
     },
     {
@@ -459,7 +459,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 18900,
+        "streams": 39900,
         "sentiment": "negative"
     },
     {
@@ -468,7 +468,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 47900,
+        "streams": 41900,
         "sentiment": "negative"
     },
     {
@@ -477,7 +477,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 6600,
+        "streams": 8500,
         "sentiment": "negative"
     },
     {
@@ -486,7 +486,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 46500,
+        "streams": 13300,
         "sentiment": "negative"
     },
     {
@@ -495,7 +495,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 21200,
+        "streams": 48100,
         "sentiment": "negative"
     },
     {
@@ -504,7 +504,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 15000,
+        "streams": 33200,
         "sentiment": "negative"
     },
     {
@@ -513,7 +513,7 @@
         "singers": [
             "සංගීත් විජේසූරිය"
         ],
-        "streams": 36600,
+        "streams": 37000,
         "sentiment": "negative"
     },
     {
@@ -522,7 +522,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 8300,
+        "streams": 18900,
         "sentiment": "negative"
     },
     {
@@ -531,7 +531,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 48400,
+        "streams": 7800,
         "sentiment": "negative"
     },
     {
@@ -541,7 +541,7 @@
             "හරූන් ලන්ත්‍රා",
             "සුජාතා අත්තනායක"
         ],
-        "streams": 6800,
+        "streams": 40300,
         "sentiment": "negative"
     },
     {
@@ -550,7 +550,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 39900,
+        "streams": 24200,
         "sentiment": "negative"
     },
     {
@@ -559,7 +559,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 30500,
+        "streams": 37200,
         "sentiment": "negative"
     },
     {
@@ -568,7 +568,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 23600,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -577,7 +577,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 14600,
+        "streams": 34800,
         "sentiment": "negative"
     },
     {
@@ -586,7 +586,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 17000,
+        "streams": 35100,
         "sentiment": "negative"
     },
     {
@@ -595,7 +595,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 9100,
+        "streams": 48400,
         "sentiment": "negative"
     },
     {
@@ -604,7 +604,7 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 5700,
+        "streams": 21900,
         "sentiment": "negative"
     },
     {
@@ -614,7 +614,7 @@
             "අමරදේව ඩබ්ලිව්. ඩී.",
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 36000,
+        "streams": 48100,
         "sentiment": "negative"
     },
     {
@@ -623,7 +623,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 47100,
+        "streams": 19800,
         "sentiment": "negative"
     },
     {
@@ -632,7 +632,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 39100,
+        "streams": 19300,
         "sentiment": "negative"
     },
     {
@@ -641,7 +641,7 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 26800,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -650,7 +650,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 7900,
+        "streams": 35800,
         "sentiment": "negative"
     },
     {
@@ -659,7 +659,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 39000,
+        "streams": 6500,
         "sentiment": "negative"
     },
     {
@@ -668,7 +668,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 33900,
+        "streams": 17400,
         "sentiment": "negative"
     },
     {
@@ -677,7 +677,7 @@
         "singers": [
             "වායෝ"
         ],
-        "streams": 31900,
+        "streams": 42700,
         "sentiment": "negative"
     },
     {
@@ -686,7 +686,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 19100,
+        "streams": 45800,
         "sentiment": "negative"
     },
     {
@@ -695,7 +695,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 12100,
+        "streams": 44200,
         "sentiment": "negative"
     },
     {
@@ -704,7 +704,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 27300,
+        "streams": 23400,
         "sentiment": "negative"
     },
     {
@@ -713,7 +713,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 29100,
+        "streams": 17400,
         "sentiment": "negative"
     },
     {
@@ -722,7 +722,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 17500,
+        "streams": 27100,
         "sentiment": "negative"
     },
     {
@@ -731,7 +731,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 42600,
+        "streams": 49800,
         "sentiment": "negative"
     },
     {
@@ -740,7 +740,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 11100,
+        "streams": 24600,
         "sentiment": "negative"
     },
     {
@@ -749,7 +749,7 @@
         "singers": [
             "ඇන්ටන් ජෝන්ස්"
         ],
-        "streams": 39500,
+        "streams": 36700,
         "sentiment": "negative"
     },
     {
@@ -758,7 +758,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 14100,
+        "streams": 44700,
         "sentiment": "negative"
     },
     {
@@ -767,7 +767,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 13800,
+        "streams": 34600,
         "sentiment": "negative"
     },
     {
@@ -776,7 +776,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 41900,
+        "streams": 45800,
         "sentiment": "negative"
     },
     {
@@ -785,7 +785,7 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 24000,
+        "streams": 5100,
         "sentiment": "negative"
     },
     {
@@ -794,7 +794,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 19600,
+        "streams": 41000,
         "sentiment": "negative"
     },
     {
@@ -803,7 +803,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 32400,
+        "streams": 31200,
         "sentiment": "negative"
     },
     {
@@ -812,7 +812,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 48000,
+        "streams": 12000,
         "sentiment": "negative"
     },
     {
@@ -821,7 +821,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 8200,
+        "streams": 15800,
         "sentiment": "negative"
     },
     {
@@ -830,7 +830,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 45100,
+        "streams": 23500,
         "sentiment": "negative"
     },
     {
@@ -839,7 +839,7 @@
         "singers": [
             "දිමංක වෙල්ලලගේ"
         ],
-        "streams": 10300,
+        "streams": 5400,
         "sentiment": "negative"
     },
     {
@@ -848,7 +848,7 @@
         "singers": [
             "ලලිත් පොන්නප්පෙරුම"
         ],
-        "streams": 28200,
+        "streams": 6600,
         "sentiment": "negative"
     },
     {
@@ -857,7 +857,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 22000,
+        "streams": 14300,
         "sentiment": "negative"
     },
     {
@@ -866,7 +866,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 22700,
+        "streams": 6200,
         "sentiment": "negative"
     },
     {
@@ -875,7 +875,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 34200,
+        "streams": 43900,
         "sentiment": "negative"
     },
     {
@@ -885,7 +885,7 @@
             "එඩ්වඩ් ජයකොඩි",
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 44900,
+        "streams": 23900,
         "sentiment": "negative"
     },
     {
@@ -894,7 +894,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 38200,
+        "streams": 39500,
         "sentiment": "negative"
     },
     {
@@ -903,7 +903,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 6900,
+        "streams": 24200,
         "sentiment": "negative"
     },
     {
@@ -912,7 +912,7 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 30600,
+        "streams": 31500,
         "sentiment": "negative"
     },
     {
@@ -921,7 +921,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 44600,
+        "streams": 47600,
         "sentiment": "negative"
     },
     {
@@ -930,7 +930,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 17300,
+        "streams": 18400,
         "sentiment": "negative"
     },
     {
@@ -939,7 +939,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 19800,
+        "streams": 8500,
         "sentiment": "negative"
     },
     {
@@ -948,7 +948,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 36300,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -957,7 +957,7 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 20600,
+        "streams": 45800,
         "sentiment": "negative"
     },
     {
@@ -966,7 +966,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 6000,
+        "streams": 43600,
         "sentiment": "negative"
     },
     {
@@ -975,7 +975,7 @@
         "singers": [
             "තුෂාර සුභසිංහ"
         ],
-        "streams": 48000,
+        "streams": 11400,
         "sentiment": "negative"
     },
     {
@@ -984,7 +984,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 19000,
+        "streams": 39600,
         "sentiment": "negative"
     },
     {
@@ -993,7 +993,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 6500,
+        "streams": 40700,
         "sentiment": "negative"
     },
     {
@@ -1002,7 +1002,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 30100,
+        "streams": 13700,
         "sentiment": "negative"
     },
     {
@@ -1012,7 +1012,7 @@
             "නන්දා මාලනී",
             "ගුණදාස කපුගේ"
         ],
-        "streams": 17800,
+        "streams": 31900,
         "sentiment": "negative"
     },
     {
@@ -1021,7 +1021,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 35100,
+        "streams": 19600,
         "sentiment": "negative"
     },
     {
@@ -1030,7 +1030,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 12600,
+        "streams": 9100,
         "sentiment": "negative"
     },
     {
@@ -1039,7 +1039,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 25300,
+        "streams": 29500,
         "sentiment": "negative"
     },
     {
@@ -1048,7 +1048,7 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 49400,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -1057,7 +1057,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 40800,
+        "streams": 20500,
         "sentiment": "negative"
     },
     {
@@ -1067,7 +1067,7 @@
             "ෆන්කි ඩර්ට්",
             "මුර්ෂාර්ඩ් හුවයිස්"
         ],
-        "streams": 15400,
+        "streams": 14400,
         "sentiment": "positive"
     },
     {
@@ -1076,8 +1076,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 39800,
-        "sentiment": "negative"
+        "streams": 30900,
+        "sentiment": "positive"
     },
     {
         "title": "චංචල දෑසේ මායා",
@@ -1085,7 +1085,7 @@
         "singers": [
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 12200,
+        "streams": 31900,
         "sentiment": "negative"
     },
     {
@@ -1095,7 +1095,7 @@
             "නාරද දිසාසේකර",
             "මල්ලිකා කහවිට"
         ],
-        "streams": 25400,
+        "streams": 42700,
         "sentiment": "negative"
     },
     {
@@ -1104,8 +1104,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 13000,
-        "sentiment": "negative"
+        "streams": 37300,
+        "sentiment": "positive"
     },
     {
         "title": "චන්ද්‍ර මඬල",
@@ -1113,7 +1113,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37500,
+        "streams": 36000,
         "sentiment": "negative"
     },
     {
@@ -1122,7 +1122,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 20500,
+        "streams": 25600,
         "sentiment": "negative"
     },
     {
@@ -1131,7 +1131,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37800,
+        "streams": 20300,
         "sentiment": "negative"
     },
     {
@@ -1140,7 +1140,7 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 13100,
+        "streams": 8600,
         "sentiment": "negative"
     },
     {
@@ -1149,7 +1149,7 @@
         "singers": [
             "භාචි සුසාන්"
         ],
-        "streams": 42300,
+        "streams": 44800,
         "sentiment": "negative"
     },
     {
@@ -1158,7 +1158,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 16500,
+        "streams": 28800,
         "sentiment": "negative"
     },
     {
@@ -1167,7 +1167,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 37700,
+        "streams": 24100,
         "sentiment": "negative"
     },
     {
@@ -1176,7 +1176,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 34300,
+        "streams": 9700,
         "sentiment": "negative"
     },
     {
@@ -1185,7 +1185,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 10100,
+        "streams": 14300,
         "sentiment": "negative"
     },
     {
@@ -1194,7 +1194,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 28400,
+        "streams": 12300,
         "sentiment": "negative"
     },
     {
@@ -1203,7 +1203,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 24800,
+        "streams": 48800,
         "sentiment": "negative"
     },
     {
@@ -1212,7 +1212,7 @@
         "singers": [
             "ලක්ශ්මන් විජේසේකර"
         ],
-        "streams": 41900,
+        "streams": 15200,
         "sentiment": "negative"
     },
     {
@@ -1221,7 +1221,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 25500,
+        "streams": 22100,
         "sentiment": "negative"
     },
     {
@@ -1230,7 +1230,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 47000,
+        "streams": 42800,
         "sentiment": "negative"
     },
     {
@@ -1239,7 +1239,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 39200,
+        "streams": 35400,
         "sentiment": "negative"
     },
     {
@@ -1248,7 +1248,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 21900,
+        "streams": 20100,
         "sentiment": "negative"
     },
     {
@@ -1257,7 +1257,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 9100,
+        "streams": 7100,
         "sentiment": "negative"
     },
     {
@@ -1266,7 +1266,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 45500,
+        "streams": 25400,
         "sentiment": "negative"
     },
     {
@@ -1275,7 +1275,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 40200,
+        "streams": 26700,
         "sentiment": "negative"
     },
     {
@@ -1284,7 +1284,7 @@
         "singers": [
             "රොෂාන් ප්‍රනාන්දු"
         ],
-        "streams": 39600,
+        "streams": 12500,
         "sentiment": "negative"
     },
     {
@@ -1293,7 +1293,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 35900,
+        "streams": 27400,
         "sentiment": "negative"
     },
     {
@@ -1303,7 +1303,7 @@
             "මාලනී බුලත්සිංහල",
             "රෝහණ සිරිවර්ධන"
         ],
-        "streams": 42500,
+        "streams": 17700,
         "sentiment": "negative"
     },
     {
@@ -1312,7 +1312,7 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 21800,
+        "streams": 45200,
         "sentiment": "negative"
     },
     {
@@ -1321,7 +1321,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 27100,
+        "streams": 18500,
         "sentiment": "negative"
     },
     {
@@ -1330,7 +1330,7 @@
         "singers": [
             "නදීර නෝනිස්"
         ],
-        "streams": 33700,
+        "streams": 42500,
         "sentiment": "negative"
     },
     {
@@ -1339,7 +1339,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 34300,
+        "streams": 38600,
         "sentiment": "negative"
     },
     {
@@ -1348,7 +1348,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 46000,
+        "streams": 9000,
         "sentiment": "negative"
     },
     {
@@ -1357,7 +1357,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 12100,
+        "streams": 15000,
         "sentiment": "negative"
     },
     {
@@ -1366,7 +1366,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 49200,
+        "streams": 17800,
         "sentiment": "negative"
     },
     {
@@ -1375,7 +1375,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 8400,
+        "streams": 38600,
         "sentiment": "negative"
     },
     {
@@ -1384,7 +1384,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 32800,
+        "streams": 9600,
         "sentiment": "negative"
     },
     {
@@ -1393,7 +1393,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 26700,
+        "streams": 5800,
         "sentiment": "negative"
     },
     {
@@ -1402,7 +1402,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 31700,
+        "streams": 19100,
         "sentiment": "negative"
     },
     {
@@ -1411,7 +1411,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 34400,
+        "streams": 31500,
         "sentiment": "negative"
     },
     {
@@ -1420,7 +1420,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 30500,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -1429,7 +1429,7 @@
         "singers": [
             "ලලිත් පොන්නප්පෙරුම"
         ],
-        "streams": 20200,
+        "streams": 27000,
         "sentiment": "negative"
     },
     {
@@ -1438,7 +1438,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 19000,
+        "streams": 16500,
         "sentiment": "negative"
     },
     {
@@ -1447,7 +1447,7 @@
         "singers": [
             "ඇන්ජලින් ගුණතිලක"
         ],
-        "streams": 6000,
+        "streams": 32400,
         "sentiment": "negative"
     },
     {
@@ -1456,7 +1456,7 @@
         "singers": [
             "රෝහණ බෝගොඩ"
         ],
-        "streams": 32900,
+        "streams": 47100,
         "sentiment": "negative"
     },
     {
@@ -1465,7 +1465,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 22900,
+        "streams": 11000,
         "sentiment": "negative"
     },
     {
@@ -1474,7 +1474,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 15000,
+        "streams": 13800,
         "sentiment": "negative"
     },
     {
@@ -1483,7 +1483,7 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 14400,
+        "streams": 21900,
         "sentiment": "negative"
     },
     {
@@ -1492,7 +1492,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 49100,
+        "streams": 33700,
         "sentiment": "negative"
     },
     {
@@ -1501,7 +1501,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 27300,
+        "streams": 17100,
         "sentiment": "negative"
     },
     {
@@ -1510,7 +1510,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 31500,
+        "streams": 41600,
         "sentiment": "negative"
     },
     {
@@ -1519,7 +1519,7 @@
         "singers": [
             "අමිල පෙරේරා"
         ],
-        "streams": 26100,
+        "streams": 13100,
         "sentiment": "negative"
     },
     {
@@ -1528,7 +1528,7 @@
         "singers": [
             "අරුණ තමෙල්"
         ],
-        "streams": 28700,
+        "streams": 37500,
         "sentiment": "negative"
     },
     {
@@ -1537,7 +1537,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 18300,
+        "streams": 24300,
         "sentiment": "negative"
     },
     {
@@ -1546,7 +1546,7 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 24500,
+        "streams": 18100,
         "sentiment": "negative"
     },
     {
@@ -1555,7 +1555,7 @@
         "singers": [
             "ඉන්ද්‍රජිත් දොලමුල්ල"
         ],
-        "streams": 47900,
+        "streams": 38800,
         "sentiment": "negative"
     },
     {
@@ -1564,7 +1564,7 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 41700,
+        "streams": 23400,
         "sentiment": "negative"
     },
     {
@@ -1573,7 +1573,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 29800,
+        "streams": 24100,
         "sentiment": "negative"
     },
     {
@@ -1582,7 +1582,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 24500,
+        "streams": 28200,
         "sentiment": "negative"
     },
     {
@@ -1591,7 +1591,7 @@
         "singers": [
             "ෆන්කි ඩර්ට්"
         ],
-        "streams": 11100,
+        "streams": 34200,
         "sentiment": "positive"
     },
     {
@@ -1600,7 +1600,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 12600,
+        "streams": 34400,
         "sentiment": "negative"
     },
     {
@@ -1609,7 +1609,7 @@
         "singers": [
             "පුන්සිරි සොයිසා"
         ],
-        "streams": 32100,
+        "streams": 29000,
         "sentiment": "negative"
     },
     {
@@ -1618,7 +1618,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 43300,
+        "streams": 14900,
         "sentiment": "negative"
     },
     {
@@ -1627,7 +1627,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 11300,
+        "streams": 38900,
         "sentiment": "negative"
     },
     {
@@ -1636,7 +1636,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 21700,
+        "streams": 16200,
         "sentiment": "negative"
     },
     {
@@ -1645,7 +1645,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 13500,
+        "streams": 39600,
         "sentiment": "negative"
     },
     {
@@ -1654,7 +1654,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 28700,
+        "streams": 26400,
         "sentiment": "negative"
     },
     {
@@ -1663,7 +1663,7 @@
         "singers": [
             "වසන්තා තිලකාංගනී"
         ],
-        "streams": 43700,
+        "streams": 31900,
         "sentiment": "negative"
     },
     {
@@ -1672,7 +1672,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 5100,
+        "streams": 23000,
         "sentiment": "negative"
     },
     {
@@ -1681,7 +1681,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 24800,
+        "streams": 47000,
         "sentiment": "negative"
     },
     {
@@ -1690,7 +1690,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 14100,
+        "streams": 19500,
         "sentiment": "negative"
     },
     {
@@ -1699,7 +1699,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 43200,
+        "streams": 39300,
         "sentiment": "negative"
     },
     {
@@ -1708,7 +1708,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 36500,
+        "streams": 18700,
         "sentiment": "negative"
     },
     {
@@ -1717,7 +1717,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 20600,
+        "streams": 34300,
         "sentiment": "negative"
     },
     {
@@ -1726,7 +1726,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 24400,
+        "streams": 29500,
         "sentiment": "negative"
     },
     {
@@ -1735,7 +1735,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 30300,
+        "streams": 9200,
         "sentiment": "negative"
     },
     {
@@ -1744,7 +1744,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 40100,
+        "streams": 24100,
         "sentiment": "negative"
     },
     {
@@ -1753,7 +1753,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 39600,
+        "streams": 27000,
         "sentiment": "negative"
     },
     {
@@ -1762,7 +1762,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 5900,
+        "streams": 15500,
         "sentiment": "negative"
     },
     {
@@ -1771,7 +1771,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 24500,
+        "streams": 18000,
         "sentiment": "negative"
     },
     {
@@ -1780,7 +1780,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 14700,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -1789,7 +1789,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 23000,
+        "streams": 24200,
         "sentiment": "negative"
     },
     {
@@ -1798,7 +1798,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 22600,
+        "streams": 47300,
         "sentiment": "negative"
     },
     {
@@ -1807,7 +1807,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 9800,
+        "streams": 23400,
         "sentiment": "negative"
     },
     {
@@ -1816,7 +1816,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 31000,
+        "streams": 16800,
         "sentiment": "negative"
     },
     {
@@ -1825,7 +1825,7 @@
         "singers": [
             "රදීශ් වැන්දබෝනා"
         ],
-        "streams": 35000,
+        "streams": 18700,
         "sentiment": "negative"
     },
     {
@@ -1834,7 +1834,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 18600,
+        "streams": 40500,
         "sentiment": "negative"
     },
     {
@@ -1844,7 +1844,7 @@
             "ඇන්ජලින් ගුණතිලක",
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 31700,
+        "streams": 27400,
         "sentiment": "negative"
     },
     {
@@ -1853,7 +1853,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 9600,
+        "streams": 26100,
         "sentiment": "negative"
     },
     {
@@ -1862,7 +1862,7 @@
         "singers": [
             "විරාජ් පෙරේරා"
         ],
-        "streams": 24200,
+        "streams": 43200,
         "sentiment": "negative"
     },
     {
@@ -1871,7 +1871,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 10000,
+        "streams": 6400,
         "sentiment": "negative"
     },
     {
@@ -1880,7 +1880,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 11300,
+        "streams": 26100,
         "sentiment": "negative"
     },
     {
@@ -1889,7 +1889,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 18000,
+        "streams": 27700,
         "sentiment": "negative"
     },
     {
@@ -1898,7 +1898,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 16800,
+        "streams": 22900,
         "sentiment": "negative"
     },
     {
@@ -1907,7 +1907,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 43300,
+        "streams": 47400,
         "sentiment": "negative"
     },
     {
@@ -1916,7 +1916,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 10000,
+        "streams": 34500,
         "sentiment": "negative"
     },
     {
@@ -1925,7 +1925,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 26300,
+        "streams": 11000,
         "sentiment": "negative"
     },
     {
@@ -1934,7 +1934,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 28100,
+        "streams": 31700,
         "sentiment": "negative"
     },
     {
@@ -1943,7 +1943,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 13900,
+        "streams": 26200,
         "sentiment": "negative"
     },
     {
@@ -1952,7 +1952,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 5500,
+        "streams": 12100,
         "sentiment": "negative"
     },
     {
@@ -1961,7 +1961,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 18600,
+        "streams": 36300,
         "sentiment": "negative"
     },
     {
@@ -1970,7 +1970,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 14100,
+        "streams": 17100,
         "sentiment": "negative"
     },
     {
@@ -1979,7 +1979,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 22100,
+        "streams": 32200,
         "sentiment": "negative"
     },
     {
@@ -1988,7 +1988,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 9400,
+        "streams": 6100,
         "sentiment": "negative"
     },
     {
@@ -1997,7 +1997,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 10500,
+        "streams": 17400,
         "sentiment": "negative"
     },
     {
@@ -2006,7 +2006,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 12500,
+        "streams": 32400,
         "sentiment": "negative"
     },
     {
@@ -2015,7 +2015,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 20500,
+        "streams": 38000,
         "sentiment": "negative"
     },
     {
@@ -2024,7 +2024,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 26700,
+        "streams": 38300,
         "sentiment": "negative"
     },
     {
@@ -2033,7 +2033,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43000,
+        "streams": 40600,
         "sentiment": "negative"
     },
     {
@@ -2042,7 +2042,7 @@
         "singers": [
             "අමිල පෙරේරා"
         ],
-        "streams": 14400,
+        "streams": 40000,
         "sentiment": "negative"
     },
     {
@@ -2051,7 +2051,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 23400,
+        "streams": 38700,
         "sentiment": "negative"
     },
     {
@@ -2060,7 +2060,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 36500,
+        "streams": 13300,
         "sentiment": "negative"
     },
     {
@@ -2069,7 +2069,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 18400,
+        "streams": 12200,
         "sentiment": "negative"
     },
     {
@@ -2078,7 +2078,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 37200,
+        "streams": 13300,
         "sentiment": "negative"
     },
     {
@@ -2087,7 +2087,7 @@
         "singers": [
             "චාමික සිරිමාන්න"
         ],
-        "streams": 33600,
+        "streams": 18300,
         "sentiment": "negative"
     },
     {
@@ -2096,7 +2096,7 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 6000,
+        "streams": 24300,
         "sentiment": "negative"
     },
     {
@@ -2105,7 +2105,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 30400,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -2114,7 +2114,7 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 18700,
+        "streams": 10400,
         "sentiment": "negative"
     },
     {
@@ -2123,8 +2123,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 8000,
-        "sentiment": "negative"
+        "streams": 47500,
+        "sentiment": "positive"
     },
     {
         "title": "ඉකි ගසා හඬන",
@@ -2132,7 +2132,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 8200,
+        "streams": 38600,
         "sentiment": "negative"
     },
     {
@@ -2141,7 +2141,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 26500,
+        "streams": 34500,
         "sentiment": "negative"
     },
     {
@@ -2150,7 +2150,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23800,
+        "streams": 5400,
         "sentiment": "negative"
     },
     {
@@ -2159,7 +2159,7 @@
         "singers": [
             "ඉන්ද්‍රාණි පෙරේරා"
         ],
-        "streams": 9500,
+        "streams": 28700,
         "sentiment": "negative"
     },
     {
@@ -2168,7 +2168,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15700,
+        "streams": 40000,
         "sentiment": "negative"
     },
     {
@@ -2178,7 +2178,7 @@
             "නදීක ගුරුගේ",
             "තුෂාර ගල්ලැස්සගේ"
         ],
-        "streams": 26500,
+        "streams": 5600,
         "sentiment": "negative"
     },
     {
@@ -2187,7 +2187,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 49900,
+        "streams": 36700,
         "sentiment": "negative"
     },
     {
@@ -2196,7 +2196,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37600,
+        "streams": 38500,
         "sentiment": "negative"
     },
     {
@@ -2206,7 +2206,7 @@
             "ඉන්ද්‍රචාපා ලියනගේ",
             "කසුන් කල්හාර"
         ],
-        "streams": 6400,
+        "streams": 8600,
         "sentiment": "negative"
     },
     {
@@ -2215,7 +2215,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 44400,
+        "streams": 16400,
         "sentiment": "negative"
     },
     {
@@ -2224,7 +2224,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 30700,
+        "streams": 22600,
         "sentiment": "negative"
     },
     {
@@ -2233,7 +2233,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 31700,
+        "streams": 21000,
         "sentiment": "negative"
     },
     {
@@ -2242,7 +2242,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 32600,
+        "streams": 24000,
         "sentiment": "negative"
     },
     {
@@ -2252,7 +2252,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 21600,
+        "streams": 33000,
         "sentiment": "negative"
     },
     {
@@ -2261,7 +2261,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 17700,
+        "streams": 30400,
         "sentiment": "negative"
     },
     {
@@ -2270,7 +2270,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 30900,
+        "streams": 28300,
         "sentiment": "negative"
     },
     {
@@ -2279,7 +2279,7 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 14900,
+        "streams": 22200,
         "sentiment": "negative"
     },
     {
@@ -2288,7 +2288,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 41300,
+        "streams": 48500,
         "sentiment": "negative"
     },
     {
@@ -2297,7 +2297,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 28300,
+        "streams": 24000,
         "sentiment": "negative"
     },
     {
@@ -2306,7 +2306,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 6100,
+        "streams": 33000,
         "sentiment": "negative"
     },
     {
@@ -2315,7 +2315,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 29900,
+        "streams": 33400,
         "sentiment": "negative"
     },
     {
@@ -2324,7 +2324,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 24400,
+        "streams": 31900,
         "sentiment": "negative"
     },
     {
@@ -2333,7 +2333,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 10100,
+        "streams": 17700,
         "sentiment": "negative"
     },
     {
@@ -2342,7 +2342,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 34200,
+        "streams": 38800,
         "sentiment": "negative"
     },
     {
@@ -2351,7 +2351,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 25600,
+        "streams": 36300,
         "sentiment": "negative"
     },
     {
@@ -2360,7 +2360,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 14900,
+        "streams": 23700,
         "sentiment": "negative"
     },
     {
@@ -2369,7 +2369,7 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 16500,
+        "streams": 11300,
         "sentiment": "negative"
     },
     {
@@ -2378,7 +2378,7 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 11500,
+        "streams": 40100,
         "sentiment": "negative"
     },
     {
@@ -2387,7 +2387,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 8900,
+        "streams": 20900,
         "sentiment": "negative"
     },
     {
@@ -2396,7 +2396,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 29100,
+        "streams": 35600,
         "sentiment": "negative"
     },
     {
@@ -2405,7 +2405,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 48400,
+        "streams": 38900,
         "sentiment": "negative"
     },
     {
@@ -2414,7 +2414,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 44800,
+        "streams": 43300,
         "sentiment": "negative"
     },
     {
@@ -2423,7 +2423,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 45900,
+        "streams": 40500,
         "sentiment": "negative"
     },
     {
@@ -2432,7 +2432,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 38700,
+        "streams": 36700,
         "sentiment": "negative"
     },
     {
@@ -2441,7 +2441,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 39700,
+        "streams": 36900,
         "sentiment": "negative"
     },
     {
@@ -2450,7 +2450,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 33000,
+        "streams": 28700,
         "sentiment": "negative"
     },
     {
@@ -2459,7 +2459,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 17300,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -2468,7 +2468,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 45400,
+        "streams": 35700,
         "sentiment": "negative"
     },
     {
@@ -2477,7 +2477,7 @@
         "singers": [
             "උදය ශ්‍රී වික්‍රමසිංහ"
         ],
-        "streams": 5000,
+        "streams": 45900,
         "sentiment": "negative"
     },
     {
@@ -2486,7 +2486,7 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 29500,
+        "streams": 16700,
         "sentiment": "negative"
     },
     {
@@ -2495,7 +2495,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 21000,
+        "streams": 30100,
         "sentiment": "negative"
     },
     {
@@ -2504,7 +2504,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 35200,
+        "streams": 21300,
         "sentiment": "negative"
     },
     {
@@ -2513,7 +2513,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 7200,
+        "streams": 35600,
         "sentiment": "negative"
     },
     {
@@ -2522,7 +2522,7 @@
         "singers": [
             "හෙලන් අත්තනායක"
         ],
-        "streams": 15400,
+        "streams": 44700,
         "sentiment": "negative"
     },
     {
@@ -2531,7 +2531,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 28600,
+        "streams": 40300,
         "sentiment": "negative"
     },
     {
@@ -2540,8 +2540,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 49900,
-        "sentiment": "negative"
+        "streams": 14300,
+        "sentiment": "positive"
     },
     {
         "title": "කවිය ඔබ",
@@ -2549,7 +2549,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 49800,
+        "streams": 48200,
         "sentiment": "negative"
     },
     {
@@ -2558,7 +2558,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 32500,
+        "streams": 32300,
         "sentiment": "negative"
     },
     {
@@ -2567,7 +2567,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 28200,
+        "streams": 47400,
         "sentiment": "negative"
     },
     {
@@ -2576,7 +2576,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 9600,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -2585,7 +2585,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 22200,
+        "streams": 30300,
         "sentiment": "negative"
     },
     {
@@ -2594,7 +2594,7 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 47000,
+        "streams": 6300,
         "sentiment": "negative"
     },
     {
@@ -2603,7 +2603,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 37200,
+        "streams": 38100,
         "sentiment": "negative"
     },
     {
@@ -2612,7 +2612,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 20200,
+        "streams": 28300,
         "sentiment": "negative"
     },
     {
@@ -2621,7 +2621,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 35500,
+        "streams": 31800,
         "sentiment": "negative"
     },
     {
@@ -2630,7 +2630,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 31200,
+        "streams": 29600,
         "sentiment": "negative"
     },
     {
@@ -2639,7 +2639,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 49600,
+        "streams": 30800,
         "sentiment": "negative"
     },
     {
@@ -2648,7 +2648,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 37200,
+        "streams": 18000,
         "sentiment": "negative"
     },
     {
@@ -2657,7 +2657,7 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 32700,
+        "streams": 24700,
         "sentiment": "negative"
     },
     {
@@ -2666,7 +2666,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 40300,
+        "streams": 44500,
         "sentiment": "negative"
     },
     {
@@ -2675,7 +2675,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 6900,
+        "streams": 9200,
         "sentiment": "negative"
     },
     {
@@ -2684,7 +2684,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 6600,
+        "streams": 36100,
         "sentiment": "negative"
     },
     {
@@ -2693,7 +2693,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23000,
+        "streams": 33900,
         "sentiment": "negative"
     },
     {
@@ -2702,7 +2702,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 12900,
+        "streams": 21800,
         "sentiment": "negative"
     },
     {
@@ -2711,7 +2711,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 24200,
+        "streams": 21000,
         "sentiment": "negative"
     },
     {
@@ -2720,7 +2720,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 39500,
+        "streams": 48100,
         "sentiment": "negative"
     },
     {
@@ -2729,7 +2729,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 31100,
+        "streams": 18900,
         "sentiment": "negative"
     },
     {
@@ -2738,7 +2738,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 15600,
+        "streams": 32200,
         "sentiment": "negative"
     },
     {
@@ -2747,7 +2747,7 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 15000,
+        "streams": 37000,
         "sentiment": "negative"
     },
     {
@@ -2756,7 +2756,7 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 16400,
+        "streams": 40600,
         "sentiment": "negative"
     },
     {
@@ -2765,7 +2765,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 44700,
+        "streams": 46400,
         "sentiment": "negative"
     },
     {
@@ -2774,7 +2774,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 41700,
+        "streams": 17200,
         "sentiment": "negative"
     },
     {
@@ -2783,7 +2783,7 @@
         "singers": [
             "නොයෙල් රාජ්"
         ],
-        "streams": 10300,
+        "streams": 45700,
         "sentiment": "negative"
     },
     {
@@ -2792,7 +2792,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 37500,
+        "streams": 9800,
         "sentiment": "negative"
     },
     {
@@ -2801,7 +2801,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 46900,
+        "streams": 36100,
         "sentiment": "negative"
     },
     {
@@ -2810,7 +2810,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 44300,
+        "streams": 11600,
         "sentiment": "negative"
     },
     {
@@ -2819,7 +2819,7 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 12100,
+        "streams": 48100,
         "sentiment": "negative"
     },
     {
@@ -2828,7 +2828,7 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 35800,
+        "streams": 38600,
         "sentiment": "negative"
     },
     {
@@ -2837,7 +2837,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 11000,
+        "streams": 35900,
         "sentiment": "negative"
     },
     {
@@ -2846,7 +2846,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 12000,
+        "streams": 24300,
         "sentiment": "negative"
     },
     {
@@ -2855,7 +2855,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 42900,
+        "streams": 12600,
         "sentiment": "negative"
     },
     {
@@ -2864,7 +2864,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 16400,
+        "streams": 22800,
         "sentiment": "negative"
     },
     {
@@ -2873,7 +2873,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 18400,
+        "streams": 39100,
         "sentiment": "negative"
     },
     {
@@ -2882,7 +2882,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 10800,
+        "streams": 22700,
         "sentiment": "negative"
     },
     {
@@ -2891,7 +2891,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 5600,
+        "streams": 30000,
         "sentiment": "negative"
     },
     {
@@ -2900,7 +2900,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 41800,
+        "streams": 7400,
         "sentiment": "negative"
     },
     {
@@ -2909,7 +2909,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 9800,
+        "streams": 47500,
         "sentiment": "negative"
     },
     {
@@ -2918,7 +2918,7 @@
         "singers": [
             "සාරංග දිසාසේකර"
         ],
-        "streams": 30700,
+        "streams": 36100,
         "sentiment": "negative"
     },
     {
@@ -2927,7 +2927,7 @@
         "singers": [
             "ග්‍රේෂන් ජයමහ"
         ],
-        "streams": 20800,
+        "streams": 46600,
         "sentiment": "negative"
     },
     {
@@ -2936,7 +2936,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 5200,
+        "streams": 9700,
         "sentiment": "negative"
     },
     {
@@ -2945,7 +2945,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43100,
+        "streams": 10600,
         "sentiment": "negative"
     },
     {
@@ -2954,7 +2954,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 38300,
+        "streams": 34100,
         "sentiment": "negative"
     },
     {
@@ -2963,7 +2963,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 46400,
+        "streams": 48300,
         "sentiment": "negative"
     },
     {
@@ -2972,7 +2972,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 43000,
+        "streams": 21500,
         "sentiment": "negative"
     },
     {
@@ -2981,7 +2981,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 29400,
+        "streams": 16600,
         "sentiment": "negative"
     },
     {
@@ -2990,7 +2990,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 7300,
+        "streams": 6100,
         "sentiment": "negative"
     },
     {
@@ -2999,7 +2999,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 46900,
+        "streams": 7900,
         "sentiment": "negative"
     },
     {
@@ -3009,7 +3009,7 @@
             "ජයරත්න ටී. එම්.",
             "ලතා වල්පොල"
         ],
-        "streams": 11800,
+        "streams": 39000,
         "sentiment": "negative"
     },
     {
@@ -3018,7 +3018,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 26800,
+        "streams": 23100,
         "sentiment": "negative"
     },
     {
@@ -3027,7 +3027,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 41200,
+        "streams": 32200,
         "sentiment": "negative"
     },
     {
@@ -3036,7 +3036,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 37400,
+        "streams": 12600,
         "sentiment": "negative"
     },
     {
@@ -3045,7 +3045,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 42700,
+        "streams": 23000,
         "sentiment": "negative"
     },
     {
@@ -3054,7 +3054,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 23400,
+        "streams": 47000,
         "sentiment": "negative"
     },
     {
@@ -3064,7 +3064,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 8300,
+        "streams": 33700,
         "sentiment": "negative"
     },
     {
@@ -3073,7 +3073,7 @@
         "singers": [
             "ධර්මදාස වල්පොල"
         ],
-        "streams": 35100,
+        "streams": 30600,
         "sentiment": "negative"
     },
     {
@@ -3082,7 +3082,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 29600,
+        "streams": 39100,
         "sentiment": "negative"
     },
     {
@@ -3091,7 +3091,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 12500,
+        "streams": 35400,
         "sentiment": "negative"
     },
     {
@@ -3100,7 +3100,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 37900,
+        "streams": 38200,
         "sentiment": "negative"
     },
     {
@@ -3109,7 +3109,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 15200,
+        "streams": 39400,
         "sentiment": "negative"
     },
     {
@@ -3118,7 +3118,7 @@
         "singers": [
             "ඉන්ද්‍රාණි පෙරේරා"
         ],
-        "streams": 5400,
+        "streams": 32400,
         "sentiment": "negative"
     },
     {
@@ -3127,7 +3127,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 27500,
+        "streams": 49700,
         "sentiment": "negative"
     },
     {
@@ -3136,7 +3136,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 9500,
+        "streams": 47100,
         "sentiment": "negative"
     },
     {
@@ -3145,7 +3145,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 19700,
+        "streams": 13900,
         "sentiment": "negative"
     },
     {
@@ -3154,7 +3154,7 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 46700,
+        "streams": 24900,
         "sentiment": "negative"
     },
     {
@@ -3163,7 +3163,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 21300,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -3172,7 +3172,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 13800,
+        "streams": 12000,
         "sentiment": "negative"
     },
     {
@@ -3181,8 +3181,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 10600,
-        "sentiment": "negative"
+        "streams": 31700,
+        "sentiment": "positive"
     },
     {
         "title": "මගේ වෙලා ළඟ උන්නු ඔයා",
@@ -3190,7 +3190,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 37700,
+        "streams": 22500,
         "sentiment": "negative"
     },
     {
@@ -3199,7 +3199,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 25900,
+        "streams": 11100,
         "sentiment": "negative"
     },
     {
@@ -3208,7 +3208,7 @@
         "singers": [
             "නොයෙල් රාජ්"
         ],
-        "streams": 7200,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -3217,7 +3217,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 44400,
+        "streams": 34000,
         "sentiment": "negative"
     },
     {
@@ -3226,7 +3226,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8900,
+        "streams": 43800,
         "sentiment": "negative"
     },
     {
@@ -3235,7 +3235,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 28000,
+        "streams": 6300,
         "sentiment": "negative"
     },
     {
@@ -3244,7 +3244,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 46500,
+        "streams": 20300,
         "sentiment": "negative"
     },
     {
@@ -3253,7 +3253,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 22800,
+        "streams": 48100,
         "sentiment": "negative"
     },
     {
@@ -3262,7 +3262,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 38100,
+        "streams": 14100,
         "sentiment": "negative"
     },
     {
@@ -3271,7 +3271,7 @@
         "singers": [
             "සුනිල් ශාන්ත"
         ],
-        "streams": 26800,
+        "streams": 15700,
         "sentiment": "negative"
     },
     {
@@ -3280,7 +3280,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 8500,
+        "streams": 5000,
         "sentiment": "negative"
     },
     {
@@ -3289,7 +3289,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 32200,
+        "streams": 46900,
         "sentiment": "negative"
     },
     {
@@ -3298,7 +3298,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 39000,
+        "streams": 6200,
         "sentiment": "negative"
     },
     {
@@ -3307,7 +3307,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 42600,
+        "streams": 15400,
         "sentiment": "negative"
     },
     {
@@ -3316,7 +3316,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 41900,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -3325,7 +3325,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 44600,
+        "streams": 20300,
         "sentiment": "negative"
     },
     {
@@ -3334,7 +3334,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8900,
+        "streams": 36600,
         "sentiment": "negative"
     },
     {
@@ -3343,7 +3343,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 5700,
+        "streams": 20900,
         "sentiment": "negative"
     },
     {
@@ -3352,7 +3352,7 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 38200,
+        "streams": 31300,
         "sentiment": "negative"
     },
     {
@@ -3361,7 +3361,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 25500,
+        "streams": 31100,
         "sentiment": "negative"
     },
     {
@@ -3370,7 +3370,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35200,
+        "streams": 34500,
         "sentiment": "negative"
     },
     {
@@ -3379,7 +3379,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 6400,
+        "streams": 11800,
         "sentiment": "negative"
     },
     {
@@ -3388,7 +3388,7 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 25500,
+        "streams": 26900,
         "sentiment": "negative"
     },
     {
@@ -3398,7 +3398,7 @@
             "මාලනී බුලත්සිංහල",
             "ගුණදාස කපුගේ"
         ],
-        "streams": 33600,
+        "streams": 29700,
         "sentiment": "negative"
     },
     {
@@ -3407,7 +3407,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 49700,
+        "streams": 35500,
         "sentiment": "negative"
     },
     {
@@ -3416,7 +3416,7 @@
         "singers": [
             "ජගත් වික්‍රමසිංහ"
         ],
-        "streams": 27400,
+        "streams": 20300,
         "sentiment": "negative"
     },
     {
@@ -3426,7 +3426,7 @@
             "චන්ද්‍රලේකා පෙරේරා",
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 20900,
+        "streams": 41300,
         "sentiment": "negative"
     },
     {
@@ -3435,7 +3435,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 34100,
+        "streams": 28600,
         "sentiment": "negative"
     },
     {
@@ -3444,7 +3444,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 18500,
+        "streams": 28900,
         "sentiment": "negative"
     },
     {
@@ -3453,7 +3453,7 @@
         "singers": [
             "ඇන්ජලින් ගුණතිලක"
         ],
-        "streams": 26100,
+        "streams": 16300,
         "sentiment": "negative"
     },
     {
@@ -3462,7 +3462,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 30200,
+        "streams": 35600,
         "sentiment": "negative"
     },
     {
@@ -3471,7 +3471,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 16000,
+        "streams": 11500,
         "sentiment": "negative"
     },
     {
@@ -3481,7 +3481,7 @@
             "රූකාන්ත ගුණතිලක",
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 44200,
+        "streams": 39200,
         "sentiment": "negative"
     },
     {
@@ -3490,7 +3490,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 27600,
+        "streams": 25100,
         "sentiment": "negative"
     },
     {
@@ -3499,7 +3499,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 40500,
+        "streams": 48000,
         "sentiment": "negative"
     },
     {
@@ -3509,7 +3509,7 @@
             "සෙනුරි",
             "ජීවන්ත හේවාබන්දු"
         ],
-        "streams": 34300,
+        "streams": 25500,
         "sentiment": "negative"
     },
     {
@@ -3518,7 +3518,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 46500,
+        "streams": 19200,
         "sentiment": "negative"
     },
     {
@@ -3527,7 +3527,7 @@
         "singers": [
             "ප්‍රියංකා ගමගේ"
         ],
-        "streams": 13100,
+        "streams": 39500,
         "sentiment": "negative"
     },
     {
@@ -3536,7 +3536,7 @@
         "singers": [
             "නිර්මලා රණතුංග"
         ],
-        "streams": 29400,
+        "streams": 13900,
         "sentiment": "negative"
     },
     {
@@ -3545,7 +3545,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 40100,
+        "streams": 5400,
         "sentiment": "negative"
     },
     {
@@ -3554,7 +3554,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 32600,
+        "streams": 37500,
         "sentiment": "negative"
     },
     {
@@ -3563,7 +3563,7 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 38900,
+        "streams": 25600,
         "sentiment": "negative"
     },
     {
@@ -3573,7 +3573,7 @@
             "මිල්ටන් මල්ලවාරච්චි",
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 26700,
+        "streams": 8500,
         "sentiment": "negative"
     },
     {
@@ -3582,7 +3582,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 23100,
+        "streams": 12800,
         "sentiment": "negative"
     },
     {
@@ -3591,7 +3591,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 42000,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -3600,7 +3600,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 46200,
+        "streams": 44100,
         "sentiment": "negative"
     },
     {
@@ -3609,7 +3609,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 14500,
+        "streams": 49100,
         "sentiment": "negative"
     },
     {
@@ -3618,7 +3618,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 27500,
+        "streams": 19300,
         "sentiment": "negative"
     },
     {
@@ -3627,7 +3627,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 15400,
+        "streams": 32900,
         "sentiment": "negative"
     },
     {
@@ -3636,7 +3636,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 30300,
+        "streams": 47200,
         "sentiment": "negative"
     },
     {
@@ -3645,7 +3645,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 17300,
+        "streams": 43500,
         "sentiment": "negative"
     },
     {
@@ -3654,7 +3654,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 29500,
+        "streams": 44500,
         "sentiment": "negative"
     },
     {
@@ -3663,7 +3663,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 8300,
+        "streams": 49700,
         "sentiment": "negative"
     },
     {
@@ -3672,7 +3672,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 18100,
+        "streams": 7300,
         "sentiment": "negative"
     },
     {
@@ -3681,8 +3681,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 42300,
-        "sentiment": "negative"
+        "streams": 28200,
+        "sentiment": "positive"
     },
     {
         "title": "මීන නුවන් යුග",
@@ -3690,7 +3690,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 13600,
+        "streams": 42200,
         "sentiment": "negative"
     },
     {
@@ -3699,7 +3699,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 35000,
+        "streams": 37600,
         "sentiment": "negative"
     },
     {
@@ -3708,7 +3708,7 @@
         "singers": [
             "මොරිස් දහනායක"
         ],
-        "streams": 7100,
+        "streams": 49700,
         "sentiment": "negative"
     },
     {
@@ -3717,7 +3717,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 9400,
+        "streams": 43400,
         "sentiment": "negative"
     },
     {
@@ -3726,7 +3726,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 29600,
+        "streams": 36400,
         "sentiment": "negative"
     },
     {
@@ -3735,7 +3735,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 46100,
+        "streams": 37500,
         "sentiment": "negative"
     },
     {
@@ -3744,7 +3744,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 28800,
+        "streams": 23700,
         "sentiment": "negative"
     },
     {
@@ -3753,7 +3753,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 45700,
+        "streams": 36000,
         "sentiment": "negative"
     },
     {
@@ -3762,7 +3762,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 12500,
+        "streams": 11000,
         "sentiment": "negative"
     },
     {
@@ -3771,7 +3771,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 41600,
+        "streams": 13300,
         "sentiment": "negative"
     },
     {
@@ -3780,7 +3780,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 24800,
+        "streams": 35000,
         "sentiment": "negative"
     },
     {
@@ -3789,7 +3789,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 34800,
+        "streams": 39100,
         "sentiment": "negative"
     },
     {
@@ -3798,7 +3798,7 @@
         "singers": [
             "චිත්රාල් සෝමපාල"
         ],
-        "streams": 39900,
+        "streams": 13400,
         "sentiment": "negative"
     },
     {
@@ -3807,7 +3807,7 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 18700,
+        "streams": 12400,
         "sentiment": "negative"
     },
     {
@@ -3816,7 +3816,7 @@
         "singers": [
             "ප්‍රිහාන් මඩප්පුලි"
         ],
-        "streams": 6100,
+        "streams": 22100,
         "sentiment": "negative"
     },
     {
@@ -3825,7 +3825,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 32100,
+        "streams": 18700,
         "sentiment": "negative"
     },
     {
@@ -3834,7 +3834,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 9500,
+        "streams": 24700,
         "sentiment": "negative"
     },
     {
@@ -3843,7 +3843,7 @@
         "singers": [
             "රෝහණ වීරසිංහ"
         ],
-        "streams": 45200,
+        "streams": 11600,
         "sentiment": "negative"
     },
     {
@@ -3852,7 +3852,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 16800,
+        "streams": 32000,
         "sentiment": "negative"
     },
     {
@@ -3862,7 +3862,7 @@
             "දීපිකා ප්‍රියදර්ශනී",
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 37300,
+        "streams": 39900,
         "sentiment": "negative"
     },
     {
@@ -3871,7 +3871,7 @@
         "singers": [
             "මධුමාධව අරවින්ද"
         ],
-        "streams": 21600,
+        "streams": 18100,
         "sentiment": "negative"
     },
     {
@@ -3880,7 +3880,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 47400,
+        "streams": 26100,
         "sentiment": "negative"
     },
     {
@@ -3889,7 +3889,7 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 39700,
+        "streams": 21500,
         "sentiment": "negative"
     },
     {
@@ -3898,7 +3898,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 8200,
+        "streams": 38400,
         "sentiment": "negative"
     },
     {
@@ -3907,7 +3907,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 25000,
+        "streams": 10200,
         "sentiment": "negative"
     },
     {
@@ -3916,7 +3916,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 23400,
+        "streams": 35700,
         "sentiment": "negative"
     },
     {
@@ -3925,7 +3925,7 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 6300,
+        "streams": 14300,
         "sentiment": "negative"
     },
     {
@@ -3934,7 +3934,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 15200,
+        "streams": 27100,
         "sentiment": "negative"
     },
     {
@@ -3943,7 +3943,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 30400,
+        "streams": 13600,
         "sentiment": "negative"
     },
     {
@@ -3952,7 +3952,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 31300,
+        "streams": 40600,
         "sentiment": "negative"
     },
     {
@@ -3961,7 +3961,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 10500,
+        "streams": 42000,
         "sentiment": "negative"
     },
     {
@@ -3970,7 +3970,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 22600,
+        "streams": 36800,
         "sentiment": "negative"
     },
     {
@@ -3979,7 +3979,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 20000,
+        "streams": 9600,
         "sentiment": "negative"
     },
     {
@@ -3988,7 +3988,7 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 41100,
+        "streams": 43700,
         "sentiment": "negative"
     },
     {
@@ -3997,7 +3997,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 31200,
+        "streams": 31000,
         "sentiment": "negative"
     },
     {
@@ -4006,7 +4006,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 36200,
+        "streams": 30200,
         "sentiment": "negative"
     },
     {
@@ -4016,7 +4016,7 @@
             "ඉන්ද්‍රචාපා ලියනගේ",
             "කසුන් කල්හාර"
         ],
-        "streams": 38600,
+        "streams": 42500,
         "sentiment": "negative"
     },
     {
@@ -4025,7 +4025,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 19400,
+        "streams": 31100,
         "sentiment": "negative"
     },
     {
@@ -4034,7 +4034,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 14600,
+        "streams": 44000,
         "sentiment": "negative"
     },
     {
@@ -4043,7 +4043,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 17300,
+        "streams": 6800,
         "sentiment": "negative"
     },
     {
@@ -4052,7 +4052,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 44300,
+        "streams": 9600,
         "sentiment": "negative"
     },
     {
@@ -4061,7 +4061,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 48800,
+        "streams": 21300,
         "sentiment": "negative"
     },
     {
@@ -4070,7 +4070,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35600,
+        "streams": 24600,
         "sentiment": "negative"
     },
     {
@@ -4080,7 +4080,7 @@
             "භාචි සුසාන්",
             "ෂානිකා මදුමාලි"
         ],
-        "streams": 23000,
+        "streams": 16700,
         "sentiment": "negative"
     },
     {
@@ -4089,7 +4089,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 48400,
+        "streams": 26000,
         "sentiment": "negative"
     },
     {
@@ -4098,7 +4098,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43600,
+        "streams": 18400,
         "sentiment": "negative"
     },
     {
@@ -4107,7 +4107,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 24900,
+        "streams": 23300,
         "sentiment": "negative"
     },
     {
@@ -4117,7 +4117,7 @@
             "කසුන් කල්හාර",
             "උරේෂා රවිහාරි"
         ],
-        "streams": 46900,
+        "streams": 48500,
         "sentiment": "negative"
     },
     {
@@ -4127,7 +4127,7 @@
             "රූකාන්ත ගුණතිලක",
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 14300,
+        "streams": 24400,
         "sentiment": "negative"
     },
     {
@@ -4136,7 +4136,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 5400,
+        "streams": 18200,
         "sentiment": "negative"
     },
     {
@@ -4145,7 +4145,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 22400,
+        "streams": 37800,
         "sentiment": "negative"
     },
     {
@@ -4154,7 +4154,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 24000,
+        "streams": 14800,
         "sentiment": "negative"
     },
     {
@@ -4163,7 +4163,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 20000,
+        "streams": 22200,
         "sentiment": "negative"
     },
     {
@@ -4172,7 +4172,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 34200,
+        "streams": 7400,
         "sentiment": "negative"
     },
     {
@@ -4181,7 +4181,7 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 17300,
+        "streams": 11400,
         "sentiment": "negative"
     },
     {
@@ -4191,7 +4191,7 @@
             "ගුණදාස කපුගේ",
             "නිරංජලා සරෝජිනී"
         ],
-        "streams": 7000,
+        "streams": 6200,
         "sentiment": "negative"
     },
     {
@@ -4200,7 +4200,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 17900,
+        "streams": 49900,
         "sentiment": "negative"
     },
     {
@@ -4209,7 +4209,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 16500,
+        "streams": 5000,
         "sentiment": "negative"
     },
     {
@@ -4218,7 +4218,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 27100,
+        "streams": 15800,
         "sentiment": "negative"
     },
     {
@@ -4227,7 +4227,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 15900,
+        "streams": 14400,
         "sentiment": "negative"
     },
     {
@@ -4236,7 +4236,7 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 39500,
+        "streams": 40200,
         "sentiment": "negative"
     },
     {
@@ -4245,7 +4245,7 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 17400,
+        "streams": 9100,
         "sentiment": "negative"
     },
     {
@@ -4254,7 +4254,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 38500,
+        "streams": 42000,
         "sentiment": "negative"
     },
     {
@@ -4263,7 +4263,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 33400,
+        "streams": 23200,
         "sentiment": "negative"
     },
     {
@@ -4272,7 +4272,7 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 19000,
+        "streams": 16800,
         "sentiment": "negative"
     },
     {
@@ -4281,7 +4281,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 41100,
+        "streams": 27700,
         "sentiment": "negative"
     },
     {
@@ -4290,7 +4290,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 24900,
+        "streams": 19900,
         "sentiment": "negative"
     },
     {
@@ -4299,7 +4299,7 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 39300,
+        "streams": 28300,
         "sentiment": "negative"
     },
     {
@@ -4308,7 +4308,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 15800,
+        "streams": 30200,
         "sentiment": "negative"
     },
     {
@@ -4317,7 +4317,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 37400,
+        "streams": 42600,
         "sentiment": "negative"
     },
     {
@@ -4326,7 +4326,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 27100,
+        "streams": 7900,
         "sentiment": "negative"
     },
     {
@@ -4335,7 +4335,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 16600,
+        "streams": 34800,
         "sentiment": "negative"
     },
     {
@@ -4344,7 +4344,7 @@
         "singers": [
             "තරිඳු මිතිල"
         ],
-        "streams": 48800,
+        "streams": 20800,
         "sentiment": "negative"
     },
     {
@@ -4353,7 +4353,7 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 30400,
+        "streams": 7900,
         "sentiment": "negative"
     },
     {
@@ -4362,7 +4362,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 18600,
+        "streams": 45300,
         "sentiment": "negative"
     },
     {
@@ -4371,7 +4371,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 49300,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -4380,7 +4380,7 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 12400,
+        "streams": 35500,
         "sentiment": "negative"
     },
     {
@@ -4389,7 +4389,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 5300,
+        "streams": 46400,
         "sentiment": "negative"
     },
     {
@@ -4398,7 +4398,7 @@
         "singers": [
             "බිලී ෆර්නෑන්ඩෝ"
         ],
-        "streams": 47500,
+        "streams": 40900,
         "sentiment": "negative"
     },
     {
@@ -4407,7 +4407,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 44600,
+        "streams": 43400,
         "sentiment": "negative"
     },
     {
@@ -4416,7 +4416,7 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 5500,
+        "streams": 37600,
         "sentiment": "negative"
     },
     {
@@ -4425,7 +4425,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 19800,
+        "streams": 14500,
         "sentiment": "negative"
     },
     {
@@ -4435,7 +4435,7 @@
             "ලක්ශ්මන් විජේසේකර",
             "නිර්මලා රණතුංග"
         ],
-        "streams": 34500,
+        "streams": 45200,
         "sentiment": "negative"
     },
     {
@@ -4444,7 +4444,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 23400,
+        "streams": 27600,
         "sentiment": "negative"
     },
     {
@@ -4453,7 +4453,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 46100,
+        "streams": 12600,
         "sentiment": "negative"
     },
     {
@@ -4462,7 +4462,7 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 49500,
+        "streams": 19000,
         "sentiment": "negative"
     },
     {
@@ -4471,7 +4471,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 13300,
+        "streams": 47200,
         "sentiment": "negative"
     },
     {
@@ -4480,7 +4480,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 45100,
+        "streams": 37800,
         "sentiment": "negative"
     },
     {
@@ -4489,7 +4489,7 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 38700,
+        "streams": 17000,
         "sentiment": "negative"
     },
     {
@@ -4498,7 +4498,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 31700,
+        "streams": 43400,
         "sentiment": "negative"
     },
     {
@@ -4507,7 +4507,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 28800,
+        "streams": 28200,
         "sentiment": "negative"
     },
     {
@@ -4516,7 +4516,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 21300,
+        "streams": 39900,
         "sentiment": "negative"
     },
     {
@@ -4525,7 +4525,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 5200,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -4534,7 +4534,7 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 43200,
+        "streams": 19600,
         "sentiment": "negative"
     },
     {
@@ -4543,7 +4543,7 @@
         "singers": [
             "රෝහණ සිරිවර්ධන"
         ],
-        "streams": 45600,
+        "streams": 40800,
         "sentiment": "negative"
     },
     {
@@ -4552,7 +4552,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 11100,
+        "streams": 31200,
         "sentiment": "negative"
     },
     {
@@ -4561,7 +4561,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 35200,
+        "streams": 27600,
         "sentiment": "negative"
     },
     {
@@ -4570,7 +4570,7 @@
         "singers": [
             "ජගත් වික්‍රමසිංහ"
         ],
-        "streams": 36700,
+        "streams": 48300,
         "sentiment": "negative"
     },
     {
@@ -4579,7 +4579,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 16200,
+        "streams": 16400,
         "sentiment": "negative"
     },
     {
@@ -4588,7 +4588,7 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 21100,
+        "streams": 36400,
         "sentiment": "negative"
     },
     {
@@ -4597,7 +4597,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 46900,
+        "streams": 45700,
         "sentiment": "negative"
     },
     {
@@ -4606,7 +4606,7 @@
         "singers": [
             "ලක්ශ්මන් හේවාවිතාරණ"
         ],
-        "streams": 24400,
+        "streams": 34200,
         "sentiment": "negative"
     },
     {
@@ -4615,7 +4615,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 34200,
+        "streams": 17600,
         "sentiment": "negative"
     },
     {
@@ -4624,7 +4624,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 19500,
+        "streams": 35500,
         "sentiment": "negative"
     },
     {
@@ -4633,7 +4633,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 36900,
+        "streams": 10300,
         "sentiment": "negative"
     },
     {
@@ -4642,7 +4642,7 @@
         "singers": [
             "ලයනල් රන්වල"
         ],
-        "streams": 23200,
+        "streams": 13900,
         "sentiment": "negative"
     },
     {
@@ -4651,7 +4651,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 34800,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -4660,7 +4660,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35300,
+        "streams": 5400,
         "sentiment": "negative"
     },
     {
@@ -4669,7 +4669,7 @@
         "singers": [
             "හර්ෂ ධනෝෂ්"
         ],
-        "streams": 18100,
+        "streams": 38400,
         "sentiment": "negative"
     },
     {
@@ -4678,7 +4678,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 44500,
+        "streams": 46800,
         "sentiment": "negative"
     },
     {
@@ -4687,7 +4687,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 26600,
+        "streams": 5700,
         "sentiment": "negative"
     },
     {
@@ -4696,7 +4696,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 40400,
+        "streams": 39900,
         "sentiment": "negative"
     },
     {
@@ -4705,8 +4705,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 34100,
-        "sentiment": "negative"
+        "streams": 44100,
+        "sentiment": "positive"
     },
     {
         "title": "පායන සඳේ",
@@ -4714,7 +4714,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 14700,
+        "streams": 5500,
         "sentiment": "negative"
     },
     {
@@ -4723,7 +4723,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 42200,
+        "streams": 31400,
         "sentiment": "negative"
     },
     {
@@ -4732,7 +4732,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 27900,
+        "streams": 43300,
         "sentiment": "negative"
     },
     {
@@ -4741,7 +4741,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 13100,
+        "streams": 34000,
         "sentiment": "negative"
     },
     {
@@ -4750,7 +4750,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 12500,
+        "streams": 30000,
         "sentiment": "negative"
     },
     {
@@ -4759,7 +4759,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 24000,
+        "streams": 40900,
         "sentiment": "negative"
     },
     {
@@ -4768,7 +4768,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 13000,
+        "streams": 48000,
         "sentiment": "negative"
     },
     {
@@ -4777,7 +4777,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 19300,
+        "streams": 45100,
         "sentiment": "negative"
     },
     {
@@ -4786,7 +4786,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 46400,
+        "streams": 43000,
         "sentiment": "negative"
     },
     {
@@ -4795,7 +4795,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 31200,
+        "streams": 5500,
         "sentiment": "negative"
     },
     {
@@ -4804,7 +4804,7 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 20100,
+        "streams": 16700,
         "sentiment": "negative"
     },
     {
@@ -4813,7 +4813,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 9400,
+        "streams": 19400,
         "sentiment": "negative"
     },
     {
@@ -4822,7 +4822,7 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 7100,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -4831,7 +4831,7 @@
         "singers": [
             "ප්‍රදීප් රංගන"
         ],
-        "streams": 14700,
+        "streams": 43200,
         "sentiment": "negative"
     },
     {
@@ -4840,7 +4840,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 12700,
+        "streams": 25000,
         "sentiment": "negative"
     },
     {
@@ -4849,7 +4849,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 25900,
+        "streams": 11700,
         "sentiment": "negative"
     },
     {
@@ -4858,7 +4858,7 @@
         "singers": [
             "හෙන්රි කල්දේරා"
         ],
-        "streams": 38900,
+        "streams": 17900,
         "sentiment": "negative"
     },
     {
@@ -4867,7 +4867,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 35300,
+        "streams": 23600,
         "sentiment": "negative"
     },
     {
@@ -4876,7 +4876,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 17600,
+        "streams": 19500,
         "sentiment": "negative"
     },
     {
@@ -4885,7 +4885,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 31300,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -4894,7 +4894,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 38300,
+        "streams": 7800,
         "sentiment": "negative"
     },
     {
@@ -4903,7 +4903,7 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 25800,
+        "streams": 39000,
         "sentiment": "negative"
     },
     {
@@ -4912,7 +4912,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 18700,
+        "streams": 21800,
         "sentiment": "negative"
     },
     {
@@ -4921,7 +4921,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 41200,
+        "streams": 20500,
         "sentiment": "negative"
     },
     {
@@ -4930,7 +4930,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 19200,
+        "streams": 35400,
         "sentiment": "negative"
     },
     {
@@ -4939,7 +4939,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 24200,
+        "streams": 40600,
         "sentiment": "negative"
     },
     {
@@ -4948,7 +4948,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 45200,
+        "streams": 16900,
         "sentiment": "negative"
     },
     {
@@ -4957,7 +4957,7 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 27800,
+        "streams": 8600,
         "sentiment": "negative"
     },
     {
@@ -4966,7 +4966,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 49400,
+        "streams": 7000,
         "sentiment": "negative"
     },
     {
@@ -4975,7 +4975,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 31600,
+        "streams": 11600,
         "sentiment": "negative"
     },
     {
@@ -4984,7 +4984,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 44600,
+        "streams": 28200,
         "sentiment": "negative"
     },
     {
@@ -4993,7 +4993,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 11600,
+        "streams": 5500,
         "sentiment": "negative"
     },
     {
@@ -5002,7 +5002,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 38100,
+        "streams": 28500,
         "sentiment": "negative"
     },
     {
@@ -5011,7 +5011,7 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 35900,
+        "streams": 27000,
         "sentiment": "negative"
     },
     {
@@ -5020,7 +5020,7 @@
         "singers": [
             "ඉන්ද්‍රචාපා ලියනගේ"
         ],
-        "streams": 43400,
+        "streams": 16300,
         "sentiment": "negative"
     },
     {
@@ -5029,7 +5029,7 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 10200,
+        "streams": 35000,
         "sentiment": "negative"
     },
     {
@@ -5038,7 +5038,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 15400,
+        "streams": 22200,
         "sentiment": "negative"
     },
     {
@@ -5047,7 +5047,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 33900,
+        "streams": 43500,
         "sentiment": "negative"
     },
     {
@@ -5056,7 +5056,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 32700,
+        "streams": 45400,
         "sentiment": "negative"
     },
     {
@@ -5065,7 +5065,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 48200,
+        "streams": 12200,
         "sentiment": "negative"
     },
     {
@@ -5074,7 +5074,7 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 8400,
+        "streams": 43300,
         "sentiment": "negative"
     },
     {
@@ -5083,7 +5083,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 38000,
+        "streams": 29200,
         "sentiment": "negative"
     },
     {
@@ -5092,7 +5092,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 45100,
+        "streams": 25200,
         "sentiment": "negative"
     },
     {
@@ -5101,7 +5101,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 28800,
+        "streams": 14900,
         "sentiment": "negative"
     },
     {
@@ -5110,7 +5110,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 41100,
+        "streams": 34800,
         "sentiment": "negative"
     },
     {
@@ -5119,7 +5119,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 24500,
+        "streams": 39400,
         "sentiment": "negative"
     },
     {
@@ -5128,7 +5128,7 @@
         "singers": [
             "රොහාන් ද සිල්වා"
         ],
-        "streams": 10000,
+        "streams": 45000,
         "sentiment": "negative"
     },
     {
@@ -5137,7 +5137,7 @@
         "singers": [
             "බිලී ෆර්නෑන්ඩෝ"
         ],
-        "streams": 23200,
+        "streams": 6300,
         "sentiment": "negative"
     },
     {
@@ -5146,7 +5146,7 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 15000,
+        "streams": 35300,
         "sentiment": "negative"
     },
     {
@@ -5155,7 +5155,7 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 45700,
+        "streams": 14100,
         "sentiment": "negative"
     },
     {
@@ -5164,7 +5164,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 32700,
+        "streams": 23600,
         "sentiment": "negative"
     },
     {
@@ -5173,7 +5173,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 33400,
+        "streams": 17900,
         "sentiment": "negative"
     },
     {
@@ -5182,7 +5182,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 21800,
+        "streams": 7900,
         "sentiment": "negative"
     },
     {
@@ -5191,8 +5191,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 12500,
-        "sentiment": "negative"
+        "streams": 47200,
+        "sentiment": "positive"
     },
     {
         "title": "රෑ සඳ ඇවිත් ගියා",
@@ -5200,7 +5200,7 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 45000,
+        "streams": 13600,
         "sentiment": "negative"
     },
     {
@@ -5209,7 +5209,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 48800,
+        "streams": 33200,
         "sentiment": "negative"
     },
     {
@@ -5218,7 +5218,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 31000,
+        "streams": 38500,
         "sentiment": "negative"
     },
     {
@@ -5227,7 +5227,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 45500,
+        "streams": 24900,
         "sentiment": "negative"
     },
     {
@@ -5236,7 +5236,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 49000,
+        "streams": 12600,
         "sentiment": "negative"
     },
     {
@@ -5245,7 +5245,7 @@
         "singers": [
             "ප්‍රෙඩී සිල්වා"
         ],
-        "streams": 30600,
+        "streams": 30700,
         "sentiment": "negative"
     },
     {
@@ -5254,7 +5254,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 29700,
+        "streams": 18500,
         "sentiment": "negative"
     },
     {
@@ -5263,7 +5263,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 29700,
+        "streams": 5100,
         "sentiment": "negative"
     },
     {
@@ -5272,7 +5272,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43000,
+        "streams": 42200,
         "sentiment": "negative"
     },
     {
@@ -5281,7 +5281,7 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 33300,
+        "streams": 17200,
         "sentiment": "negative"
     },
     {
@@ -5290,7 +5290,7 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 15000,
+        "streams": 29700,
         "sentiment": "negative"
     },
     {
@@ -5299,7 +5299,7 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 28400,
+        "streams": 46600,
         "sentiment": "negative"
     },
     {
@@ -5308,7 +5308,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 38600,
+        "streams": 46400,
         "sentiment": "negative"
     },
     {
@@ -5317,7 +5317,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37700,
+        "streams": 11900,
         "sentiment": "negative"
     },
     {
@@ -5326,7 +5326,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 20200,
+        "streams": 13400,
         "sentiment": "negative"
     },
     {
@@ -5335,7 +5335,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 27600,
+        "streams": 36800,
         "sentiment": "negative"
     },
     {
@@ -5344,7 +5344,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 38100,
+        "streams": 23000,
         "sentiment": "negative"
     },
     {
@@ -5353,7 +5353,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 10000,
+        "streams": 31200,
         "sentiment": "negative"
     },
     {
@@ -5362,7 +5362,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 21800,
+        "streams": 10400,
         "sentiment": "negative"
     },
     {
@@ -5371,8 +5371,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 41400,
-        "sentiment": "negative"
+        "streams": 16100,
+        "sentiment": "positive"
     },
     {
         "title": "රටා තියලා",
@@ -5380,7 +5380,7 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 43100,
+        "streams": 28200,
         "sentiment": "negative"
     },
     {
@@ -5389,7 +5389,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 36800,
+        "streams": 35300,
         "sentiment": "negative"
     },
     {
@@ -5398,7 +5398,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 39700,
+        "streams": 23200,
         "sentiment": "negative"
     },
     {
@@ -5407,7 +5407,7 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 42100,
+        "streams": 41900,
         "sentiment": "negative"
     },
     {
@@ -5416,7 +5416,7 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 29800,
+        "streams": 17800,
         "sentiment": "negative"
     },
     {
@@ -5425,7 +5425,7 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 35700,
+        "streams": 24200,
         "sentiment": "negative"
     },
     {
@@ -5434,7 +5434,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 40600,
+        "streams": 46800,
         "sentiment": "negative"
     },
     {
@@ -5443,7 +5443,7 @@
         "singers": [
             "ලතා වල්පොල"
         ],
-        "streams": 38900,
+        "streams": 47000,
         "sentiment": "negative"
     },
     {
@@ -5452,7 +5452,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 32300,
+        "streams": 18000,
         "sentiment": "negative"
     },
     {
@@ -5461,7 +5461,7 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 37300,
+        "streams": 37900,
         "sentiment": "negative"
     },
     {
@@ -5470,7 +5470,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 19700,
+        "streams": 16900,
         "sentiment": "negative"
     },
     {
@@ -5479,7 +5479,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35200,
+        "streams": 27500,
         "sentiment": "negative"
     },
     {
@@ -5488,7 +5488,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 30200,
+        "streams": 47300,
         "sentiment": "negative"
     },
     {
@@ -5497,7 +5497,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 22500,
+        "streams": 43100,
         "sentiment": "negative"
     },
     {
@@ -5506,7 +5506,7 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 15400,
+        "streams": 26400,
         "sentiment": "negative"
     },
     {
@@ -5516,7 +5516,7 @@
             "ලතා වල්පොල",
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 21800,
+        "streams": 13500,
         "sentiment": "negative"
     },
     {
@@ -5525,7 +5525,7 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 44600,
+        "streams": 35500,
         "sentiment": "negative"
     },
     {
@@ -5534,7 +5534,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 13800,
+        "streams": 39500,
         "sentiment": "negative"
     },
     {
@@ -5543,7 +5543,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8800,
+        "streams": 45200,
         "sentiment": "negative"
     },
     {
@@ -5552,7 +5552,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 15400,
+        "streams": 37700,
         "sentiment": "negative"
     },
     {
@@ -5561,7 +5561,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 41800,
+        "streams": 14800,
         "sentiment": "negative"
     },
     {
@@ -5570,7 +5570,7 @@
         "singers": [
             "ඇන්ටන් ජෝන්ස්"
         ],
-        "streams": 24300,
+        "streams": 40000,
         "sentiment": "negative"
     },
     {
@@ -5579,7 +5579,7 @@
         "singers": [
             "ලක්ශ්මන් විජේසේකර"
         ],
-        "streams": 40400,
+        "streams": 34200,
         "sentiment": "negative"
     },
     {
@@ -5588,7 +5588,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 41800,
+        "streams": 13000,
         "sentiment": "negative"
     },
     {
@@ -5597,7 +5597,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 7700,
+        "streams": 10100,
         "sentiment": "negative"
     },
     {
@@ -5606,7 +5606,7 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 12200,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -5615,7 +5615,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 21600,
+        "streams": 42300,
         "sentiment": "negative"
     },
     {
@@ -5625,7 +5625,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 20800,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -5634,7 +5634,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 36300,
+        "streams": 5500,
         "sentiment": "negative"
     },
     {
@@ -5643,7 +5643,7 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 46300,
+        "streams": 25700,
         "sentiment": "negative"
     },
     {
@@ -5652,7 +5652,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 18700,
+        "streams": 36200,
         "sentiment": "negative"
     },
     {
@@ -5661,7 +5661,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 27000,
+        "streams": 10000,
         "sentiment": "negative"
     },
     {
@@ -5670,7 +5670,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17200,
+        "streams": 48300,
         "sentiment": "negative"
     },
     {
@@ -5679,7 +5679,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 5500,
+        "streams": 19000,
         "sentiment": "negative"
     },
     {
@@ -5688,7 +5688,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 36700,
+        "streams": 44900,
         "sentiment": "negative"
     },
     {
@@ -5697,7 +5697,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 27800,
+        "streams": 39400,
         "sentiment": "negative"
     },
     {
@@ -5706,7 +5706,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 23800,
+        "streams": 17300,
         "sentiment": "negative"
     },
     {
@@ -5715,7 +5715,7 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 35100,
+        "streams": 13200,
         "sentiment": "negative"
     },
     {
@@ -5724,7 +5724,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 24100,
+        "streams": 44300,
         "sentiment": "negative"
     },
     {
@@ -5733,7 +5733,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 32300,
+        "streams": 13400,
         "sentiment": "negative"
     },
     {
@@ -5743,7 +5743,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 33600,
+        "streams": 41800,
         "sentiment": "negative"
     },
     {
@@ -5752,7 +5752,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 16700,
+        "streams": 39400,
         "sentiment": "negative"
     },
     {
@@ -5761,7 +5761,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 15800,
+        "streams": 31500,
         "sentiment": "negative"
     },
     {
@@ -5770,7 +5770,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 14500,
+        "streams": 20100,
         "sentiment": "negative"
     },
     {
@@ -5779,7 +5779,7 @@
         "singers": [
             "දයාරත්න රණතුංග"
         ],
-        "streams": 28600,
+        "streams": 30700,
         "sentiment": "negative"
     },
     {
@@ -5788,7 +5788,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 29300,
+        "streams": 26300,
         "sentiment": "negative"
     },
     {
@@ -5797,7 +5797,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 27600,
+        "streams": 5700,
         "sentiment": "negative"
     },
     {
@@ -5806,7 +5806,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 15500,
+        "streams": 20800,
         "sentiment": "negative"
     },
     {
@@ -5815,7 +5815,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 14400,
+        "streams": 46700,
         "sentiment": "negative"
     },
     {
@@ -5824,7 +5824,7 @@
         "singers": [
             "ප්‍රින්ස් උදය ප්‍රියන්ත"
         ],
-        "streams": 45400,
+        "streams": 31700,
         "sentiment": "negative"
     },
     {
@@ -5833,7 +5833,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 12500,
+        "streams": 43800,
         "sentiment": "negative"
     },
     {
@@ -5842,7 +5842,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 5200,
+        "streams": 24800,
         "sentiment": "negative"
     },
     {
@@ -5851,7 +5851,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 28800,
+        "streams": 9300,
         "sentiment": "negative"
     },
     {
@@ -5860,7 +5860,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 31400,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -5869,7 +5869,7 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 36800,
+        "streams": 16000,
         "sentiment": "negative"
     },
     {
@@ -5878,7 +5878,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 10200,
+        "streams": 26100,
         "sentiment": "negative"
     },
     {
@@ -5887,7 +5887,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 48300,
+        "streams": 37000,
         "sentiment": "negative"
     },
     {
@@ -5896,7 +5896,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 17400,
+        "streams": 43600,
         "sentiment": "negative"
     },
     {
@@ -5905,7 +5905,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 45400,
+        "streams": 38300,
         "sentiment": "negative"
     },
     {
@@ -5914,7 +5914,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 11600,
+        "streams": 10300,
         "sentiment": "negative"
     },
     {
@@ -5923,7 +5923,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 7200,
+        "streams": 19400,
         "sentiment": "negative"
     },
     {
@@ -5932,7 +5932,7 @@
         "singers": [
             "ඉන්දික රුවන් (Roony)"
         ],
-        "streams": 22800,
+        "streams": 40000,
         "sentiment": "negative"
     },
     {
@@ -5941,7 +5941,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 12900,
+        "streams": 17300,
         "sentiment": "negative"
     },
     {
@@ -5950,8 +5950,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 23800,
-        "sentiment": "negative"
+        "streams": 26500,
+        "sentiment": "positive"
     },
     {
         "title": "සරසවි උයනේ",
@@ -5959,7 +5959,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 21500,
+        "streams": 29500,
         "sentiment": "negative"
     },
     {
@@ -5968,7 +5968,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 11400,
+        "streams": 10100,
         "sentiment": "negative"
     },
     {
@@ -5977,7 +5977,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 18800,
+        "streams": 22100,
         "sentiment": "negative"
     },
     {
@@ -5986,7 +5986,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37800,
+        "streams": 38300,
         "sentiment": "negative"
     },
     {
@@ -5995,7 +5995,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 47600,
+        "streams": 30500,
         "sentiment": "negative"
     },
     {
@@ -6004,7 +6004,7 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 44300,
+        "streams": 8900,
         "sentiment": "negative"
     },
     {
@@ -6013,7 +6013,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 13300,
+        "streams": 32300,
         "sentiment": "negative"
     },
     {
@@ -6022,7 +6022,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 41700,
+        "streams": 38500,
         "sentiment": "negative"
     },
     {
@@ -6031,7 +6031,7 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 21600,
+        "streams": 41500,
         "sentiment": "negative"
     },
     {
@@ -6040,7 +6040,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 11800,
+        "streams": 26000,
         "sentiment": "negative"
     },
     {
@@ -6049,7 +6049,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 45200,
+        "streams": 18700,
         "sentiment": "negative"
     },
     {
@@ -6058,7 +6058,7 @@
         "singers": [
             "සේනක බටගොඩ"
         ],
-        "streams": 21800,
+        "streams": 47300,
         "sentiment": "negative"
     },
     {
@@ -6067,7 +6067,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 15400,
+        "streams": 43600,
         "sentiment": "negative"
     },
     {
@@ -6076,7 +6076,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 16100,
+        "streams": 41500,
         "sentiment": "negative"
     },
     {
@@ -6085,7 +6085,7 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 14900,
+        "streams": 39500,
         "sentiment": "negative"
     },
     {
@@ -6094,7 +6094,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 5000,
+        "streams": 11700,
         "sentiment": "negative"
     },
     {
@@ -6103,7 +6103,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 20700,
+        "streams": 45400,
         "sentiment": "negative"
     },
     {
@@ -6112,7 +6112,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 26000,
+        "streams": 20700,
         "sentiment": "negative"
     },
     {
@@ -6121,7 +6121,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15200,
+        "streams": 45700,
         "sentiment": "negative"
     },
     {
@@ -6130,7 +6130,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35100,
+        "streams": 42100,
         "sentiment": "negative"
     },
     {
@@ -6139,7 +6139,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 33300,
+        "streams": 13600,
         "sentiment": "negative"
     },
     {
@@ -6148,7 +6148,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 9400,
+        "streams": 39900,
         "sentiment": "negative"
     },
     {
@@ -6157,7 +6157,7 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 41100,
+        "streams": 36000,
         "sentiment": "negative"
     },
     {
@@ -6166,7 +6166,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 39600,
+        "streams": 20100,
         "sentiment": "negative"
     },
     {
@@ -6175,7 +6175,7 @@
         "singers": [
             "ඇනස්ලි මාලේවන"
         ],
-        "streams": 31900,
+        "streams": 49900,
         "sentiment": "negative"
     },
     {
@@ -6184,7 +6184,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 49100,
+        "streams": 38400,
         "sentiment": "negative"
     },
     {
@@ -6193,7 +6193,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 37100,
+        "streams": 37000,
         "sentiment": "negative"
     },
     {
@@ -6203,7 +6203,7 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 10500,
+        "streams": 9200,
         "sentiment": "negative"
     },
     {
@@ -6212,7 +6212,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 43500,
+        "streams": 28100,
         "sentiment": "negative"
     },
     {
@@ -6221,7 +6221,7 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 47100,
+        "streams": 32200,
         "sentiment": "negative"
     },
     {
@@ -6230,7 +6230,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 5900,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -6239,7 +6239,7 @@
         "singers": [
             "මොරිස් දහනායක"
         ],
-        "streams": 13300,
+        "streams": 5000,
         "sentiment": "negative"
     },
     {
@@ -6248,7 +6248,7 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 12900,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -6257,7 +6257,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 40600,
+        "streams": 19100,
         "sentiment": "negative"
     },
     {
@@ -6266,7 +6266,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 36800,
+        "streams": 18100,
         "sentiment": "negative"
     },
     {
@@ -6275,7 +6275,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 18100,
+        "streams": 41400,
         "sentiment": "negative"
     },
     {
@@ -6284,7 +6284,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 35300,
+        "streams": 34200,
         "sentiment": "negative"
     },
     {
@@ -6293,7 +6293,7 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 7700,
+        "streams": 8300,
         "sentiment": "negative"
     },
     {
@@ -6302,7 +6302,7 @@
         "singers": [
             "සමිත් සිරිමාන්න"
         ],
-        "streams": 6000,
+        "streams": 24600,
         "sentiment": "negative"
     },
     {
@@ -6311,7 +6311,7 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 39400,
+        "streams": 27300,
         "sentiment": "negative"
     },
     {
@@ -6320,7 +6320,7 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 13000,
+        "streams": 45700,
         "sentiment": "negative"
     },
     {
@@ -6329,7 +6329,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 23500,
+        "streams": 41200,
         "sentiment": "negative"
     },
     {
@@ -6338,7 +6338,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 14100,
+        "streams": 42200,
         "sentiment": "negative"
     },
     {
@@ -6347,7 +6347,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 27700,
+        "streams": 46700,
         "sentiment": "negative"
     },
     {
@@ -6356,7 +6356,7 @@
         "singers": [
             "ඉන්ද්‍රජිත් දොලමුල්ල"
         ],
-        "streams": 29000,
+        "streams": 42700,
         "sentiment": "negative"
     },
     {
@@ -6365,7 +6365,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 36600,
+        "streams": 38700,
         "sentiment": "negative"
     },
     {
@@ -6374,7 +6374,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 29200,
+        "streams": 6700,
         "sentiment": "negative"
     },
     {
@@ -6383,7 +6383,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 40400,
+        "streams": 41300,
         "sentiment": "negative"
     },
     {
@@ -6392,7 +6392,7 @@
         "singers": [
             "උදිත අනුපම අල්විස්"
         ],
-        "streams": 6700,
+        "streams": 38300,
         "sentiment": "negative"
     },
     {
@@ -6401,7 +6401,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 19600,
+        "streams": 33300,
         "sentiment": "negative"
     },
     {
@@ -6410,7 +6410,7 @@
         "singers": [
             "මොහාන් දර්ශන"
         ],
-        "streams": 47300,
+        "streams": 45600,
         "sentiment": "negative"
     },
     {
@@ -6419,7 +6419,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 21300,
+        "streams": 33500,
         "sentiment": "negative"
     },
     {
@@ -6428,7 +6428,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 48200,
+        "streams": 31800,
         "sentiment": "negative"
     },
     {
@@ -6437,7 +6437,7 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 13400,
+        "streams": 35900,
         "sentiment": "negative"
     },
     {
@@ -6446,7 +6446,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 29200,
+        "streams": 17100,
         "sentiment": "negative"
     },
     {
@@ -6455,7 +6455,7 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 30800,
+        "streams": 23800,
         "sentiment": "negative"
     },
     {
@@ -6464,7 +6464,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 37700,
+        "streams": 27300,
         "sentiment": "negative"
     },
     {
@@ -6473,7 +6473,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 36500,
+        "streams": 7300,
         "sentiment": "negative"
     },
     {
@@ -6482,7 +6482,7 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 30000,
+        "streams": 49500,
         "sentiment": "negative"
     },
     {
@@ -6491,7 +6491,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 30900,
+        "streams": 12400,
         "sentiment": "negative"
     },
     {
@@ -6500,7 +6500,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 42900,
+        "streams": 42500,
         "sentiment": "negative"
     },
     {
@@ -6509,7 +6509,7 @@
         "singers": [
             "කාටූන් සින්දු"
         ],
-        "streams": 22300,
+        "streams": 20200,
         "sentiment": "negative"
     },
     {
@@ -6519,7 +6519,7 @@
             "ජයරත්න ටී. එම්.",
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 47000,
+        "streams": 10700,
         "sentiment": "negative"
     },
     {
@@ -6528,7 +6528,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 20900,
+        "streams": 33400,
         "sentiment": "negative"
     },
     {
@@ -6537,7 +6537,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 48100,
+        "streams": 26800,
         "sentiment": "negative"
     },
     {
@@ -6546,7 +6546,7 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 37500,
+        "streams": 41300,
         "sentiment": "negative"
     },
     {
@@ -6555,7 +6555,7 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 49600,
+        "streams": 41500,
         "sentiment": "negative"
     },
     {
@@ -6564,7 +6564,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 11600,
+        "streams": 18800,
         "sentiment": "negative"
     },
     {
@@ -6573,7 +6573,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 44800,
+        "streams": 12800,
         "sentiment": "negative"
     },
     {
@@ -6582,7 +6582,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 18100,
+        "streams": 33100,
         "sentiment": "negative"
     },
     {
@@ -6591,7 +6591,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 38300,
+        "streams": 27000,
         "sentiment": "negative"
     },
     {
@@ -6600,7 +6600,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 40700,
+        "streams": 13200,
         "sentiment": "negative"
     },
     {
@@ -6609,7 +6609,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 28700,
+        "streams": 26600,
         "sentiment": "negative"
     },
     {
@@ -6618,7 +6618,7 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 20700,
+        "streams": 26000,
         "sentiment": "negative"
     },
     {
@@ -6627,7 +6627,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 30500,
+        "streams": 42900,
         "sentiment": "negative"
     },
     {
@@ -6636,7 +6636,7 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 31900,
+        "streams": 32800,
         "sentiment": "negative"
     },
     {
@@ -6645,7 +6645,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 40000,
+        "streams": 15700,
         "sentiment": "negative"
     },
     {
@@ -6654,7 +6654,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 11300,
+        "streams": 25200,
         "sentiment": "negative"
     },
     {
@@ -6663,7 +6663,7 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 19300,
+        "streams": 27200,
         "sentiment": "negative"
     },
     {
@@ -6672,7 +6672,7 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 28600,
+        "streams": 39500,
         "sentiment": "negative"
     },
     {
@@ -6681,7 +6681,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 47600,
+        "streams": 20000,
         "sentiment": "negative"
     },
     {
@@ -6690,7 +6690,7 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 45400,
+        "streams": 28300,
         "sentiment": "negative"
     },
     {
@@ -6699,7 +6699,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 16200,
+        "streams": 28300,
         "sentiment": "negative"
     },
     {
@@ -6708,7 +6708,7 @@
         "singers": [
             "ප්‍රනාන්දු C.T."
         ],
-        "streams": 14200,
+        "streams": 31700,
         "sentiment": "negative"
     },
     {
@@ -6717,7 +6717,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 34900,
+        "streams": 9600,
         "sentiment": "negative"
     },
     {
@@ -6726,7 +6726,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 9900,
+        "streams": 15200,
         "sentiment": "negative"
     },
     {
@@ -6735,7 +6735,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 34300,
+        "streams": 17700,
         "sentiment": "negative"
     },
     {
@@ -6744,7 +6744,7 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 35600,
+        "streams": 31400,
         "sentiment": "negative"
     },
     {
@@ -6753,7 +6753,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 38500,
+        "streams": 17000,
         "sentiment": "negative"
     },
     {
@@ -6762,7 +6762,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 8100,
+        "streams": 46700,
         "sentiment": "negative"
     },
     {
@@ -6771,7 +6771,7 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 8700,
+        "streams": 46400,
         "sentiment": "negative"
     },
     {
@@ -6780,7 +6780,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 23800,
+        "streams": 31900,
         "sentiment": "negative"
     },
     {
@@ -6789,7 +6789,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 19800,
+        "streams": 49300,
         "sentiment": "negative"
     },
     {
@@ -6798,7 +6798,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 42800,
+        "streams": 32100,
         "sentiment": "negative"
     },
     {
@@ -6807,7 +6807,7 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 23300,
+        "streams": 33700,
         "sentiment": "negative"
     },
     {
@@ -6816,7 +6816,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 44300,
+        "streams": 7300,
         "sentiment": "negative"
     },
     {
@@ -6825,7 +6825,7 @@
         "singers": [
             "දුෂාන් ජයතිලක"
         ],
-        "streams": 39200,
+        "streams": 42400,
         "sentiment": "negative"
     },
     {
@@ -6834,7 +6834,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 46200,
+        "streams": 11400,
         "sentiment": "negative"
     },
     {
@@ -6843,7 +6843,7 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 17100,
+        "streams": 28800,
         "sentiment": "negative"
     },
     {
@@ -6852,7 +6852,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 18300,
+        "streams": 46800,
         "sentiment": "negative"
     },
     {
@@ -6861,7 +6861,7 @@
         "singers": [
             "ජයශ්‍රී"
         ],
-        "streams": 36800,
+        "streams": 7200,
         "sentiment": "negative"
     },
     {
@@ -6870,7 +6870,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 34500,
+        "streams": 37700,
         "sentiment": "negative"
     },
     {
@@ -6879,7 +6879,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 39900,
+        "streams": 41000,
         "sentiment": "negative"
     },
     {
@@ -6888,7 +6888,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 10900,
+        "streams": 8100,
         "sentiment": "negative"
     },
     {
@@ -6897,8 +6897,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 5100,
-        "sentiment": "negative"
+        "streams": 29400,
+        "sentiment": "positive"
     },
     {
         "title": "උඩ මලුවේ",
@@ -6906,7 +6906,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 36800,
+        "streams": 6100,
         "sentiment": "negative"
     },
     {
@@ -6915,7 +6915,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 17100,
+        "streams": 39100,
         "sentiment": "negative"
     },
     {
@@ -6924,7 +6924,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 17600,
+        "streams": 43600,
         "sentiment": "negative"
     },
     {
@@ -6933,7 +6933,7 @@
         "singers": [
             "ඉන්ද්‍රචාපා ලියනගේ"
         ],
-        "streams": 39400,
+        "streams": 43600,
         "sentiment": "negative"
     },
     {
@@ -6942,7 +6942,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 15000,
+        "streams": 10100,
         "sentiment": "negative"
     },
     {
@@ -6952,7 +6952,7 @@
             "විජය කුමාරතුංග",
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 33100,
+        "streams": 42800,
         "sentiment": "negative"
     },
     {
@@ -6961,7 +6961,7 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 16900,
+        "streams": 10100,
         "sentiment": "negative"
     },
     {
@@ -6970,7 +6970,7 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 45000,
+        "streams": 48900,
         "sentiment": "negative"
     },
     {
@@ -6979,7 +6979,7 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 17300,
+        "streams": 42000,
         "sentiment": "negative"
     },
     {
@@ -6988,7 +6988,7 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 8300,
+        "streams": 32500,
         "sentiment": "negative"
     },
     {
@@ -6997,7 +6997,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 20400,
+        "streams": 28100,
         "sentiment": "negative"
     },
     {
@@ -7006,7 +7006,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 12200,
+        "streams": 30300,
         "sentiment": "negative"
     },
     {
@@ -7015,7 +7015,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 15700,
+        "streams": 32000,
         "sentiment": "negative"
     },
     {
@@ -7024,7 +7024,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 40200,
+        "streams": 12700,
         "sentiment": "negative"
     },
     {
@@ -7033,7 +7033,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 15100,
+        "streams": 29600,
         "sentiment": "negative"
     },
     {
@@ -7042,7 +7042,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35500,
+        "streams": 5900,
         "sentiment": "negative"
     },
     {
@@ -7051,7 +7051,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 42700,
+        "streams": 45000,
         "sentiment": "negative"
     },
     {
@@ -7060,7 +7060,7 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 22900,
+        "streams": 31800,
         "sentiment": "negative"
     },
     {
@@ -7069,7 +7069,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 18200,
+        "streams": 40900,
         "sentiment": "negative"
     },
     {
@@ -7078,7 +7078,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 25100,
+        "streams": 38200,
         "sentiment": "negative"
     },
     {
@@ -7087,7 +7087,7 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 35100,
+        "streams": 20400,
         "sentiment": "negative"
     },
     {
@@ -7096,7 +7096,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 49000,
+        "streams": 14800,
         "sentiment": "negative"
     },
     {
@@ -7105,7 +7105,7 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 18100,
+        "streams": 48500,
         "sentiment": "negative"
     },
     {
@@ -7114,7 +7114,7 @@
         "singers": [
             "උමාරා සිංහවංශ"
         ],
-        "streams": 35900,
+        "streams": 30500,
         "sentiment": "negative"
     },
     {
@@ -7123,7 +7123,7 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 42300,
+        "streams": 44300,
         "sentiment": "negative"
     },
     {
@@ -7132,7 +7132,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 38600,
+        "streams": 11900,
         "sentiment": "negative"
     },
     {
@@ -7141,7 +7141,7 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 17600,
+        "streams": 31100,
         "sentiment": "negative"
     },
     {
@@ -7150,7 +7150,7 @@
         "singers": [
             "චාමික සිරිමාන්න"
         ],
-        "streams": 11000,
+        "streams": 22600,
         "sentiment": "negative"
     },
     {
@@ -7159,7 +7159,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 11900,
+        "streams": 32400,
         "sentiment": "negative"
     },
     {
@@ -7168,7 +7168,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 41200,
+        "streams": 42800,
         "sentiment": "negative"
     },
     {
@@ -7177,7 +7177,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 30300,
+        "streams": 39800,
         "sentiment": "negative"
     },
     {
@@ -7186,7 +7186,7 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 19400,
+        "streams": 39000,
         "sentiment": "negative"
     },
     {
@@ -7195,7 +7195,7 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 22500,
+        "streams": 38900,
         "sentiment": "negative"
     },
     {
@@ -7204,7 +7204,7 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 27200,
+        "streams": 43300,
         "sentiment": "negative"
     },
     {
@@ -7213,7 +7213,7 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17100,
+        "streams": 20300,
         "sentiment": "negative"
     },
     {
@@ -7222,7 +7222,7 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 41800,
+        "streams": 49400,
         "sentiment": "negative"
     },
     {
@@ -7231,7 +7231,7 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 11800,
+        "streams": 11000,
         "sentiment": "negative"
     },
     {
@@ -7240,7 +7240,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 37500,
+        "streams": 11200,
         "sentiment": "negative"
     }
 ]

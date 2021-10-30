@@ -9,7 +9,7 @@ out_file = open("si-songs-final.json", "w")
 
 def predict_sentiment(singers):
     for singer in singers:
-        if "ෆන්කි" in singer:
+        if "ෆන්කි" in singer or "භාතිය" in singer:
             return "positive"
     return "negative"
 
