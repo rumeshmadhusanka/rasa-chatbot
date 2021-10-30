@@ -5,7 +5,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 25100
+        "streams": 13300,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරෙන් මෙසේ කතා වෙවී",
@@ -13,7 +14,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 49400
+        "streams": 40200,
+        "sentiment": "negative"
     },
     {
         "title": "ආලකමන්දා",
@@ -22,7 +24,8 @@
             "සුරේන්ද්‍ර පෙරේරා",
             "උරේෂා රවිහාරි"
         ],
-        "streams": 29000
+        "streams": 34300,
+        "sentiment": "negative"
     },
     {
         "title": "ආලය වන්",
@@ -30,7 +33,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 37400
+        "streams": 15800,
+        "sentiment": "negative"
     },
     {
         "title": "ආලෙන් වෙලා ගන්න",
@@ -39,7 +43,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 35500
+        "streams": 12600,
+        "sentiment": "negative"
     },
     {
         "title": "ආලෝකේ බිහිවේ පැතිරේදෝ",
@@ -47,7 +52,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 8800
+        "streams": 9500,
+        "sentiment": "negative"
     },
     {
         "title": "ආපසු යන්නට",
@@ -55,7 +61,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 44300
+        "streams": 41400,
+        "sentiment": "negative"
     },
     {
         "title": "අාශාවේ මල්",
@@ -63,7 +70,8 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 49900
+        "streams": 18500,
+        "sentiment": "negative"
     },
     {
         "title": "ඈත ඈත චන්ද්‍ර මණ්ඩලේ",
@@ -71,7 +79,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 9500
+        "streams": 38700,
+        "sentiment": "negative"
     },
     {
         "title": "ඈත එපිට ගම්මානෙන්",
@@ -79,7 +88,8 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 43400
+        "streams": 32300,
+        "sentiment": "negative"
     },
     {
         "title": "ඈත කඳුකර හිමව් අරණේ",
@@ -87,7 +97,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 6100
+        "streams": 36900,
+        "sentiment": "negative"
     },
     {
         "title": "ඈත රන් විමන් තුළින්",
@@ -95,7 +106,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 38200
+        "streams": 48200,
+        "sentiment": "negative"
     },
     {
         "title": "ඈතින් ඈතට",
@@ -103,7 +115,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 47100
+        "streams": 33700,
+        "sentiment": "negative"
     },
     {
         "title": "අභිසාරිකාවන්ගේ",
@@ -111,7 +124,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 8400
+        "streams": 44500,
+        "sentiment": "negative"
     },
     {
         "title": "අද අපේ තාත්තා",
@@ -119,7 +133,8 @@
         "singers": [
             "ෆන්කි ඩර්ට්"
         ],
-        "streams": 21200
+        "streams": 48700,
+        "sentiment": "positive"
     },
     {
         "title": "අද දීගෙක",
@@ -127,7 +142,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 48500
+        "streams": 39100,
+        "sentiment": "negative"
     },
     {
         "title": "අද තනියෙන් මා",
@@ -135,7 +151,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 12900
+        "streams": 11500,
+        "sentiment": "negative"
     },
     {
         "title": "අදහන්න බෑ",
@@ -143,7 +160,8 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 36700
+        "streams": 9700,
+        "sentiment": "negative"
     },
     {
         "title": "ආඩම්බර සඳ",
@@ -151,7 +169,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 28400
+        "streams": 27100,
+        "sentiment": "negative"
     },
     {
         "title": "ආදර මල් වල",
@@ -159,7 +178,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 37900
+        "streams": 8700,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරණීය නේරංජනා",
@@ -167,7 +187,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 45400
+        "streams": 42000,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරණීය වස්සානේ",
@@ -175,7 +196,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 27800
+        "streams": 16000,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරය සුන්දර වරදකි",
@@ -183,7 +205,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 13900
+        "streams": 27100,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරයක හැඟුමක් සිතෙහි",
@@ -192,7 +215,8 @@
             "විජය කුමාරතුංග",
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 6000
+        "streams": 11300,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරයේ උල්පත වූ අම්මා..",
@@ -200,7 +224,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 49700
+        "streams": 21900,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරයේ උණුසුම ළඟ",
@@ -208,7 +233,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 47600
+        "streams": 23500,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරේ හිතෙනවා",
@@ -216,7 +242,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 11600
+        "streams": 15500,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරයේ වේදනාව",
@@ -224,7 +251,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 45800
+        "streams": 40100,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරෙයි මං",
@@ -232,7 +260,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 5700
+        "streams": 42500,
+        "sentiment": "negative"
     },
     {
         "title": "ආදරියේ රුචිරාණනියේ",
@@ -240,7 +269,8 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 18700
+        "streams": 46500,
+        "sentiment": "negative"
     },
     {
         "title": "අඩවන් දෑසින්",
@@ -248,7 +278,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 8200
+        "streams": 13800,
+        "sentiment": "negative"
     },
     {
         "title": "අඳුර බිඳින්නට",
@@ -256,7 +287,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 29000
+        "streams": 30900,
+        "sentiment": "negative"
     },
     {
         "title": "ඇගේය ඔබ දැන්",
@@ -264,7 +296,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 42100
+        "streams": 47600,
+        "sentiment": "negative"
     },
     {
         "title": "අහස් ගැඹේ තරු කැට ගානේ",
@@ -272,7 +305,8 @@
         "singers": [
             "චරිතා ප්‍රියදර්ශනී පීරිස්"
         ],
-        "streams": 25900
+        "streams": 17900,
+        "sentiment": "negative"
     },
     {
         "title": "අහස ගුගුරා",
@@ -280,7 +314,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 11500
+        "streams": 19900,
+        "sentiment": "negative"
     },
     {
         "title": "අහස නුඹ මෙතරම්",
@@ -288,7 +323,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 45400
+        "streams": 49100,
+        "sentiment": "negative"
     },
     {
         "title": "අහස පොළව",
@@ -296,7 +332,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 22700
+        "streams": 47400,
+        "sentiment": "negative"
     },
     {
         "title": "අහස සේ ඔබ අනන්තයි",
@@ -304,7 +341,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 38500
+        "streams": 15500,
+        "sentiment": "negative"
     },
     {
         "title": "අහස උසට නැග ගියාට",
@@ -312,7 +350,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 24500
+        "streams": 39400,
+        "sentiment": "negative"
     },
     {
         "title": "අහසයි ඔබ මට",
@@ -320,7 +359,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 40600
+        "streams": 19100,
+        "sentiment": "negative"
     },
     {
         "title": "අහසයි ඔබ මට",
@@ -328,7 +368,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43100
+        "streams": 47900,
+        "sentiment": "negative"
     },
     {
         "title": "අහසේ ලියුවත් පොළොවෙ කෙටුවත්",
@@ -336,7 +377,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 7000
+        "streams": 10700,
+        "sentiment": "negative"
     },
     {
         "title": "අහසින් බසින්",
@@ -344,7 +386,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 29700
+        "streams": 10200,
+        "sentiment": "negative"
     },
     {
         "title": "අහසින් තරුවක්",
@@ -352,7 +395,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 19200
+        "streams": 5900,
+        "sentiment": "negative"
     },
     {
         "title": "ඇහෙනවනම් හිත හඬන තරම්",
@@ -360,7 +404,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 48300
+        "streams": 7500,
+        "sentiment": "negative"
     },
     {
         "title": "ඇහි දාර මත දුක",
@@ -368,7 +413,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 8700
+        "streams": 21300,
+        "sentiment": "negative"
     },
     {
         "title": "ඇහි දාර මත දුක",
@@ -376,7 +422,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 35800
+        "streams": 42100,
+        "sentiment": "negative"
     },
     {
         "title": "අහිමි උනත් නුඹ ලදේ",
@@ -384,7 +431,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 29800
+        "streams": 5000,
+        "sentiment": "negative"
     },
     {
         "title": "අජානේය ස්කූටර්",
@@ -392,7 +440,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 8000
+        "streams": 43800,
+        "sentiment": "negative"
     },
     {
         "title": "අකලට වට",
@@ -401,7 +450,8 @@
             "නිර්මලා රණතුංග",
             "දයා ද අල්විස්"
         ],
-        "streams": 13000
+        "streams": 22900,
+        "sentiment": "negative"
     },
     {
         "title": "ආකාස ගඟේ",
@@ -409,7 +459,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 7400
+        "streams": 18900,
+        "sentiment": "negative"
     },
     {
         "title": "අකීකරු හිමියනේ",
@@ -417,7 +468,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 39200
+        "streams": 47900,
+        "sentiment": "negative"
     },
     {
         "title": "අකුරු මැකී නෑ",
@@ -425,7 +477,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 5100
+        "streams": 6600,
+        "sentiment": "negative"
     },
     {
         "title": "අළුත් වැස්සක්",
@@ -433,7 +486,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 6900
+        "streams": 46500,
+        "sentiment": "negative"
     },
     {
         "title": "අමා දහර දිය",
@@ -441,7 +495,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 13400
+        "streams": 21200,
+        "sentiment": "negative"
     },
     {
         "title": "අමීෂා",
@@ -449,7 +504,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 21600
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "අම්මා",
@@ -457,7 +513,8 @@
         "singers": [
             "සංගීත් විජේසූරිය"
         ],
-        "streams": 44900
+        "streams": 36600,
+        "sentiment": "negative"
     },
     {
         "title": "අම්මා නැති මට",
@@ -465,7 +522,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 46000
+        "streams": 8300,
+        "sentiment": "negative"
     },
     {
         "title": "අම්මා සඳකි",
@@ -473,7 +531,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 17300
+        "streams": 48400,
+        "sentiment": "negative"
     },
     {
         "title": "ආනන්ද මේ රෑ",
@@ -482,7 +541,8 @@
             "හරූන් ලන්ත්‍රා",
             "සුජාතා අත්තනායක"
         ],
-        "streams": 30400
+        "streams": 6800,
+        "sentiment": "negative"
     },
     {
         "title": "අනාත මාරුතේ",
@@ -490,7 +550,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 41700
+        "streams": 39900,
+        "sentiment": "negative"
     },
     {
         "title": "අඬන්නේ ඇයි සුදු මැනිකේ",
@@ -498,7 +559,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 19600
+        "streams": 30500,
+        "sentiment": "negative"
     },
     {
         "title": "අඬන්නේපා සුදු මැණිකේ",
@@ -506,7 +568,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15800
+        "streams": 23600,
+        "sentiment": "negative"
     },
     {
         "title": "අන්දර යායේ",
@@ -514,7 +577,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 36200
+        "streams": 14600,
+        "sentiment": "negative"
     },
     {
         "title": "අඳුරේ මැදියමේ",
@@ -522,7 +586,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 28200
+        "streams": 17000,
+        "sentiment": "negative"
     },
     {
         "title": "අනේ යාල් දේවී",
@@ -530,7 +595,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 23700
+        "streams": 9100,
+        "sentiment": "negative"
     },
     {
         "title": "අංජලීකා",
@@ -538,7 +604,8 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 17100
+        "streams": 5700,
+        "sentiment": "negative"
     },
     {
         "title": "අනෝතප්ත විල",
@@ -547,7 +614,8 @@
             "අමරදේව ඩබ්ලිව්. ඩී.",
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 13500
+        "streams": 36000,
+        "sentiment": "negative"
     },
     {
         "title": "අප හමුවූවත්",
@@ -555,7 +623,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 49400
+        "streams": 47100,
+        "sentiment": "negative"
     },
     {
         "title": "අප හමුවීම වෙන්වීම දෝ ආදරේ",
@@ -563,7 +632,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 37900
+        "streams": 39100,
+        "sentiment": "negative"
     },
     {
         "title": "අප හමුවුන තැන තනියෙන්",
@@ -571,7 +641,8 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 19700
+        "streams": 26800,
+        "sentiment": "negative"
     },
     {
         "title": "අපෙ හැඟුම්වලට ඉඩදී",
@@ -579,7 +650,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 22000
+        "streams": 7900,
+        "sentiment": "negative"
     },
     {
         "title": "අපි ඈතට ඈතට",
@@ -587,7 +659,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 48200
+        "streams": 39000,
+        "sentiment": "negative"
     },
     {
         "title": "අපි අසරණ වෙලා වගේ",
@@ -595,7 +668,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 6800
+        "streams": 33900,
+        "sentiment": "negative"
     },
     {
         "title": "අපි කවුරුද",
@@ -603,7 +677,8 @@
         "singers": [
             "වායෝ"
         ],
-        "streams": 16500
+        "streams": 31900,
+        "sentiment": "negative"
     },
     {
         "title": "අර සඳ පළුවෙන්",
@@ -611,7 +686,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 21700
+        "streams": 19100,
+        "sentiment": "negative"
     },
     {
         "title": "ඇරඹුමම කඳුලක් වෙලා",
@@ -619,7 +695,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 24800
+        "streams": 12100,
+        "sentiment": "negative"
     },
     {
         "title": "අරලිය ලන්දට",
@@ -627,7 +704,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 38300
+        "streams": 27300,
+        "sentiment": "negative"
     },
     {
         "title": "අරුණළු පැතිරෙන",
@@ -635,7 +713,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 26700
+        "streams": 29100,
+        "sentiment": "negative"
     },
     {
         "title": "ඇස්‌ දෙක වාගේ හිටිය",
@@ -643,7 +722,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 39100
+        "streams": 17500,
+        "sentiment": "negative"
     },
     {
         "title": "ඇස ගැටෙනා",
@@ -651,7 +731,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 30800
+        "streams": 42600,
+        "sentiment": "negative"
     },
     {
         "title": "ඇස ගැටෙනා හැම තැනම",
@@ -659,7 +740,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 29800
+        "streams": 11100,
+        "sentiment": "negative"
     },
     {
         "title": "ආසයි බයයි",
@@ -667,7 +749,8 @@
         "singers": [
             "ඇන්ටන් ජෝන්ස්"
         ],
-        "streams": 39900
+        "streams": 39500,
+        "sentiment": "negative"
     },
     {
         "title": "ඇසට අසුවන මායිමේ",
@@ -675,7 +758,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 13100
+        "streams": 14100,
+        "sentiment": "negative"
     },
     {
         "title": "ඇසේ මතුවන",
@@ -683,7 +767,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 8900
+        "streams": 13800,
+        "sentiment": "negative"
     },
     {
         "title": "ඇසි දිසි ටෙලි නළුවේ",
@@ -691,7 +776,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 41200
+        "streams": 41900,
+        "sentiment": "negative"
     },
     {
         "title": "ඇසිපිය සලන නිසා",
@@ -699,7 +785,8 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 15200
+        "streams": 24000,
+        "sentiment": "negative"
     },
     {
         "title": "ඇසුවේද කවුරුන්",
@@ -707,7 +794,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35300
+        "streams": 19600,
+        "sentiment": "negative"
     },
     {
         "title": "අතීත දිවියේ අනන්ත අඳුරේ",
@@ -715,7 +803,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 12400
+        "streams": 32400,
+        "sentiment": "negative"
     },
     {
         "title": "අතීතය සිහිනයක් පමණයි",
@@ -723,7 +812,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 10000
+        "streams": 48000,
+        "sentiment": "negative"
     },
     {
         "title": "අතින් වත් අත ඇල්ලුවේ නෑ",
@@ -731,7 +821,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 31000
+        "streams": 8200,
+        "sentiment": "negative"
     },
     {
         "title": "අවපස අහසක",
@@ -739,7 +830,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 40800
+        "streams": 45100,
+        "sentiment": "negative"
     },
     {
         "title": "අවසාන ප්‍රේමයයි මාගේ",
@@ -747,7 +839,8 @@
         "singers": [
             "දිමංක වෙල්ලලගේ"
         ],
-        "streams": 29200
+        "streams": 10300,
+        "sentiment": "negative"
     },
     {
         "title": "අවසන් සැඳෑවයි",
@@ -755,7 +848,8 @@
         "singers": [
             "ලලිත් පොන්නප්පෙරුම"
         ],
-        "streams": 9300
+        "streams": 28200,
+        "sentiment": "negative"
     },
     {
         "title": "අවාසනාවට රෝස මලත් පරවෙයි",
@@ -763,7 +857,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 41300
+        "streams": 22000,
+        "sentiment": "negative"
     },
     {
         "title": "අවසර නැත මට",
@@ -771,7 +866,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 34100
+        "streams": 22700,
+        "sentiment": "negative"
     },
     {
         "title": "අව්වට වැස්සට හුරු මිනිසුන්නේ",
@@ -779,7 +875,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 7800
+        "streams": 34200,
+        "sentiment": "negative"
     },
     {
         "title": "ඇයි මස්සිනේ පෙම් කලේ අපි එක මලට",
@@ -788,7 +885,8 @@
             "එඩ්වඩ් ජයකොඩි",
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 16000
+        "streams": 44900,
+        "sentiment": "negative"
     },
     {
         "title": "ඇය යන්න ගියා මැකිලා",
@@ -796,7 +894,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 24500
+        "streams": 38200,
+        "sentiment": "negative"
     },
     {
         "title": "ඇයිදෝ මගෙන් වෙන් වීලා",
@@ -804,7 +903,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 22900
+        "streams": 6900,
+        "sentiment": "negative"
     },
     {
         "title": "ආයෙත් හඬන්න",
@@ -812,7 +912,8 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 49500
+        "streams": 30600,
+        "sentiment": "negative"
     },
     {
         "title": "බාගෙට සැලුන් දොරින්",
@@ -820,7 +921,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 17400
+        "streams": 44600,
+        "sentiment": "negative"
     },
     {
         "title": "බැබලීම වගෙම",
@@ -828,7 +930,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 43400
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "බැද්දට සඳ වගේ",
@@ -836,7 +939,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 26200
+        "streams": 19800,
+        "sentiment": "negative"
     },
     {
         "title": "බඹරා වගේ ඇත තවම විසේ",
@@ -844,7 +948,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 38100
+        "streams": 36300,
+        "sentiment": "negative"
     },
     {
         "title": "බඹරෙකු ඇඬුවා",
@@ -852,7 +957,8 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 5300
+        "streams": 20600,
+        "sentiment": "negative"
     },
     {
         "title": "බැසයන සඳ දෑතින්",
@@ -860,7 +966,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 22000
+        "streams": 6000,
+        "sentiment": "negative"
     },
     {
         "title": "බිඳුනු අතීතය සිහිකරලා",
@@ -868,7 +975,8 @@
         "singers": [
             "තුෂාර සුභසිංහ"
         ],
-        "streams": 31300
+        "streams": 48000,
+        "sentiment": "negative"
     },
     {
         "title": "බිම්බරක් සෙනග",
@@ -876,7 +984,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 47400
+        "streams": 19000,
+        "sentiment": "negative"
     },
     {
         "title": "බිංදු බිංදු මල් වැස්සේ",
@@ -884,7 +993,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 26100
+        "streams": 6500,
+        "sentiment": "negative"
     },
     {
         "title": "බිදුනු පෙම් හද",
@@ -892,7 +1002,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 35000
+        "streams": 30100,
+        "sentiment": "negative"
     },
     {
         "title": "බිරිද මගේ ඔබ",
@@ -901,7 +1012,8 @@
             "නන්දා මාලනී",
             "ගුණදාස කපුගේ"
         ],
-        "streams": 46100
+        "streams": 17800,
+        "sentiment": "negative"
     },
     {
         "title": "බොල්පිණී වෑහෙන වේලාවේ",
@@ -909,7 +1021,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 27800
+        "streams": 35100,
+        "sentiment": "negative"
     },
     {
         "title": "බුද්ධානුභාවේන",
@@ -917,7 +1030,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 23800
+        "streams": 12600,
+        "sentiment": "negative"
     },
     {
         "title": "බුදු පදවි පතාගෙන",
@@ -925,7 +1039,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 49100
+        "streams": 25300,
+        "sentiment": "negative"
     },
     {
         "title": "බුදුහාමුදුරුවො වැඩියා වාගෙයි",
@@ -933,7 +1048,8 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 6900
+        "streams": 49400,
+        "sentiment": "negative"
     },
     {
         "title": "බුදුන් දැක නිවන් දකින්න",
@@ -941,7 +1057,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 13300
+        "streams": 40800,
+        "sentiment": "negative"
     },
     {
         "title": "බස් එකේ දැක්කේ",
@@ -950,7 +1067,8 @@
             "ෆන්කි ඩර්ට්",
             "මුර්ෂාර්ඩ් හුවයිස්"
         ],
-        "streams": 6100
+        "streams": 15400,
+        "sentiment": "positive"
     },
     {
         "title": "චාදනී පායලා",
@@ -958,7 +1076,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 7400
+        "streams": 39800,
+        "sentiment": "negative"
     },
     {
         "title": "චංචල දෑසේ මායා",
@@ -966,7 +1085,8 @@
         "singers": [
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 23700
+        "streams": 12200,
+        "sentiment": "negative"
     },
     {
         "title": "චන්දන ඇග ගාලා",
@@ -975,7 +1095,8 @@
             "නාරද දිසාසේකර",
             "මල්ලිකා කහවිට"
         ],
-        "streams": 11100
+        "streams": 25400,
+        "sentiment": "negative"
     },
     {
         "title": "චාන්දනී පායලා",
@@ -983,7 +1104,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 48000
+        "streams": 13000,
+        "sentiment": "negative"
     },
     {
         "title": "චන්ද්‍ර මඬල",
@@ -991,7 +1113,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 10700
+        "streams": 37500,
+        "sentiment": "negative"
     },
     {
         "title": "චන්ද්‍ර කින්නර ජාතකේ",
@@ -999,7 +1122,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 18400
+        "streams": 20500,
+        "sentiment": "negative"
     },
     {
         "title": "චන්ද්‍ර මණ්ඩලේ",
@@ -1007,7 +1131,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 42900
+        "streams": 37800,
+        "sentiment": "negative"
     },
     {
         "title": "චන්ද්‍රයන් පිදූ",
@@ -1015,7 +1140,8 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 18200
+        "streams": 13100,
+        "sentiment": "negative"
     },
     {
         "title": "චන්න කින්නරාවී",
@@ -1023,7 +1149,8 @@
         "singers": [
             "භාචි සුසාන්"
         ],
-        "streams": 30200
+        "streams": 42300,
+        "sentiment": "negative"
     },
     {
         "title": "චාරු දේහේ නුරා",
@@ -1031,7 +1158,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 45700
+        "streams": 16500,
+        "sentiment": "negative"
     },
     {
         "title": "දෑස් අග පිපී",
@@ -1039,7 +1167,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 42300
+        "streams": 37700,
+        "sentiment": "negative"
     },
     {
         "title": "දෑස නිලුපුල් තෙමා",
@@ -1047,7 +1176,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 17600
+        "streams": 34300,
+        "sentiment": "negative"
     },
     {
         "title": "දැස රිදෙනවා",
@@ -1055,7 +1185,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 28700
+        "streams": 10100,
+        "sentiment": "negative"
     },
     {
         "title": "දෑසම රිද්දන",
@@ -1063,7 +1194,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 49500
+        "streams": 28400,
+        "sentiment": "negative"
     },
     {
         "title": "දෑසෙ කතාවෙන්",
@@ -1071,7 +1203,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 33000
+        "streams": 24800,
+        "sentiment": "negative"
     },
     {
         "title": "දෑත දෙපාලන",
@@ -1079,7 +1212,8 @@
         "singers": [
             "ලක්ශ්මන් විජේසේකර"
         ],
-        "streams": 25900
+        "streams": 41900,
+        "sentiment": "negative"
     },
     {
         "title": "දෛවයෝගයකින් නොවේදෝ",
@@ -1087,7 +1221,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 5800
+        "streams": 25500,
+        "sentiment": "negative"
     },
     {
         "title": "දකින විට පන්සලක්",
@@ -1095,7 +1230,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 47700
+        "streams": 47000,
+        "sentiment": "negative"
     },
     {
         "title": "දළින් අනින",
@@ -1103,7 +1239,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 39100
+        "streams": 39200,
+        "sentiment": "negative"
     },
     {
         "title": "දැල්වෙනා පහන්",
@@ -1111,7 +1248,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 35200
+        "streams": 21900,
+        "sentiment": "negative"
     },
     {
         "title": "දැල්වූ පහන් දැල්වී තිබේවා",
@@ -1119,7 +1257,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 49700
+        "streams": 9100,
+        "sentiment": "negative"
     },
     {
         "title": "දම්පාටින් ලා",
@@ -1127,7 +1266,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 36900
+        "streams": 45500,
+        "sentiment": "negative"
     },
     {
         "title": "දමා යන්නට නොහැකි මිහිමත",
@@ -1135,7 +1275,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 41400
+        "streams": 40200,
+        "sentiment": "negative"
     },
     {
         "title": "දැනෙන දුක් වේදනා",
@@ -1143,7 +1284,8 @@
         "singers": [
             "රොෂාන් ප්‍රනාන්දු"
         ],
-        "streams": 46300
+        "streams": 39600,
+        "sentiment": "negative"
     },
     {
         "title": "දස බිම්බර මාර සෙනග",
@@ -1151,7 +1293,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 22400
+        "streams": 35900,
+        "sentiment": "negative"
     },
     {
         "title": "දෑසේ මල් විලේ",
@@ -1160,7 +1303,8 @@
             "මාලනී බුලත්සිංහල",
             "රෝහණ සිරිවර්ධන"
         ],
-        "streams": 19500
+        "streams": 42500,
+        "sentiment": "negative"
     },
     {
         "title": "දෑසින් පෑ",
@@ -1168,7 +1312,8 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 19200
+        "streams": 21800,
+        "sentiment": "negative"
     },
     {
         "title": "දවසක්‌ පැල නැති හේනේ",
@@ -1176,7 +1321,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 48600
+        "streams": 27100,
+        "sentiment": "negative"
     },
     {
         "title": "දැවෙනා දුක මේ",
@@ -1184,7 +1330,8 @@
         "singers": [
             "නදීර නෝනිස්"
         ],
-        "streams": 12600
+        "streams": 33700,
+        "sentiment": "negative"
     },
     {
         "title": "දීපාවලී දාට",
@@ -1192,7 +1339,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 44700
+        "streams": 34300,
+        "sentiment": "negative"
     },
     {
         "title": "දේවතාවියේ වැටුණෙද",
@@ -1200,7 +1348,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8700
+        "streams": 46000,
+        "sentiment": "negative"
     },
     {
         "title": "දෙගොඩ තලා ගඟ ගලා",
@@ -1208,7 +1357,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 9300
+        "streams": 12100,
+        "sentiment": "negative"
     },
     {
         "title": "දෙනෝ දාහක් නුවන් අතරේ",
@@ -1216,7 +1366,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 15200
+        "streams": 49200,
+        "sentiment": "negative"
     },
     {
         "title": "දෙනෝදහක් ගැවසෙන සරසවියේ",
@@ -1224,7 +1375,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 36400
+        "streams": 8400,
+        "sentiment": "negative"
     },
     {
         "title": "දෙවැනි බුදුන් ලෙස",
@@ -1232,7 +1384,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17100
+        "streams": 32800,
+        "sentiment": "negative"
     },
     {
         "title": "දෙව්රම් වෙහෙරේ",
@@ -1240,7 +1393,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 17100
+        "streams": 26700,
+        "sentiment": "negative"
     },
     {
         "title": "දෙයදර විලිකුන් සුරත්පලේ",
@@ -1248,7 +1402,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 43000
+        "streams": 31700,
+        "sentiment": "negative"
     },
     {
         "title": "දිගු දෑස",
@@ -1256,7 +1411,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 38200
+        "streams": 34400,
+        "sentiment": "negative"
     },
     {
         "title": "දිලි දිලි දිලී සේවි",
@@ -1264,7 +1420,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15100
+        "streams": 30500,
+        "sentiment": "negative"
     },
     {
         "title": "දිනක අපි හමු වුණා",
@@ -1272,7 +1429,8 @@
         "singers": [
             "ලලිත් පොන්නප්පෙරුම"
         ],
-        "streams": 41100
+        "streams": 20200,
+        "sentiment": "negative"
     },
     {
         "title": "දිනෙක හිරු බැස",
@@ -1280,7 +1438,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 25900
+        "streams": 19000,
+        "sentiment": "negative"
     },
     {
         "title": "දිනෙක ඔබ",
@@ -1288,7 +1447,8 @@
         "singers": [
             "ඇන්ජලින් ගුණතිලක"
         ],
-        "streams": 28700
+        "streams": 6000,
+        "sentiment": "negative"
     },
     {
         "title": "දිවි කතරට ගංගාවයි",
@@ -1296,7 +1456,8 @@
         "singers": [
             "රෝහණ බෝගොඩ"
         ],
-        "streams": 44400
+        "streams": 32900,
+        "sentiment": "negative"
     },
     {
         "title": "දිය කිඳුරිය සේ",
@@ -1304,7 +1465,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 21700
+        "streams": 22900,
+        "sentiment": "negative"
     },
     {
         "title": "දොඹ මලින්",
@@ -1312,7 +1474,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 44900
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "දුහුල් මලෙක",
@@ -1320,7 +1483,8 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 9800
+        "streams": 14400,
+        "sentiment": "negative"
     },
     {
         "title": "දුක හාදු දෙන රැයේ",
@@ -1328,7 +1492,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 45700
+        "streams": 49100,
+        "sentiment": "negative"
     },
     {
         "title": "දුක සේ සදා පෙමින් රකිමි",
@@ -1336,7 +1501,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 37100
+        "streams": 27300,
+        "sentiment": "negative"
     },
     {
         "title": "දුක තද කරන්",
@@ -1344,7 +1510,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 37800
+        "streams": 31500,
+        "sentiment": "negative"
     },
     {
         "title": "දුර ඈත දින සමනල් වීයේ",
@@ -1352,7 +1519,8 @@
         "singers": [
             "අමිල පෙරේරා"
         ],
-        "streams": 43900
+        "streams": 26100,
+        "sentiment": "negative"
     },
     {
         "title": "දුර අහසට මේ පොළොවෙ",
@@ -1360,7 +1528,8 @@
         "singers": [
             "අරුණ තමෙල්"
         ],
-        "streams": 44700
+        "streams": 28700,
+        "sentiment": "negative"
     },
     {
         "title": "දුර කතර ගෙවාගෙන",
@@ -1368,7 +1537,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 36600
+        "streams": 18300,
+        "sentiment": "negative"
     },
     {
         "title": "දුර යන්න හිතුවාට",
@@ -1376,7 +1546,8 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 17100
+        "streams": 24500,
+        "sentiment": "negative"
     },
     {
         "title": "දුරස් වන්නට",
@@ -1384,7 +1555,8 @@
         "singers": [
             "ඉන්ද්‍රජිත් දොලමුල්ල"
         ],
-        "streams": 44800
+        "streams": 47900,
+        "sentiment": "negative"
     },
     {
         "title": "දූ හිඳින්නේ පෝරුවේ",
@@ -1392,7 +1564,8 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 6000
+        "streams": 41700,
+        "sentiment": "negative"
     },
     {
         "title": "එදා රෑ",
@@ -1400,7 +1573,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 8400
+        "streams": 29800,
+        "sentiment": "negative"
     },
     {
         "title": "එක දවසක් හැන්දෑවක",
@@ -1408,7 +1582,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 34900
+        "streams": 24500,
+        "sentiment": "negative"
     },
     {
         "title": "ඒක තමයි මේක",
@@ -1416,7 +1591,8 @@
         "singers": [
             "ෆන්කි ඩර්ට්"
         ],
-        "streams": 12500
+        "streams": 11100,
+        "sentiment": "positive"
     },
     {
         "title": "එක වසන්තයක",
@@ -1424,7 +1600,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 23900
+        "streams": 12600,
+        "sentiment": "negative"
     },
     {
         "title": "එකම මගක",
@@ -1432,7 +1609,8 @@
         "singers": [
             "පුන්සිරි සොයිසා"
         ],
-        "streams": 24300
+        "streams": 32100,
+        "sentiment": "negative"
     },
     {
         "title": "එකම මගක",
@@ -1440,7 +1618,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 9600
+        "streams": 43300,
+        "sentiment": "negative"
     },
     {
         "title": "එකම වීදියේ දෙතුන් වතාවක්",
@@ -1448,7 +1627,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 8100
+        "streams": 11300,
+        "sentiment": "negative"
     },
     {
         "title": "එපා ස‍‍ඳේ ඔබේ සිනා",
@@ -1456,7 +1636,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 35600
+        "streams": 21700,
+        "sentiment": "negative"
     },
     {
         "title": "එපා හිරු පායන්න",
@@ -1464,7 +1645,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 14600
+        "streams": 13500,
+        "sentiment": "negative"
     },
     {
         "title": "එපා කඳුලැල් සලා",
@@ -1472,7 +1654,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 29300
+        "streams": 28700,
+        "sentiment": "negative"
     },
     {
         "title": "එපා තවත් ඔබ",
@@ -1480,7 +1663,8 @@
         "singers": [
             "වසන්තා තිලකාංගනී"
         ],
-        "streams": 29800
+        "streams": 43700,
+        "sentiment": "negative"
     },
     {
         "title": "ගාඩි කෙල්ලෙ",
@@ -1488,7 +1672,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 25300
+        "streams": 5100,
+        "sentiment": "negative"
     },
     {
         "title": "ගහක මල් පිපිලා",
@@ -1496,7 +1681,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 21000
+        "streams": 24800,
+        "sentiment": "negative"
     },
     {
         "title": "ගහකොළ මල් කඳුවැටි",
@@ -1504,7 +1690,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 26500
+        "streams": 14100,
+        "sentiment": "negative"
     },
     {
         "title": "ගලන ගඟකි ජීවිතේ",
@@ -1512,7 +1699,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 45500
+        "streams": 43200,
+        "sentiment": "negative"
     },
     {
         "title": "ගැලූ දිය කඳ",
@@ -1520,7 +1708,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 37300
+        "streams": 36500,
+        "sentiment": "negative"
     },
     {
         "title": "ගමනේ ගිම් නිවූ එදා",
@@ -1528,7 +1717,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 8000
+        "streams": 20600,
+        "sentiment": "negative"
     },
     {
         "title": "ගමට කලින් හිරු",
@@ -1536,7 +1726,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 28000
+        "streams": 24400,
+        "sentiment": "negative"
     },
     {
         "title": "ගමෙන් ලියුමක් ඇවිල්ලා",
@@ -1544,7 +1735,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 41000
+        "streams": 30300,
+        "sentiment": "negative"
     },
     {
         "title": "ගඟ තවම ගලයි",
@@ -1552,7 +1744,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 18000
+        "streams": 40100,
+        "sentiment": "negative"
     },
     {
         "title": "ගඟට කපන ඉනි",
@@ -1560,7 +1753,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 24200
+        "streams": 39600,
+        "sentiment": "negative"
     },
     {
         "title": "ගතින් ඉන්නට නැතත් ලංවී",
@@ -1568,7 +1762,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 6500
+        "streams": 5900,
+        "sentiment": "negative"
     },
     {
         "title": "ගතින් ඉන්නට නැතත් ලංවී",
@@ -1576,7 +1771,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 48200
+        "streams": 24500,
+        "sentiment": "negative"
     },
     {
         "title": "ගෙදර හිටිය රෝස කැකුල",
@@ -1584,7 +1780,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 8900
+        "streams": 14700,
+        "sentiment": "negative"
     },
     {
         "title": "ගීතයක් සේ",
@@ -1592,7 +1789,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 49800
+        "streams": 23000,
+        "sentiment": "negative"
     },
     {
         "title": "ගිගිරි ගීත රාවේ",
@@ -1600,7 +1798,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 14400
+        "streams": 22600,
+        "sentiment": "negative"
     },
     {
         "title": "ගියයි බිඳී අත්වැල් හඞන්නේ",
@@ -1608,7 +1807,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 22200
+        "streams": 9800,
+        "sentiment": "negative"
     },
     {
         "title": "ගුරුගෙදරට",
@@ -1616,7 +1816,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 39200
+        "streams": 31000,
+        "sentiment": "negative"
     },
     {
         "title": "හාදු වැස්සේ තෙමිලා",
@@ -1624,7 +1825,8 @@
         "singers": [
             "රදීශ් වැන්දබෝනා"
         ],
-        "streams": 21600
+        "streams": 35000,
+        "sentiment": "negative"
     },
     {
         "title": "හද විල කලඹන",
@@ -1632,7 +1834,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 5000
+        "streams": 18600,
+        "sentiment": "negative"
     },
     {
         "title": "හද විමන් දොරින්",
@@ -1641,7 +1844,8 @@
             "ඇන්ජලින් ගුණතිලක",
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15200
+        "streams": 31700,
+        "sentiment": "negative"
     },
     {
         "title": "හදාගන්න මේ හිත මා",
@@ -1649,7 +1853,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 22900
+        "streams": 9600,
+        "sentiment": "negative"
     },
     {
         "title": "හදවත ගැහෙනා",
@@ -1657,7 +1862,8 @@
         "singers": [
             "විරාජ් පෙරේරා"
         ],
-        "streams": 41400
+        "streams": 24200,
+        "sentiment": "negative"
     },
     {
         "title": "හදවත ඉල්ලා",
@@ -1665,7 +1871,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 30300
+        "streams": 10000,
+        "sentiment": "negative"
     },
     {
         "title": "හදේ කොතැනක",
@@ -1673,7 +1880,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 30400
+        "streams": 11300,
+        "sentiment": "negative"
     },
     {
         "title": "හදිස්සියේ හනි හනිකට පය තබනා",
@@ -1681,7 +1889,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 26400
+        "streams": 18000,
+        "sentiment": "negative"
     },
     {
         "title": "හඳුනා ගන්නට",
@@ -1689,7 +1898,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 36100
+        "streams": 16800,
+        "sentiment": "negative"
     },
     {
         "title": "හැමදාම හඬන සිත",
@@ -1697,7 +1907,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 24200
+        "streams": 43300,
+        "sentiment": "negative"
     },
     {
         "title": "හැමදාමත් යාළුවේ",
@@ -1705,7 +1916,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 18500
+        "streams": 10000,
+        "sentiment": "negative"
     },
     {
         "title": "හමු නොවනා ලෙස ආයේ",
@@ -1713,7 +1925,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 24900
+        "streams": 26300,
+        "sentiment": "negative"
     },
     {
         "title": "හන්තාන දෙසින් එන",
@@ -1721,7 +1934,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 42800
+        "streams": 28100,
+        "sentiment": "negative"
     },
     {
         "title": "හන්තානට පායන සඳ",
@@ -1729,7 +1943,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 45000
+        "streams": 13900,
+        "sentiment": "negative"
     },
     {
         "title": "හැරදා විමන්",
@@ -1737,7 +1952,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 25200
+        "streams": 5500,
+        "sentiment": "negative"
     },
     {
         "title": "හතර කේන්දරේ",
@@ -1745,7 +1961,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 24000
+        "streams": 18600,
+        "sentiment": "negative"
     },
     {
         "title": "හීන අරන්",
@@ -1753,7 +1970,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 8100
+        "streams": 14100,
+        "sentiment": "negative"
     },
     {
         "title": "හීන අතරින්",
@@ -1761,7 +1979,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 47500
+        "streams": 22100,
+        "sentiment": "negative"
     },
     {
         "title": "හෙමින් සැරේ",
@@ -1769,7 +1988,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 14000
+        "streams": 9400,
+        "sentiment": "negative"
     },
     {
         "title": "හෙට අළුත් අළුයමක්",
@@ -1777,7 +1997,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 36400
+        "streams": 10500,
+        "sentiment": "negative"
     },
     {
         "title": "හෙට දවසේ අප දෙදෙනා",
@@ -1785,7 +2006,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 39800
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "හිම කඳු දියවෙයි",
@@ -1793,7 +2015,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 6100
+        "streams": 20500,
+        "sentiment": "negative"
     },
     {
         "title": "හිමි සණරාමර",
@@ -1801,7 +2024,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 36000
+        "streams": 26700,
+        "sentiment": "negative"
     },
     {
         "title": "හිඳීවි කොතැනක හෝ...",
@@ -1809,7 +2033,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 20300
+        "streams": 43000,
+        "sentiment": "negative"
     },
     {
         "title": "හිරු මැකී යයි",
@@ -1817,7 +2042,8 @@
         "singers": [
             "අමිල පෙරේරා"
         ],
-        "streams": 18900
+        "streams": 14400,
+        "sentiment": "negative"
     },
     {
         "title": "හිරු විකසිත වී",
@@ -1825,7 +2051,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 34800
+        "streams": 23400,
+        "sentiment": "negative"
     },
     {
         "title": "හිත අස්සට හීන ගොඩක්",
@@ -1833,7 +2060,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 6800
+        "streams": 36500,
+        "sentiment": "negative"
     },
     {
         "title": "හිත අස්සට හීන ගොඩක්",
@@ -1841,7 +2069,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 17200
+        "streams": 18400,
+        "sentiment": "negative"
     },
     {
         "title": "හිත දුර හන්දා",
@@ -1849,7 +2078,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 30800
+        "streams": 37200,
+        "sentiment": "negative"
     },
     {
         "title": "හිත හදාගන්න බෑ",
@@ -1857,7 +2087,8 @@
         "singers": [
             "චාමික සිරිමාන්න"
         ],
-        "streams": 29900
+        "streams": 33600,
+        "sentiment": "negative"
     },
     {
         "title": "හිත ළඟ ඔබ",
@@ -1865,7 +2096,8 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 44500
+        "streams": 6000,
+        "sentiment": "negative"
     },
     {
         "title": "හිත නැවතුන තැන",
@@ -1873,7 +2105,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 14700
+        "streams": 30400,
+        "sentiment": "negative"
     },
     {
         "title": "හිත රිදෙන තරම්",
@@ -1881,7 +2114,8 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 30500
+        "streams": 18700,
+        "sentiment": "negative"
     },
     {
         "title": "හිත වාවන්නේම නෑ",
@@ -1889,7 +2123,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 27300
+        "streams": 8000,
+        "sentiment": "negative"
     },
     {
         "title": "ඉකි ගසා හඬන",
@@ -1897,7 +2132,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 13700
+        "streams": 8200,
+        "sentiment": "negative"
     },
     {
         "title": "ඉකිගසා හඬන",
@@ -1905,7 +2141,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 42100
+        "streams": 26500,
+        "sentiment": "negative"
     },
     {
         "title": "ඉර හඳ පායන ලෝකේ",
@@ -1913,7 +2150,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 10100
+        "streams": 23800,
+        "sentiment": "negative"
     },
     {
         "title": "ඉර මුදුනේ ගිරවුන්ගේ කලබලේ",
@@ -1921,7 +2159,8 @@
         "singers": [
             "ඉන්ද්‍රාණි පෙරේරා"
         ],
-        "streams": 48400
+        "streams": 9500,
+        "sentiment": "negative"
     },
     {
         "title": "ඉර සඳ වැඳලා",
@@ -1929,7 +2168,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 32300
+        "streams": 15700,
+        "sentiment": "negative"
     },
     {
         "title": "ඉරට අඩියක් ඉහලින්",
@@ -1938,7 +2178,8 @@
             "නදීක ගුරුගේ",
             "තුෂාර ගල්ලැස්සගේ"
         ],
-        "streams": 8900
+        "streams": 26500,
+        "sentiment": "negative"
     },
     {
         "title": "ඉරට මුවාවෙන් ඉඳගෙන",
@@ -1946,7 +2187,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 48600
+        "streams": 49900,
+        "sentiment": "negative"
     },
     {
         "title": "ඉරට උඩින්",
@@ -1954,7 +2196,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8000
+        "streams": 37600,
+        "sentiment": "negative"
     },
     {
         "title": "ඉරිමා උදයේ",
@@ -1963,7 +2206,8 @@
             "ඉන්ද්‍රචාපා ලියනගේ",
             "කසුන් කල්හාර"
         ],
-        "streams": 8300
+        "streams": 6400,
+        "sentiment": "negative"
     },
     {
         "title": "ඉරි තැලුනු වලා",
@@ -1971,7 +2215,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 15900
+        "streams": 44400,
+        "sentiment": "negative"
     },
     {
         "title": "ඉස්සර සෙනෙහස",
@@ -1979,7 +2224,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 44000
+        "streams": 30700,
+        "sentiment": "negative"
     },
     {
         "title": "ඉස්සර විදියට",
@@ -1987,7 +2233,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 46000
+        "streams": 31700,
+        "sentiment": "negative"
     },
     {
         "title": "ඉතින් නම්",
@@ -1995,7 +2242,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 22700
+        "streams": 32600,
+        "sentiment": "negative"
     },
     {
         "title": "ඉවසයිද මන්දා",
@@ -2004,7 +2252,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 38100
+        "streams": 21600,
+        "sentiment": "negative"
     },
     {
         "title": "ජගදානන්දන මහා කාරුණික",
@@ -2012,7 +2261,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 12500
+        "streams": 17700,
+        "sentiment": "negative"
     },
     {
         "title": "ජේසුනී ඔබට ආදරේ",
@@ -2020,7 +2270,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 39300
+        "streams": 30900,
+        "sentiment": "negative"
     },
     {
         "title": "ජීවිතය ඔබෙන් දැන",
@@ -2028,7 +2279,8 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 16200
+        "streams": 14900,
+        "sentiment": "negative"
     },
     {
         "title": "ජීවිතයේ තනි මංසල",
@@ -2036,7 +2288,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 12100
+        "streams": 41300,
+        "sentiment": "negative"
     },
     {
         "title": "ජීවිතේ මල් යහනාවකි",
@@ -2044,7 +2297,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 40300
+        "streams": 28300,
+        "sentiment": "negative"
     },
     {
         "title": "කාත් කවුරුවත්",
@@ -2052,7 +2306,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 39100
+        "streams": 6100,
+        "sentiment": "negative"
     },
     {
         "title": "කඩමණ්ඩියේ දොල අයිනේ",
@@ -2060,7 +2315,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 26500
+        "streams": 29900,
+        "sentiment": "negative"
     },
     {
         "title": "කලා වැවෙන් ගත්",
@@ -2068,7 +2324,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 27500
+        "streams": 24400,
+        "sentiment": "negative"
     },
     {
         "title": "කලකට පස්සෙ",
@@ -2076,7 +2333,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 45100
+        "streams": 10100,
+        "sentiment": "negative"
     },
     {
         "title": "කලේ පැන් ඇත",
@@ -2084,7 +2342,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 11700
+        "streams": 34200,
+        "sentiment": "negative"
     },
     {
         "title": "කැළේ පිපුණු මලක් විලස",
@@ -2092,7 +2351,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 38400
+        "streams": 25600,
+        "sentiment": "negative"
     },
     {
         "title": "කැලේ ගහක මල්",
@@ -2100,7 +2360,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23800
+        "streams": 14900,
+        "sentiment": "negative"
     },
     {
         "title": "කැලේ පිපුණු මලක්",
@@ -2108,7 +2369,8 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 18600
+        "streams": 16500,
+        "sentiment": "negative"
     },
     {
         "title": "කල්පනා ලොව මල් වනේ",
@@ -2116,7 +2378,8 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 5200
+        "streams": 11500,
+        "sentiment": "negative"
     },
     {
         "title": "කන්ද කෙන්ද කරනු පිණිස",
@@ -2124,7 +2387,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 11600
+        "streams": 8900,
+        "sentiment": "negative"
     },
     {
         "title": "කන්ද පිරිමැද",
@@ -2132,7 +2396,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 49200
+        "streams": 29100,
+        "sentiment": "negative"
     },
     {
         "title": "කන්දෙන් ලන්දෙන්",
@@ -2140,7 +2405,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 47900
+        "streams": 48400,
+        "sentiment": "negative"
     },
     {
         "title": "කන්දෙන් ලන්දෙන්",
@@ -2148,7 +2414,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 25100
+        "streams": 44800,
+        "sentiment": "negative"
     },
     {
         "title": "කදුපාමුල සිට",
@@ -2156,7 +2423,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 12600
+        "streams": 45900,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුපාර ඈත අයිනේ",
@@ -2164,7 +2432,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 37400
+        "streams": 38700,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුලැල් සලා",
@@ -2172,7 +2441,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 18000
+        "streams": 39700,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුළු",
@@ -2180,7 +2450,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 38500
+        "streams": 33000,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුළු බිංදුව",
@@ -2188,7 +2459,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 44100
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුළු කිරි පොවා",
@@ -2196,7 +2468,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 25100
+        "streams": 45400,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුළු පිරිලා",
@@ -2204,7 +2477,8 @@
         "singers": [
             "උදය ශ්‍රී වික්‍රමසිංහ"
         ],
-        "streams": 6500
+        "streams": 5000,
+        "sentiment": "negative"
     },
     {
         "title": "කඳුළු සුන්දරද",
@@ -2212,7 +2486,8 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 46500
+        "streams": 29500,
+        "sentiment": "negative"
     },
     {
         "title": "කරදිය ගැඹරේ",
@@ -2220,7 +2495,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 44200
+        "streams": 21000,
+        "sentiment": "negative"
     },
     {
         "title": "කැරකෙන රෝදේ",
@@ -2228,7 +2504,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 48900
+        "streams": 35200,
+        "sentiment": "negative"
     },
     {
         "title": "කටු අකුලේ",
@@ -2236,7 +2513,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 38400
+        "streams": 7200,
+        "sentiment": "negative"
     },
     {
         "title": "කවුදෝ මට ආදරේ",
@@ -2244,7 +2522,8 @@
         "singers": [
             "හෙලන් අත්තනායක"
         ],
-        "streams": 27600
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "කවි සීපද ඇහෙන ඈත",
@@ -2252,7 +2531,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 24600
+        "streams": 28600,
+        "sentiment": "negative"
     },
     {
         "title": "කවිකාරියේ",
@@ -2260,7 +2540,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 12300
+        "streams": 49900,
+        "sentiment": "negative"
     },
     {
         "title": "කවිය ඔබ",
@@ -2268,7 +2549,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 38100
+        "streams": 49800,
+        "sentiment": "negative"
     },
     {
         "title": "කවුළු පියන් පත් වහන්න",
@@ -2276,7 +2558,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 37900
+        "streams": 32500,
+        "sentiment": "negative"
     },
     {
         "title": "කවුරුන්ද ඔබ මගේ",
@@ -2284,7 +2567,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 22000
+        "streams": 28200,
+        "sentiment": "negative"
     },
     {
         "title": "කවුරුවත් නැහැ",
@@ -2292,7 +2576,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 24000
+        "streams": 9600,
+        "sentiment": "negative"
     },
     {
         "title": "කෙහෙරැල් කඩාගෙන",
@@ -2300,7 +2585,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 17000
+        "streams": 22200,
+        "sentiment": "negative"
     },
     {
         "title": "කෙසේ රහස් පවසම්",
@@ -2308,7 +2594,8 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 16200
+        "streams": 47000,
+        "sentiment": "negative"
     },
     {
         "title": "කෙටිම කෙටි කතාවක්",
@@ -2316,7 +2603,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 22200
+        "streams": 37200,
+        "sentiment": "negative"
     },
     {
         "title": "කිරි අම්මාවරු",
@@ -2324,7 +2612,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 18200
+        "streams": 20200,
+        "sentiment": "negative"
     },
     {
         "title": "කිරි සුදු සේලේ",
@@ -2332,7 +2621,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 27100
+        "streams": 35500,
+        "sentiment": "negative"
     },
     {
         "title": "කොහේ හෝ",
@@ -2340,7 +2630,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 6600
+        "streams": 31200,
+        "sentiment": "negative"
     },
     {
         "title": "කොහේ කොතැනක",
@@ -2348,7 +2639,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 15500
+        "streams": 49600,
+        "sentiment": "negative"
     },
     {
         "title": "කොහේ සිට ඔබ",
@@ -2356,7 +2648,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 45200
+        "streams": 37200,
+        "sentiment": "negative"
     },
     {
         "title": "කොහේ යන්නෙද",
@@ -2364,7 +2657,8 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 5200
+        "streams": 32700,
+        "sentiment": "negative"
     },
     {
         "title": "කොතනක සිටියත් ඔබ මෙලොවේ",
@@ -2372,7 +2666,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 26400
+        "streams": 40300,
+        "sentiment": "negative"
     },
     {
         "title": "කුඩා ගමේ",
@@ -2380,7 +2675,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8000
+        "streams": 6900,
+        "sentiment": "negative"
     },
     {
         "title": "කුල ගෙදරට",
@@ -2388,7 +2684,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 18200
+        "streams": 6600,
+        "sentiment": "negative"
     },
     {
         "title": "කුණ්‌ඩලකේශී",
@@ -2396,7 +2693,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 37200
+        "streams": 23000,
+        "sentiment": "negative"
     },
     {
         "title": "කුරහන් යායේ",
@@ -2404,7 +2702,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 49800
+        "streams": 12900,
+        "sentiment": "negative"
     },
     {
         "title": "කුරුඳු සුවදැති සුළඟම",
@@ -2412,7 +2711,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 20400
+        "streams": 24200,
+        "sentiment": "negative"
     },
     {
         "title": "කුරුල්ලන්ට ගී හදන්න",
@@ -2420,7 +2720,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 43800
+        "streams": 39500,
+        "sentiment": "negative"
     },
     {
         "title": "කුරුටු ගෑ ගී පොතේ",
@@ -2428,7 +2729,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 47300
+        "streams": 31100,
+        "sentiment": "negative"
     },
     {
         "title": "ලා දළු බෝ පත්",
@@ -2436,7 +2738,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 42300
+        "streams": 15600,
+        "sentiment": "negative"
     },
     {
         "title": "ලා රෝස",
@@ -2444,7 +2747,8 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 47600
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "ලබැඳියේ",
@@ -2452,7 +2756,8 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 43900
+        "streams": 16400,
+        "sentiment": "negative"
     },
     {
         "title": "ලෑබුනත් නෙත් යුග",
@@ -2460,7 +2765,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 14300
+        "streams": 44700,
+        "sentiment": "negative"
     },
     {
         "title": "කල්ලඩි පාලම පාමුල",
@@ -2468,7 +2774,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 9800
+        "streams": 41700,
+        "sentiment": "negative"
     },
     {
         "title": "ලං ලං වෙලා",
@@ -2476,7 +2783,8 @@
         "singers": [
             "නොයෙල් රාජ්"
         ],
-        "streams": 21100
+        "streams": 10300,
+        "sentiment": "negative"
     },
     {
         "title": "ලඳුනේ",
@@ -2484,7 +2792,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 11100
+        "streams": 37500,
+        "sentiment": "negative"
     },
     {
         "title": "ළඟින් මගේ ඔබ සතපා",
@@ -2492,7 +2801,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 35000
+        "streams": 46900,
+        "sentiment": "negative"
     },
     {
         "title": "ලැසි ගමනින් යන හනිකේ",
@@ -2500,7 +2810,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 37400
+        "streams": 44300,
+        "sentiment": "negative"
     },
     {
         "title": "ලස්සන අඹ ගසක් සොයාලා",
@@ -2508,7 +2819,8 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 36600
+        "streams": 12100,
+        "sentiment": "negative"
     },
     {
         "title": "ලස්සන ඇස් දෙක ලඟ",
@@ -2516,7 +2828,8 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 46300
+        "streams": 35800,
+        "sentiment": "negative"
     },
     {
         "title": "ලෙන්චිනා මගෙ නංගියේ",
@@ -2524,7 +2837,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 10600
+        "streams": 11000,
+        "sentiment": "negative"
     },
     {
         "title": "ලෙන්ගතුකම නෙතග තියා",
@@ -2532,7 +2846,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 36500
+        "streams": 12000,
+        "sentiment": "negative"
     },
     {
         "title": "ලියන්නට පෙම් හසුනක්",
@@ -2540,7 +2855,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 37900
+        "streams": 42900,
+        "sentiment": "negative"
     },
     {
         "title": "ලියතඹරා",
@@ -2548,7 +2864,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 9100
+        "streams": 16400,
+        "sentiment": "negative"
     },
     {
         "title": "ලොවම එපා වී",
@@ -2556,7 +2873,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 25100
+        "streams": 18400,
+        "sentiment": "negative"
     },
     {
         "title": "ලොවම නිදන රාත්‍රියේ",
@@ -2564,7 +2882,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 39800
+        "streams": 10800,
+        "sentiment": "negative"
     },
     {
         "title": "ලොවේ වෙසෙන",
@@ -2572,7 +2891,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 9700
+        "streams": 5600,
+        "sentiment": "negative"
     },
     {
         "title": "මා මුව අගින්",
@@ -2580,7 +2900,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 29300
+        "streams": 41800,
+        "sentiment": "negative"
     },
     {
         "title": "මා දෑසේ ආදරේ",
@@ -2588,7 +2909,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 28900
+        "streams": 9800,
+        "sentiment": "negative"
     },
     {
         "title": "මා දෙනෙත්",
@@ -2596,7 +2918,8 @@
         "singers": [
             "සාරංග දිසාසේකර"
         ],
-        "streams": 48500
+        "streams": 30700,
+        "sentiment": "negative"
     },
     {
         "title": "මා හඬවලා",
@@ -2604,7 +2927,8 @@
         "singers": [
             "ග්‍රේෂන් ජයමහ"
         ],
-        "streams": 11900
+        "streams": 20800,
+        "sentiment": "negative"
     },
     {
         "title": "මා ඉන්නම් ගීත සංසාරේ",
@@ -2612,7 +2936,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 28900
+        "streams": 5200,
+        "sentiment": "negative"
     },
     {
         "title": "මා ඉතින් යන්න යනවා",
@@ -2620,7 +2945,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 45700
+        "streams": 43100,
+        "sentiment": "negative"
     },
     {
         "title": "මා ලැබු ජීවිතයේ",
@@ -2628,7 +2954,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 44400
+        "streams": 38300,
+        "sentiment": "negative"
     },
     {
         "title": "මා මළ පසු සොහොන් කොතේ",
@@ -2636,7 +2963,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23600
+        "streams": 46400,
+        "sentiment": "negative"
     },
     {
         "title": "මා නෙත් කැදැල්ලේ",
@@ -2644,7 +2972,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 21000
+        "streams": 43000,
+        "sentiment": "negative"
     },
     {
         "title": "මා නිසා ඔබ",
@@ -2652,7 +2981,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 48800
+        "streams": 29400,
+        "sentiment": "negative"
     },
     {
         "title": "මා ඔබත් එක්ක සුහද කතාවක්",
@@ -2660,7 +2990,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 34000
+        "streams": 7300,
+        "sentiment": "negative"
     },
     {
         "title": "මාගේ අතීත දිවියේ",
@@ -2668,7 +2999,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 5600
+        "streams": 46900,
+        "sentiment": "negative"
     },
     {
         "title": "මාල ගිරා ගෙල",
@@ -2677,7 +3009,8 @@
             "ජයරත්න ටී. එම්.",
             "ලතා වල්පොල"
         ],
-        "streams": 34500
+        "streams": 11800,
+        "sentiment": "negative"
     },
     {
         "title": "මාල ගිරවියේ",
@@ -2685,7 +3018,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 27700
+        "streams": 26800,
+        "sentiment": "negative"
     },
     {
         "title": "මාල පබළු වැල්",
@@ -2693,7 +3027,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23500
+        "streams": 41200,
+        "sentiment": "negative"
     },
     {
         "title": "මායම් තරු රෑනේ",
@@ -2701,7 +3036,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 10400
+        "streams": 37400,
+        "sentiment": "negative"
     },
     {
         "title": "මධු චන්ද්‍රයාමේ මෝදුවේ",
@@ -2709,7 +3045,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 49200
+        "streams": 42700,
+        "sentiment": "negative"
     },
     {
         "title": "මදු මල ලෙස",
@@ -2717,7 +3054,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 32700
+        "streams": 23400,
+        "sentiment": "negative"
     },
     {
         "title": "මධුර වසන්තේ",
@@ -2726,7 +3064,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 34000
+        "streams": 8300,
+        "sentiment": "negative"
     },
     {
         "title": "මඟ බල බලා",
@@ -2734,7 +3073,8 @@
         "singers": [
             "ධර්මදාස වල්පොල"
         ],
-        "streams": 21300
+        "streams": 35100,
+        "sentiment": "negative"
     },
     {
         "title": "මගෙ අමල් බිසෝ",
@@ -2742,7 +3082,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 41300
+        "streams": 29600,
+        "sentiment": "negative"
     },
     {
         "title": "මගෙ බිසවුනේ අසාපන්",
@@ -2750,7 +3091,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 46600
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ දිනපොතේහි",
@@ -2758,7 +3100,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 32700
+        "streams": 37900,
+        "sentiment": "negative"
     },
     {
         "title": "මගෙ හද මඬල",
@@ -2766,7 +3109,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 6700
+        "streams": 15200,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ හිත වෙනතක යාවී ඇති බව",
@@ -2774,7 +3118,8 @@
         "singers": [
             "ඉන්ද්‍රාණි පෙරේරා"
         ],
-        "streams": 31500
+        "streams": 5400,
+        "sentiment": "negative"
     },
     {
         "title": "මගෙ කදුලින් නිමා වු",
@@ -2782,7 +3127,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 31700
+        "streams": 27500,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ කියා ඈත් වෙලා",
@@ -2790,7 +3136,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 36500
+        "streams": 9500,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ ළමැද සුව යහනක්",
@@ -2798,7 +3145,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 37700
+        "streams": 19700,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ ඔරුකඳත් දිරාලා",
@@ -2806,7 +3154,8 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 31700
+        "streams": 46700,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ පුංචි රෝසමලේ",
@@ -2814,7 +3163,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 22300
+        "streams": 21300,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ සැමරුම් පොතේ",
@@ -2822,7 +3172,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 47700
+        "streams": 13800,
+        "sentiment": "negative"
     },
     {
         "title": "මගෙ සිහිනේ ඔබයි",
@@ -2830,7 +3181,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 39100
+        "streams": 10600,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ වෙලා ළඟ උන්නු ඔයා",
@@ -2838,7 +3190,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 36900
+        "streams": 37700,
+        "sentiment": "negative"
     },
     {
         "title": "මගේ කඳුළින්",
@@ -2846,7 +3199,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 36900
+        "streams": 25900,
+        "sentiment": "negative"
     },
     {
         "title": "මහ සයුරේ රැළි",
@@ -2854,7 +3208,8 @@
         "singers": [
             "නොයෙල් රාජ්"
         ],
-        "streams": 45700
+        "streams": 7200,
+        "sentiment": "negative"
     },
     {
         "title": "මහ වරුසාවට පසුව නැගෙන සඳ",
@@ -2862,7 +3217,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 29800
+        "streams": 44400,
+        "sentiment": "negative"
     },
     {
         "title": "මහ වැස්සක් බිමට හලා",
@@ -2870,7 +3226,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 5600
+        "streams": 8900,
+        "sentiment": "negative"
     },
     {
         "title": "මහ වැස්සක පෙර නිම්ති",
@@ -2878,7 +3235,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 38200
+        "streams": 28000,
+        "sentiment": "negative"
     },
     {
         "title": "මහද නමැති වන බඹරා",
@@ -2886,7 +3244,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 30900
+        "streams": 46500,
+        "sentiment": "negative"
     },
     {
         "title": "මහළුමඩමේ කාංසියට",
@@ -2894,7 +3253,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 37500
+        "streams": 22800,
+        "sentiment": "negative"
     },
     {
         "title": "මල් එතනෝ",
@@ -2902,7 +3262,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 39400
+        "streams": 38100,
+        "sentiment": "negative"
     },
     {
         "title": "මල් මල් වාරම්",
@@ -2910,7 +3271,8 @@
         "singers": [
             "සුනිල් ශාන්ත"
         ],
-        "streams": 8400
+        "streams": 26800,
+        "sentiment": "negative"
     },
     {
         "title": "මල් මිටක් තියන්න",
@@ -2918,7 +3280,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 36100
+        "streams": 8500,
+        "sentiment": "negative"
     },
     {
         "title": "මල් පිට මල්",
@@ -2926,7 +3289,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 42000
+        "streams": 32200,
+        "sentiment": "negative"
     },
     {
         "title": "මල් පොකුරු පොකුරු",
@@ -2934,7 +3298,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 24300
+        "streams": 39000,
+        "sentiment": "negative"
     },
     {
         "title": "මල් වරුසාවේ",
@@ -2942,7 +3307,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 34900
+        "streams": 42600,
+        "sentiment": "negative"
     },
     {
         "title": "මල් වට්ටියක් වෙන්දේසියක්",
@@ -2950,7 +3316,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 31000
+        "streams": 41900,
+        "sentiment": "negative"
     },
     {
         "title": "මළ හිරු බසිනා සැන්දෑ යාමේ",
@@ -2958,7 +3325,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 10500
+        "streams": 44600,
+        "sentiment": "negative"
     },
     {
         "title": "මලක් සේ",
@@ -2966,7 +3334,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 38100
+        "streams": 8900,
+        "sentiment": "negative"
     },
     {
         "title": "මලක් උනේ ඇයි ඔබ මට",
@@ -2974,7 +3343,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 24300
+        "streams": 5700,
+        "sentiment": "negative"
     },
     {
         "title": "මලක් වගේ පරිස්සමට",
@@ -2982,7 +3352,8 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 6000
+        "streams": 38200,
+        "sentiment": "negative"
     },
     {
         "title": "මලේ සුවඳ වාගේ",
@@ -2990,7 +3361,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 38700
+        "streams": 25500,
+        "sentiment": "negative"
     },
     {
         "title": "මලින් මලට ඉගිළුනාට",
@@ -2998,7 +3370,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 24000
+        "streams": 35200,
+        "sentiment": "negative"
     },
     {
         "title": "මල්ලියේ නරක මිතුරන්",
@@ -3006,7 +3379,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43500
+        "streams": 6400,
+        "sentiment": "negative"
     },
     {
         "title": "මල්සර හීසරින්",
@@ -3014,7 +3388,8 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 22900
+        "streams": 25500,
+        "sentiment": "negative"
     },
     {
         "title": "මං හින්දා ඔබෙ",
@@ -3023,7 +3398,8 @@
             "මාලනී බුලත්සිංහල",
             "ගුණදාස කපුගේ"
         ],
-        "streams": 14700
+        "streams": 33600,
+        "sentiment": "negative"
     },
     {
         "title": "මංමුලා වී",
@@ -3031,7 +3407,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 9200
+        "streams": 49700,
+        "sentiment": "negative"
     },
     {
         "title": "මං නුඹෙම ද අහන හිතින්",
@@ -3039,7 +3416,8 @@
         "singers": [
             "ජගත් වික්‍රමසිංහ"
         ],
-        "streams": 17600
+        "streams": 27400,
+        "sentiment": "negative"
     },
     {
         "title": "මනලෝලී මනමාලියේ",
@@ -3048,7 +3426,8 @@
             "චන්ද්‍රලේකා පෙරේරා",
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 6600
+        "streams": 20900,
+        "sentiment": "negative"
     },
     {
         "title": "මනමේ කුමාරී",
@@ -3056,7 +3435,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 34100
+        "streams": 34100,
+        "sentiment": "negative"
     },
     {
         "title": "මාරම්බරී",
@@ -3064,7 +3444,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 35000
+        "streams": 18500,
+        "sentiment": "negative"
     },
     {
         "title": "මට ආසයි හිනැහෙන්න",
@@ -3072,7 +3453,8 @@
         "singers": [
             "ඇන්ජලින් ගුණතිලක"
         ],
-        "streams": 48100
+        "streams": 26100,
+        "sentiment": "negative"
     },
     {
         "title": "මට දුන්නු දුක් ගින්න",
@@ -3080,7 +3462,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 25100
+        "streams": 30200,
+        "sentiment": "negative"
     },
     {
         "title": "මට හීනයක් වෙලා",
@@ -3088,7 +3471,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 7600
+        "streams": 16000,
+        "sentiment": "negative"
     },
     {
         "title": "මට මුළු ලොවම ඔබයි",
@@ -3097,7 +3481,8 @@
             "රූකාන්ත ගුණතිලක",
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 40500
+        "streams": 44200,
+        "sentiment": "negative"
     },
     {
         "title": "මට වාසනා ඔබ මට වාසනා",
@@ -3105,7 +3490,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 17700
+        "streams": 27600,
+        "sentiment": "negative"
     },
     {
         "title": "මත් මල් සේනා",
@@ -3113,7 +3499,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 41800
+        "streams": 40500,
+        "sentiment": "negative"
     },
     {
         "title": "මතකයන්",
@@ -3122,7 +3509,8 @@
             "සෙනුරි",
             "ජීවන්ත හේවාබන්දු"
         ],
-        "streams": 15500
+        "streams": 34300,
+        "sentiment": "negative"
     },
     {
         "title": "මතකයන් ඔබේ",
@@ -3130,7 +3518,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 46800
+        "streams": 46500,
+        "sentiment": "negative"
     },
     {
         "title": "මේ ගඟ ගලන්නේ",
@@ -3138,7 +3527,8 @@
         "singers": [
             "ප්‍රියංකා ගමගේ"
         ],
-        "streams": 7000
+        "streams": 13100,
+        "sentiment": "negative"
     },
     {
         "title": "මේ උයන් තෙරේ",
@@ -3146,7 +3536,8 @@
         "singers": [
             "නිර්මලා රණතුංග"
         ],
-        "streams": 22700
+        "streams": 29400,
+        "sentiment": "negative"
     },
     {
         "title": "මේ වේදනා",
@@ -3154,7 +3545,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 13300
+        "streams": 40100,
+        "sentiment": "negative"
     },
     {
         "title": "මේ අඩ සඳම",
@@ -3162,7 +3554,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8500
+        "streams": 32600,
+        "sentiment": "negative"
     },
     {
         "title": "මේ අමාවක රැයේ",
@@ -3170,7 +3563,8 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 25100
+        "streams": 38900,
+        "sentiment": "negative"
     },
     {
         "title": "මී අඹ අත්තේ",
@@ -3179,7 +3573,8 @@
             "මිල්ටන් මල්ලවාරච්චි",
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 40500
+        "streams": 26700,
+        "sentiment": "negative"
     },
     {
         "title": "මේ ඇස් දිහා බලන්",
@@ -3187,7 +3582,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 18100
+        "streams": 23100,
+        "sentiment": "negative"
     },
     {
         "title": "මේ අයුරින් අපි",
@@ -3195,7 +3591,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 15800
+        "streams": 42000,
+        "sentiment": "negative"
     },
     {
         "title": "මේ දෑස මගේ පිංවන්තයි",
@@ -3203,7 +3600,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 41200
+        "streams": 46200,
+        "sentiment": "negative"
     },
     {
         "title": "මේ ගී එදා",
@@ -3211,7 +3609,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 14800
+        "streams": 14500,
+        "sentiment": "negative"
     },
     {
         "title": "මේ ගී කාටදැයි",
@@ -3219,7 +3618,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 39000
+        "streams": 27500,
+        "sentiment": "negative"
     },
     {
         "title": "මේ ගුරු පාරේ",
@@ -3227,7 +3627,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43700
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "මේ කඳුලු බින්දුව",
@@ -3235,7 +3636,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 29300
+        "streams": 30300,
+        "sentiment": "negative"
     },
     {
         "title": "මේ මැයි ගහ යට",
@@ -3243,7 +3645,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 32100
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "මේ මල් යායේ",
@@ -3251,7 +3654,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 33500
+        "streams": 29500,
+        "sentiment": "negative"
     },
     {
         "title": "මේ මල් යායේ",
@@ -3259,7 +3663,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 49600
+        "streams": 8300,
+        "sentiment": "negative"
     },
     {
         "title": "මේ තරම් සියුමැලිද කළු ගල්",
@@ -3267,7 +3672,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 40500
+        "streams": 18100,
+        "sentiment": "negative"
     },
     {
         "title": "මීදුමෙන් වැසී",
@@ -3275,7 +3681,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 15000
+        "streams": 42300,
+        "sentiment": "negative"
     },
     {
         "title": "මීන නුවන් යුග",
@@ -3283,7 +3690,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 42800
+        "streams": 13600,
+        "sentiment": "negative"
     },
     {
         "title": "මෙහෙණියක වී",
@@ -3291,7 +3699,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 9800
+        "streams": 35000,
+        "sentiment": "negative"
     },
     {
         "title": "මෙත් මල් පිබිදේවා",
@@ -3299,7 +3708,8 @@
         "singers": [
             "මොරිස් දහනායක"
         ],
-        "streams": 23000
+        "streams": 7100,
+        "sentiment": "negative"
     },
     {
         "title": "මිහි මඩලේ අඳුරු කුසේ",
@@ -3307,7 +3717,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 5500
+        "streams": 9400,
+        "sentiment": "negative"
     },
     {
         "title": "මිහිදුම් සළු තිර",
@@ -3315,7 +3726,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 12200
+        "streams": 29600,
+        "sentiment": "negative"
     },
     {
         "title": "මිහිමඩලේ අදුරු කුසේ",
@@ -3323,7 +3735,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 44100
+        "streams": 46100,
+        "sentiment": "negative"
     },
     {
         "title": "මිහිරියේ ගැමි ළඳේ",
@@ -3331,7 +3744,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43000
+        "streams": 28800,
+        "sentiment": "negative"
     },
     {
         "title": "මින්දද හීසර",
@@ -3339,7 +3753,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 45300
+        "streams": 45700,
+        "sentiment": "negative"
     },
     {
         "title": "මිණි මිණි පොද වැටේවි",
@@ -3347,7 +3762,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 45200
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "මිනින්දෝරු කන්තෝරුවේ",
@@ -3355,7 +3771,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 35700
+        "streams": 41600,
+        "sentiment": "negative"
     },
     {
         "title": "මිනිසා සඳට ගියාලූ",
@@ -3363,7 +3780,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 49500
+        "streams": 24800,
+        "sentiment": "negative"
     },
     {
         "title": "මිනිසා සුවඳයි මල සේ",
@@ -3371,7 +3789,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 25400
+        "streams": 34800,
+        "sentiment": "negative"
     },
     {
         "title": "මිරිඟුව පරදා",
@@ -3379,7 +3798,8 @@
         "singers": [
             "චිත්රාල් සෝමපාල"
         ],
-        "streams": 21900
+        "streams": 39900,
+        "sentiment": "negative"
     },
     {
         "title": "මිරිවැඩි සඟලක් ඉල්ලා හැඬුවෙමි",
@@ -3387,7 +3807,8 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 8500
+        "streams": 18700,
+        "sentiment": "negative"
     },
     {
         "title": "මිතුරේ පවසන්",
@@ -3395,7 +3816,8 @@
         "singers": [
             "ප්‍රිහාන් මඩප්පුලි"
         ],
-        "streams": 7100
+        "streams": 6100,
+        "sentiment": "negative"
     },
     {
         "title": "මියයයිදෝ මන්දා",
@@ -3403,7 +3825,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 9900
+        "streams": 32100,
+        "sentiment": "negative"
     },
     {
         "title": "මියුරු කල්පනා",
@@ -3411,7 +3834,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 42700
+        "streams": 9500,
+        "sentiment": "negative"
     },
     {
         "title": "මොනවද මුත්තේ මොකද කරන්නේ",
@@ -3419,7 +3843,8 @@
         "singers": [
             "රෝහණ වීරසිංහ"
         ],
-        "streams": 48400
+        "streams": 45200,
+        "sentiment": "negative"
     },
     {
         "title": "මොරසූරණ වැසි",
@@ -3427,7 +3852,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 12000
+        "streams": 16800,
+        "sentiment": "negative"
     },
     {
         "title": "මුදු මුහුණේ",
@@ -3436,7 +3862,8 @@
             "දීපිකා ප්‍රියදර්ශනී",
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 37500
+        "streams": 37300,
+        "sentiment": "negative"
     },
     {
         "title": "මුහුද හඬන වෙලාවේ",
@@ -3444,7 +3871,8 @@
         "singers": [
             "මධුමාධව අරවින්ද"
         ],
-        "streams": 37400
+        "streams": 21600,
+        "sentiment": "negative"
     },
     {
         "title": "මුලදි බැන්ද ආදරයක",
@@ -3452,7 +3880,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 43600
+        "streams": 47400,
+        "sentiment": "negative"
     },
     {
         "title": "මුළු ලොව මගෙන් අසාවී",
@@ -3460,7 +3889,8 @@
         "singers": [
             "සනත් නන්දසිරි"
         ],
-        "streams": 36900
+        "streams": 39700,
+        "sentiment": "negative"
     },
     {
         "title": "මුළු ලොවම නැති උනත්",
@@ -3468,7 +3898,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 42300
+        "streams": 8200,
+        "sentiment": "negative"
     },
     {
         "title": "මුණි සිරිපා සිඹිමින්නේ",
@@ -3476,7 +3907,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43500
+        "streams": 25000,
+        "sentiment": "negative"
     },
     {
         "title": "මුතු කඳුලින්",
@@ -3484,7 +3916,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 8600
+        "streams": 23400,
+        "sentiment": "negative"
     },
     {
         "title": "මුතු සෙව්වෙමි",
@@ -3492,7 +3925,8 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 17900
+        "streams": 6300,
+        "sentiment": "negative"
     },
     {
         "title": "මුතු වරුසාවක් වැහැලා",
@@ -3500,7 +3934,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 22300
+        "streams": 15200,
+        "sentiment": "negative"
     },
     {
         "title": "මුව මුඛ්‍යා ලතා",
@@ -3508,7 +3943,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 24600
+        "streams": 30400,
+        "sentiment": "negative"
     },
     {
         "title": "මුවරද බර පිපි මල් ගොමු",
@@ -3516,7 +3952,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 48300
+        "streams": 31300,
+        "sentiment": "negative"
     },
     {
         "title": "නාඹර ගොයමට",
@@ -3524,7 +3961,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 45400
+        "streams": 10500,
+        "sentiment": "negative"
     },
     {
         "title": "නාමල් ආයේ පිපුණාවේ",
@@ -3532,7 +3970,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 16500
+        "streams": 22600,
+        "sentiment": "negative"
     },
     {
         "title": "නැගෙන බිඳෙන",
@@ -3540,7 +3979,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 44000
+        "streams": 20000,
+        "sentiment": "negative"
     },
     {
         "title": "නන් සුරන්",
@@ -3548,7 +3988,8 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 22700
+        "streams": 41100,
+        "sentiment": "negative"
     },
     {
         "title": "නන්දනීය පෙම",
@@ -3556,7 +3997,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 22400
+        "streams": 31200,
+        "sentiment": "negative"
     },
     {
         "title": "නන්නාදුනන සිහිනය",
@@ -3564,7 +4006,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 41000
+        "streams": 36200,
+        "sentiment": "negative"
     },
     {
         "title": "නතාෂා",
@@ -3573,7 +4016,8 @@
             "ඉන්ද්‍රචාපා ලියනගේ",
             "කසුන් කල්හාර"
         ],
-        "streams": 42300
+        "streams": 38600,
+        "sentiment": "negative"
     },
     {
         "title": "නවදැලි හේනක",
@@ -3581,7 +4025,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 12000
+        "streams": 19400,
+        "sentiment": "negative"
     },
     {
         "title": "නෞකා එලි නිවෙනා රෑ",
@@ -3589,7 +4034,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 12900
+        "streams": 14600,
+        "sentiment": "negative"
     },
     {
         "title": "නීල බිගු කැල",
@@ -3597,7 +4043,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 43600
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "නෙත නෙතට හොරා",
@@ -3605,7 +4052,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 10300
+        "streams": 44300,
+        "sentiment": "negative"
     },
     {
         "title": "නෙතට උළෙලක් විය එදා ඔබ",
@@ -3613,7 +4061,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 27800
+        "streams": 48800,
+        "sentiment": "negative"
     },
     {
         "title": "නිදුකාණනේ",
@@ -3621,7 +4070,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 28800
+        "streams": 35600,
+        "sentiment": "negative"
     },
     {
         "title": "නිහඬ ගමනේ",
@@ -3630,7 +4080,8 @@
             "භාචි සුසාන්",
             "ෂානිකා මදුමාලි"
         ],
-        "streams": 14600
+        "streams": 23000,
+        "sentiment": "negative"
     },
     {
         "title": "නිහඩ කල්පනා",
@@ -3638,7 +4089,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 31000
+        "streams": 48400,
+        "sentiment": "negative"
     },
     {
         "title": "නිල් මානෙල් මල් පිපුනා",
@@ -3646,7 +4098,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 45800
+        "streams": 43600,
+        "sentiment": "negative"
     },
     {
         "title": "නීල කොබෙයි රෑන ඇඳී",
@@ -3654,7 +4107,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43800
+        "streams": 24900,
+        "sentiment": "negative"
     },
     {
         "title": "නිලට නිලේ නිල් කැටේට",
@@ -3663,7 +4117,8 @@
             "කසුන් කල්හාර",
             "උරේෂා රවිහාරි"
         ],
-        "streams": 49500
+        "streams": 46900,
+        "sentiment": "negative"
     },
     {
         "title": "නිල් මිණි දෙනෙතේ",
@@ -3672,7 +4127,8 @@
             "රූකාන්ත ගුණතිලක",
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 13900
+        "streams": 14300,
+        "sentiment": "negative"
     },
     {
         "title": "නිල්වන ලන්දේ",
@@ -3680,7 +4136,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 13300
+        "streams": 5400,
+        "sentiment": "negative"
     },
     {
         "title": "නිම් තෙරක් නොදුටු",
@@ -3688,7 +4145,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 5900
+        "streams": 22400,
+        "sentiment": "negative"
     },
     {
         "title": "නිම්හිම් සෙවුවා මා සසරේ",
@@ -3696,7 +4154,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 18900
+        "streams": 24000,
+        "sentiment": "negative"
     },
     {
         "title": "නින්ද නැති රැයේ",
@@ -3704,7 +4163,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 31200
+        "streams": 20000,
+        "sentiment": "negative"
     },
     {
         "title": "නින්ද නේන රාත්‍රීයේ",
@@ -3712,7 +4172,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 41500
+        "streams": 34200,
+        "sentiment": "negative"
     },
     {
         "title": "නින්ද නොයන හැන්දෑවේ",
@@ -3720,7 +4181,8 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 16500
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "නිර්මලා ලොන්ඩරිය හිමි සළු",
@@ -3729,7 +4191,8 @@
             "ගුණදාස කපුගේ",
             "නිරංජලා සරෝජිනී"
         ],
-        "streams": 39400
+        "streams": 7000,
+        "sentiment": "negative"
     },
     {
         "title": "නිසසල හදවත",
@@ -3737,7 +4200,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 6800
+        "streams": 17900,
+        "sentiment": "negative"
     },
     {
         "title": "නිවන් දුටු හිමි",
@@ -3745,7 +4209,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 15400
+        "streams": 16500,
+        "sentiment": "negative"
     },
     {
         "title": "නිවන් පුරට මඟ පෙන්වන",
@@ -3753,7 +4218,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 46100
+        "streams": 27100,
+        "sentiment": "negative"
     },
     {
         "title": "නොබලන් කුමරිය",
@@ -3761,7 +4227,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 46300
+        "streams": 15900,
+        "sentiment": "negative"
     },
     {
         "title": "නොදැක ඉන්න බෑ",
@@ -3769,7 +4236,8 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 29900
+        "streams": 39500,
+        "sentiment": "negative"
     },
     {
         "title": "නොදැක ඉන්න බැ",
@@ -3777,7 +4245,8 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 5700
+        "streams": 17400,
+        "sentiment": "negative"
     },
     {
         "title": "නුඹේ සිතට පුන්සඳ පායලා වගේ",
@@ -3785,7 +4254,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 34700
+        "streams": 38500,
+        "sentiment": "negative"
     },
     {
         "title": "නුග සෙවණක් සේ",
@@ -3793,7 +4263,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 32400
+        "streams": 33400,
+        "sentiment": "negative"
     },
     {
         "title": "නුඹ ළඟ නැති දා",
@@ -3801,7 +4272,8 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 14900
+        "streams": 19000,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ ආයෙමත් ඇවිදින්",
@@ -3809,7 +4281,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 26300
+        "streams": 41100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ ඇපල් මලක් වාගේ",
@@ -3817,7 +4290,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 30200
+        "streams": 24900,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දකින දකින",
@@ -3825,7 +4299,8 @@
         "singers": [
             "ප්‍රනාන්දු එම්. එස්.."
         ],
-        "streams": 45000
+        "streams": 39300,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දැන් කීවත් කඳුළු සලා",
@@ -3833,7 +4308,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 16700
+        "streams": 15800,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දැන් කීවත් කඳුළු සලා",
@@ -3841,7 +4317,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 35700
+        "streams": 37400,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දැන් කීවත් කඳුළු සලා",
@@ -3849,7 +4326,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 40300
+        "streams": 27100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දන්නව නම් එක කදුළු බිදක්",
@@ -3857,7 +4335,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 35300
+        "streams": 16600,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ දන්නෙ නෑ",
@@ -3865,7 +4344,8 @@
         "singers": [
             "තරිඳු මිතිල"
         ],
-        "streams": 11300
+        "streams": 48800,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ එනව බලා",
@@ -3873,7 +4353,8 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 21200
+        "streams": 30400,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ ගාව මම ඉන්නෙමි",
@@ -3881,7 +4362,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 25600
+        "streams": 18600,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ හා මෙමා",
@@ -3889,7 +4371,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 46900
+        "streams": 49300,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ හීනයක්‌",
@@ -3897,7 +4380,8 @@
         "singers": [
             "සංඛ දිනෙත්"
         ],
-        "streams": 46700
+        "streams": 12400,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ හීනයක් වගේ",
@@ -3905,7 +4389,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 7700
+        "streams": 5300,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ කැමති නම් මට කියන්න",
@@ -3913,7 +4398,8 @@
         "singers": [
             "බිලී ෆර්නෑන්ඩෝ"
         ],
-        "streams": 41200
+        "streams": 47500,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ මා හමු වුන",
@@ -3921,7 +4407,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 30300
+        "streams": 44600,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ මා හමුවුනදා",
@@ -3929,7 +4416,8 @@
         "singers": [
             "සශිකා නිසංසලා"
         ],
-        "streams": 9200
+        "streams": 5500,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ මලක් වෙලා",
@@ -3937,7 +4425,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 44100
+        "streams": 19800,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ මට තරුවකි",
@@ -3946,7 +4435,8 @@
             "ලක්ශ්මන් විජේසේකර",
             "නිර්මලා රණතුංග"
         ],
-        "streams": 23400
+        "streams": 34500,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ මුලාවී",
@@ -3954,7 +4444,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 48600
+        "streams": 23400,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ නැතුව ඉන්න බැරි තරමට",
@@ -3962,7 +4453,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 23400
+        "streams": 46100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ නිදනා සීතල පොළවේ",
@@ -3970,7 +4462,8 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 44500
+        "streams": 49500,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ පෙම් කරනා",
@@ -3978,7 +4471,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 48800
+        "streams": 13300,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ පිපුණා",
@@ -3986,7 +4480,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 18300
+        "streams": 45100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ තරම් පෙම් කල කිසිවෙක්",
@@ -3994,7 +4489,8 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 45700
+        "streams": 38700,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ තෙමෙයි කියා බයයි",
@@ -4002,7 +4498,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 49900
+        "streams": 31700,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ වෙනුවෙන් මා",
@@ -4010,7 +4507,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 8800
+        "streams": 28800,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබයි රම්‍ය සඳ කිරණ",
@@ -4018,7 +4516,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 10000
+        "streams": 21300,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබට නොහැත (මල් දෙවට)",
@@ -4026,7 +4525,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 24200
+        "streams": 5200,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබ ආදරේ",
@@ -4034,7 +4534,8 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 15100
+        "streams": 43200,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබේ අත ගෙන",
@@ -4042,7 +4543,8 @@
         "singers": [
             "රෝහණ සිරිවර්ධන"
         ],
-        "streams": 14200
+        "streams": 45600,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබේ නමින් සෑය බඳිමි",
@@ -4050,7 +4552,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 15600
+        "streams": 11100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබේ පෙම් වදන් නෑ",
@@ -4058,7 +4561,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 26900
+        "streams": 35200,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබේ සිනා ලඟ",
@@ -4066,7 +4570,8 @@
         "singers": [
             "ජගත් වික්‍රමසිංහ"
         ],
-        "streams": 9600
+        "streams": 36700,
+        "sentiment": "negative"
     },
     {
         "title": "ඔබෙ සිත මා සිත",
@@ -4074,7 +4579,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 40900
+        "streams": 16200,
+        "sentiment": "negative"
     },
     {
         "title": "ඔන්න බබෝ ඇතින්නියා",
@@ -4082,7 +4588,8 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 11100
+        "streams": 21100,
+        "sentiment": "negative"
     },
     {
         "title": "ඔයා හින්දා මං වින්දා",
@@ -4090,7 +4597,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 6900
+        "streams": 46900,
+        "sentiment": "negative"
     },
     {
         "title": "ඔයා ළඟින් ඈත්වෙලා",
@@ -4098,7 +4606,8 @@
         "singers": [
             "ලක්ශ්මන් හේවාවිතාරණ"
         ],
-        "streams": 8500
+        "streams": 24400,
+        "sentiment": "negative"
     },
     {
         "title": "ඔයා නිසා මගේ සිනා",
@@ -4106,7 +4615,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 19600
+        "streams": 34200,
+        "sentiment": "negative"
     },
     {
         "title": "ඔය සුසුම් පවන් වැදී",
@@ -4114,7 +4624,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 19300
+        "streams": 19500,
+        "sentiment": "negative"
     },
     {
         "title": "පාලු අඳුරු නිල් අහස මමයි",
@@ -4122,7 +4633,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 34400
+        "streams": 36900,
+        "sentiment": "negative"
     },
     {
         "title": "පාර මාරු වෙන්නෙ",
@@ -4130,7 +4642,8 @@
         "singers": [
             "ලයනල් රන්වල"
         ],
-        "streams": 48600
+        "streams": 23200,
+        "sentiment": "negative"
     },
     {
         "title": "පරමිතා බල පූරිත පූජිත",
@@ -4138,7 +4651,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 39400
+        "streams": 34800,
+        "sentiment": "negative"
     },
     {
         "title": "පාරු පාලමෙන්",
@@ -4146,7 +4660,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17300
+        "streams": 35300,
+        "sentiment": "negative"
     },
     {
         "title": "පාටින් පාට අවුලා",
@@ -4154,7 +4669,8 @@
         "singers": [
             "හර්ෂ ධනෝෂ්"
         ],
-        "streams": 49400
+        "streams": 18100,
+        "sentiment": "negative"
     },
     {
         "title": "පාවේ වලා",
@@ -4162,7 +4678,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 26500
+        "streams": 44500,
+        "sentiment": "negative"
     },
     {
         "title": "පායා ආ සඳ",
@@ -4170,7 +4687,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 28500
+        "streams": 26600,
+        "sentiment": "negative"
     },
     {
         "title": "පායා ඇයි හි‍නැහෙන්නේ",
@@ -4178,7 +4696,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 7500
+        "streams": 40400,
+        "sentiment": "negative"
     },
     {
         "title": "පායා එන සඳවත මනරම්",
@@ -4186,7 +4705,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 24000
+        "streams": 34100,
+        "sentiment": "negative"
     },
     {
         "title": "පායන සඳේ",
@@ -4194,7 +4714,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 23200
+        "streams": 14700,
+        "sentiment": "negative"
     },
     {
         "title": "පැහැසර අරුණක",
@@ -4202,7 +4723,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 7500
+        "streams": 42200,
+        "sentiment": "negative"
     },
     {
         "title": "පමා වැඩියි ඔබ පමා වැඩී",
@@ -4210,7 +4732,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 29100
+        "streams": 27900,
+        "sentiment": "negative"
     },
     {
         "title": "පැන මඩ කඩිති",
@@ -4218,7 +4741,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35600
+        "streams": 13100,
+        "sentiment": "negative"
     },
     {
         "title": "පණ වාගේ හිටියාට",
@@ -4226,7 +4750,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 41200
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "පැරදීලා පලා ගියේ නෑ",
@@ -4234,7 +4759,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 36600
+        "streams": 24000,
+        "sentiment": "negative"
     },
     {
         "title": "පසක් කොට ඇති",
@@ -4242,7 +4768,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 39700
+        "streams": 13000,
+        "sentiment": "negative"
     },
     {
         "title": "පතනා දේ සුන් වේ නම්",
@@ -4250,7 +4777,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 16100
+        "streams": 19300,
+        "sentiment": "negative"
     },
     {
         "title": "පතනා දේ සුන් වේ නම්",
@@ -4258,7 +4786,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 18500
+        "streams": 46400,
+        "sentiment": "negative"
     },
     {
         "title": "පවින් මා මුදා ගත්",
@@ -4266,7 +4795,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 29200
+        "streams": 31200,
+        "sentiment": "negative"
     },
     {
         "title": "පායනා ඉර පාන කාගේ",
@@ -4274,7 +4804,8 @@
         "singers": [
             "උරේෂා රවිහාරි"
         ],
-        "streams": 26500
+        "streams": 20100,
+        "sentiment": "negative"
     },
     {
         "title": "පෙම් කවක් ලියූ නුඹ",
@@ -4282,7 +4813,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 34000
+        "streams": 9400,
+        "sentiment": "negative"
     },
     {
         "title": "පෙම් පාට වෙලා",
@@ -4290,7 +4822,8 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 34200
+        "streams": 7100,
+        "sentiment": "negative"
     },
     {
         "title": "පෙම් සිහිනේ",
@@ -4298,7 +4831,8 @@
         "singers": [
             "ප්‍රදීප් රංගන"
         ],
-        "streams": 36300
+        "streams": 14700,
+        "sentiment": "negative"
     },
     {
         "title": "පෙම්බර මධු මගේ",
@@ -4306,7 +4840,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 22300
+        "streams": 12700,
+        "sentiment": "negative"
     },
     {
         "title": "පෙනෙන නොපෙනෙන",
@@ -4314,7 +4849,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 46800
+        "streams": 25900,
+        "sentiment": "negative"
     },
     {
         "title": "පෙනුණු සුව දසුන්",
@@ -4322,7 +4858,8 @@
         "singers": [
             "හෙන්රි කල්දේරා"
         ],
-        "streams": 33100
+        "streams": 38900,
+        "sentiment": "negative"
     },
     {
         "title": "පෙර දිනයක මා",
@@ -4330,7 +4867,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 5500
+        "streams": 35300,
+        "sentiment": "negative"
     },
     {
         "title": "පෙර එක දවසක",
@@ -4338,7 +4876,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 45000
+        "streams": 17600,
+        "sentiment": "negative"
     },
     {
         "title": "පෙරදා මැවු සිනා",
@@ -4346,7 +4885,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 7300
+        "streams": 31300,
+        "sentiment": "negative"
     },
     {
         "title": "පෙරදා මහ රෑ",
@@ -4354,7 +4894,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 30100
+        "streams": 38300,
+        "sentiment": "negative"
     },
     {
         "title": "පෙරදාක සුසුමක්",
@@ -4362,7 +4903,8 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 27800
+        "streams": 25800,
+        "sentiment": "negative"
     },
     {
         "title": "පෙරදිනක එදා හමුවූවේ",
@@ -4370,7 +4912,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 22000
+        "streams": 18700,
+        "sentiment": "negative"
     },
     {
         "title": "පෙරුම් පුරාගෙන",
@@ -4378,7 +4921,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 40000
+        "streams": 41200,
+        "sentiment": "negative"
     },
     {
         "title": "පීදෙන ගොයමේ",
@@ -4386,7 +4930,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 31200
+        "streams": 19200,
+        "sentiment": "negative"
     },
     {
         "title": "පින් මන්ද රංග භූමියේ",
@@ -4394,7 +4939,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 18700
+        "streams": 24200,
+        "sentiment": "negative"
     },
     {
         "title": "පිණිබර යාමේ",
@@ -4402,7 +4948,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 30200
+        "streams": 45200,
+        "sentiment": "negative"
     },
     {
         "title": "පිණි පොද වැටෙනා",
@@ -4410,7 +4957,8 @@
         "singers": [
             "ශිහාන් මිහිරංග"
         ],
-        "streams": 48600
+        "streams": 27800,
+        "sentiment": "negative"
     },
     {
         "title": "පින්න මලේ",
@@ -4418,7 +4966,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 29800
+        "streams": 49400,
+        "sentiment": "negative"
     },
     {
         "title": "පි‍න්න පිපුනු",
@@ -4426,7 +4975,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 25000
+        "streams": 31600,
+        "sentiment": "negative"
     },
     {
         "title": "පින්නේ රැයේ",
@@ -4434,7 +4984,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 25600
+        "streams": 44600,
+        "sentiment": "negative"
     },
     {
         "title": "පින්සර ඔබ හැර",
@@ -4442,7 +4993,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 40700
+        "streams": 11600,
+        "sentiment": "negative"
     },
     {
         "title": "පිපුණු කුසුමේ",
@@ -4450,7 +5002,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 27200
+        "streams": 38100,
+        "sentiment": "negative"
     },
     {
         "title": "පියාණනී මා",
@@ -4458,7 +5011,8 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 44700
+        "streams": 35900,
+        "sentiment": "negative"
     },
     {
         "title": "පියවුණා",
@@ -4466,7 +5020,8 @@
         "singers": [
             "ඉන්ද්‍රචාපා ලියනගේ"
         ],
-        "streams": 46900
+        "streams": 43400,
+        "sentiment": "negative"
     },
     {
         "title": "පියුමෙහි පැණි බොති",
@@ -4474,7 +5029,8 @@
         "singers": [
             "Unknown"
         ],
-        "streams": 8600
+        "streams": 10200,
+        "sentiment": "negative"
     },
     {
         "title": "පොඩි දුවගේ සිනා වැලයි",
@@ -4482,7 +5038,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 16300
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "පොල්රුප්පාවේ",
@@ -4490,7 +5047,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 39400
+        "streams": 33900,
+        "sentiment": "negative"
     },
     {
         "title": "පූජාසනයේ ඔබ හිඳුවා",
@@ -4498,7 +5056,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 10800
+        "streams": 32700,
+        "sentiment": "negative"
     },
     {
         "title": "ප්‍රංශ යුවතියන්",
@@ -4506,7 +5065,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 37900
+        "streams": 48200,
+        "sentiment": "negative"
     },
     {
         "title": "ප්‍රාර්ථනා",
@@ -4514,7 +5074,8 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 14500
+        "streams": 8400,
+        "sentiment": "negative"
     },
     {
         "title": "ප්‍රේමයේ විල් තෙරේ",
@@ -4522,7 +5083,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 33800
+        "streams": 38000,
+        "sentiment": "negative"
     },
     {
         "title": "පෘතුගීසී කාරයා",
@@ -4530,7 +5092,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 27800
+        "streams": 45100,
+        "sentiment": "negative"
     },
     {
         "title": "පුන් පෝදා සඳ",
@@ -4538,7 +5101,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 21100
+        "streams": 28800,
+        "sentiment": "negative"
     },
     {
         "title": "පුංචි සාවියේ",
@@ -4546,7 +5110,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 14200
+        "streams": 41100,
+        "sentiment": "negative"
     },
     {
         "title": "පුර පෝය හඳ",
@@ -4554,7 +5119,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43200
+        "streams": 24500,
+        "sentiment": "negative"
     },
     {
         "title": "පුරාණේ ඔබට පිදු ආලේ",
@@ -4562,7 +5128,8 @@
         "singers": [
             "රොහාන් ද සිල්වා"
         ],
-        "streams": 36500
+        "streams": 10000,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ අහසේ (සැමදා ම‍ගේමයි)",
@@ -4570,7 +5137,8 @@
         "singers": [
             "බිලී ෆර්නෑන්ඩෝ"
         ],
-        "streams": 34300
+        "streams": 23200,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ පැල් රකින",
@@ -4578,7 +5146,8 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 19200
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ පුරා",
@@ -4586,7 +5155,8 @@
         "singers": [
             "ඩැඩී"
         ],
-        "streams": 7100
+        "streams": 45700,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ අහසේ තරු ගානට",
@@ -4594,7 +5164,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 22900
+        "streams": 32700,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ අහසින්",
@@ -4602,7 +5173,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 36800
+        "streams": 33400,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ අඳුරේ",
@@ -4610,7 +5182,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 28600
+        "streams": 21800,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ පුරා",
@@ -4618,7 +5191,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 17000
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ සඳ ඇවිත් ගියා",
@@ -4626,7 +5200,8 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 7700
+        "streams": 45000,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ සිහිනේ",
@@ -4634,7 +5209,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 37700
+        "streams": 48800,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ තාරකාවෝ",
@@ -4642,7 +5218,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 22800
+        "streams": 31000,
+        "sentiment": "negative"
     },
     {
         "title": "රෑ වැඩ මුරය",
@@ -4650,7 +5227,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 14400
+        "streams": 45500,
+        "sentiment": "negative"
     },
     {
         "title": "රාධා",
@@ -4658,7 +5236,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 15400
+        "streams": 49000,
+        "sentiment": "negative"
     },
     {
         "title": "රාජ මාළි‍ඟේ",
@@ -4666,7 +5245,8 @@
         "singers": [
             "ප්‍රෙඩී සිල්වා"
         ],
-        "streams": 34100
+        "streams": 30600,
+        "sentiment": "negative"
     },
     {
         "title": "රෑනේ ඉගිලෙන්න ඕනේ",
@@ -4674,7 +5254,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 47800
+        "streams": 29700,
+        "sentiment": "negative"
     },
     {
         "title": "රජ මැදුරක",
@@ -4682,7 +5263,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 8900
+        "streams": 29700,
+        "sentiment": "negative"
     },
     {
         "title": "රජ පෙරහැර",
@@ -4690,7 +5272,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17000
+        "streams": 43000,
+        "sentiment": "negative"
     },
     {
         "title": "රැලකින් තනි වී",
@@ -4698,7 +5281,8 @@
         "singers": [
             "අබේවර්ධන බාලසූරිය"
         ],
-        "streams": 27900
+        "streams": 33300,
+        "sentiment": "negative"
     },
     {
         "title": "රම්බරි",
@@ -4706,7 +5290,8 @@
         "singers": [
             "ලහිරු පෙරේරා"
         ],
-        "streams": 42500
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "රන් දොරින් එන්න",
@@ -4714,7 +5299,8 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 32500
+        "streams": 28400,
+        "sentiment": "negative"
     },
     {
         "title": "රන් කෙන් දෙන් බැඳ",
@@ -4722,7 +5308,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 13800
+        "streams": 38600,
+        "sentiment": "negative"
     },
     {
         "title": "රන් මලක් ලෙස",
@@ -4730,7 +5317,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 45200
+        "streams": 37700,
+        "sentiment": "negative"
     },
     {
         "title": "රන් මිණි සරුව",
@@ -4738,7 +5326,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 18300
+        "streams": 20200,
+        "sentiment": "negative"
     },
     {
         "title": "රන් පලසේ වැතිරී",
@@ -4746,7 +5335,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 49900
+        "streams": 27600,
+        "sentiment": "negative"
     },
     {
         "title": "රන් සමනලයෝ",
@@ -4754,7 +5344,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 37100
+        "streams": 38100,
+        "sentiment": "negative"
     },
     {
         "title": "රන් ටිකිරි සිනා",
@@ -4762,7 +5353,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 30800
+        "streams": 10000,
+        "sentiment": "negative"
     },
     {
         "title": "රණඹර ඉඳු දුනු",
@@ -4770,7 +5362,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 30100
+        "streams": 21800,
+        "sentiment": "negative"
     },
     {
         "title": "රැස් විහිදෙන සමනලියකගෙන්",
@@ -4778,7 +5371,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 26300
+        "streams": 41400,
+        "sentiment": "negative"
     },
     {
         "title": "රටා තියලා",
@@ -4786,7 +5380,8 @@
         "singers": [
             "කිංස්ලි පීරිස්"
         ],
-        "streams": 11000
+        "streams": 43100,
+        "sentiment": "negative"
     },
     {
         "title": "රටකින් එහා ඉගිලී",
@@ -4794,7 +5389,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 17100
+        "streams": 36800,
+        "sentiment": "negative"
     },
     {
         "title": "රත්තරන් මාගේ",
@@ -4802,7 +5398,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 9500
+        "streams": 39700,
+        "sentiment": "negative"
     },
     {
         "title": "රත්තරන් ප්‍රාර්ථනා",
@@ -4810,7 +5407,8 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 40000
+        "streams": 42100,
+        "sentiment": "negative"
     },
     {
         "title": "රත්තරන් ප්‍රාර්ථනා",
@@ -4818,7 +5416,8 @@
         "singers": [
             "රෝයි පීරිස්"
         ],
-        "streams": 25900
+        "streams": 29800,
+        "sentiment": "negative"
     },
     {
         "title": "රැවටුන තරම්",
@@ -4826,7 +5425,8 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 21500
+        "streams": 35700,
+        "sentiment": "negative"
     },
     {
         "title": "රැයක් උපද්දා",
@@ -4834,7 +5434,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 44600
+        "streams": 40600,
+        "sentiment": "negative"
     },
     {
         "title": "රොනට වඩින",
@@ -4842,7 +5443,8 @@
         "singers": [
             "ලතා වල්පොල"
         ],
-        "streams": 38600
+        "streams": 38900,
+        "sentiment": "negative"
     },
     {
         "title": "රෝස මලෙක",
@@ -4850,7 +5452,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 6400
+        "streams": 32300,
+        "sentiment": "negative"
     },
     {
         "title": "රොසලිනා",
@@ -4858,7 +5461,8 @@
         "singers": [
             "නලින් පෙරේරා"
         ],
-        "streams": 10400
+        "streams": 37300,
+        "sentiment": "negative"
     },
     {
         "title": "රුදුරු තුරු වඳුලේ",
@@ -4866,7 +5470,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 14100
+        "streams": 19700,
+        "sentiment": "negative"
     },
     {
         "title": "රුදුරු තුරු වදුලේ",
@@ -4874,7 +5479,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 23000
+        "streams": 35200,
+        "sentiment": "negative"
     },
     {
         "title": "රුක් අත්තන මල මුදුනේ",
@@ -4882,7 +5488,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 15100
+        "streams": 30200,
+        "sentiment": "negative"
     },
     {
         "title": "රුවක් ඇදෙනවා",
@@ -4890,7 +5497,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 25000
+        "streams": 22500,
+        "sentiment": "negative"
     },
     {
         "title": "රුවන් තාරකා",
@@ -4898,7 +5506,8 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 37400
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "රුවන් වලා විමානේ",
@@ -4907,7 +5516,8 @@
             "ලතා වල්පොල",
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 8500
+        "streams": 21800,
+        "sentiment": "negative"
     },
     {
         "title": "සායම් කිරිල්ලී",
@@ -4915,7 +5525,8 @@
         "singers": [
             "තීක්ෂණ අනුරාධ"
         ],
-        "streams": 18200
+        "streams": 44600,
+        "sentiment": "negative"
     },
     {
         "title": "සබඳ අපි කඳු නොවෙමු",
@@ -4923,7 +5534,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 20500
+        "streams": 13800,
+        "sentiment": "negative"
     },
     {
         "title": "සදාකාලික නොවූ ලෝකේ",
@@ -4931,7 +5543,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 7600
+        "streams": 8800,
+        "sentiment": "negative"
     },
     {
         "title": "සකිසඳ නුඹමය",
@@ -4939,7 +5552,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17100
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "සැලෙන ලෙලෙන දළුව විලස",
@@ -4947,7 +5561,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 49300
+        "streams": 41800,
+        "sentiment": "negative"
     },
     {
         "title": "සල්ලි දීල ගවුම මැහුවෙ (මිනි ගවුම)",
@@ -4955,7 +5570,8 @@
         "singers": [
             "ඇන්ටන් ජෝන්ස්"
         ],
-        "streams": 44700
+        "streams": 24300,
+        "sentiment": "negative"
     },
     {
         "title": "සමාව ඉල්ලා හඬා වැටෙන්නද",
@@ -4963,7 +5579,8 @@
         "singers": [
             "ලක්ශ්මන් විජේසේකර"
         ],
-        "streams": 11200
+        "streams": 40400,
+        "sentiment": "negative"
     },
     {
         "title": "සමාවෙලා",
@@ -4971,7 +5588,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 40300
+        "streams": 41800,
+        "sentiment": "negative"
     },
     {
         "title": "සමනළයා මල හා ළමයා සේ",
@@ -4979,7 +5597,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 24400
+        "streams": 7700,
+        "sentiment": "negative"
     },
     {
         "title": "සමනළී",
@@ -4987,7 +5606,8 @@
         "singers": [
             "කිත්සිරි ජයසේකර"
         ],
-        "streams": 28400
+        "streams": 12200,
+        "sentiment": "negative"
     },
     {
         "title": "සැණකෙළියේ සඳ එළියේ",
@@ -4995,7 +5615,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 12800
+        "streams": 21600,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ එබෙන් එපා",
@@ -5004,7 +5625,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 5800
+        "streams": 20800,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ හාදු දිදී",
@@ -5012,7 +5634,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 15100
+        "streams": 36300,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ හිරු තාරකා",
@@ -5020,7 +5643,8 @@
         "singers": [
             "ආත්මා ලියනගේ"
         ],
-        "streams": 30900
+        "streams": 46300,
+        "sentiment": "negative"
     },
     {
         "title": "සද හිරු තරු",
@@ -5028,7 +5652,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 15800
+        "streams": 18700,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ හොරෙන් හොරෙන්",
@@ -5036,7 +5661,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 34900
+        "streams": 27000,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ කාන්ති",
@@ -5044,7 +5670,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 10900
+        "streams": 17200,
+        "sentiment": "negative"
     },
     {
         "title": "සැඳෑ කළුවර කුර ගගා විත්",
@@ -5052,7 +5679,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 42100
+        "streams": 5500,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ මඩලට හිනැහෙන්නට",
@@ -5060,7 +5688,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 41100
+        "streams": 36700,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ මල පිබිදුනු",
@@ -5068,7 +5697,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 39100
+        "streams": 27800,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ මිතුරි",
@@ -5076,7 +5706,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 46700
+        "streams": 23800,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ ඔබ මගේ",
@@ -5084,7 +5715,8 @@
         "singers": [
             "අතුල අධිකාරී"
         ],
-        "streams": 44300
+        "streams": 35100,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ ඕනා",
@@ -5092,7 +5724,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 8200
+        "streams": 24100,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ සේ නිලම්බරේ",
@@ -5100,7 +5733,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 7800
+        "streams": 32300,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ තරු මල්",
@@ -5109,7 +5743,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 24300
+        "streams": 33600,
+        "sentiment": "negative"
     },
     {
         "title": "සැන්දෑ වලාවන්",
@@ -5117,7 +5752,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 10200
+        "streams": 16700,
+        "sentiment": "negative"
     },
     {
         "title": "සඳ යාත්‍රා කළා",
@@ -5125,7 +5761,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 7700
+        "streams": 15800,
+        "sentiment": "negative"
     },
     {
         "title": "සැන්දෑ අහස වගේ",
@@ -5133,7 +5770,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 22700
+        "streams": 14500,
+        "sentiment": "negative"
     },
     {
         "title": "සැන්දෑ අහසේ",
@@ -5141,7 +5779,8 @@
         "singers": [
             "දයාරත්න රණතුංග"
         ],
-        "streams": 35400
+        "streams": 28600,
+        "sentiment": "negative"
     },
     {
         "title": "සැදෑ අඳුර ලොව",
@@ -5149,7 +5788,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 7200
+        "streams": 29300,
+        "sentiment": "negative"
     },
     {
         "title": "සදකඩපහණක",
@@ -5157,7 +5797,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 32100
+        "streams": 27600,
+        "sentiment": "negative"
     },
     {
         "title": "සඳකැන් වැසිලා",
@@ -5165,7 +5806,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 30000
+        "streams": 15500,
+        "sentiment": "negative"
     },
     {
         "title": "සඳළුතලේ ඔබ",
@@ -5173,7 +5815,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 20900
+        "streams": 14400,
+        "sentiment": "negative"
     },
     {
         "title": "සඳරේණු වෑහෙනා",
@@ -5181,7 +5824,8 @@
         "singers": [
             "ප්‍රින්ස් උදය ප්‍රියන්ත"
         ],
-        "streams": 34200
+        "streams": 45400,
+        "sentiment": "negative"
     },
     {
         "title": "සඳසේ දවසක",
@@ -5189,7 +5833,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 10600
+        "streams": 12500,
+        "sentiment": "negative"
     },
     {
         "title": "සඳට සැහැසිකම් කළ අය",
@@ -5197,7 +5842,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 27000
+        "streams": 5200,
+        "sentiment": "negative"
     },
     {
         "title": "සඳත් ඉරත් නැති",
@@ -5205,7 +5851,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43900
+        "streams": 28800,
+        "sentiment": "negative"
     },
     {
         "title": "සඳවතියේ",
@@ -5213,7 +5860,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 36700
+        "streams": 31400,
+        "sentiment": "negative"
     },
     {
         "title": "සඳේ ඔබ",
@@ -5221,7 +5869,8 @@
         "singers": [
             "රූකාන්ත ගුණතිලක"
         ],
-        "streams": 33300
+        "streams": 36800,
+        "sentiment": "negative"
     },
     {
         "title": "සඳෙන් එහා",
@@ -5229,7 +5878,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 10200
+        "streams": 10200,
+        "sentiment": "negative"
     },
     {
         "title": "සඟවන්න එපා හසරැල්",
@@ -5237,7 +5887,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 7100
+        "streams": 48300,
+        "sentiment": "negative"
     },
     {
         "title": "සන්නාලියනේ",
@@ -5245,7 +5896,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 40500
+        "streams": 17400,
+        "sentiment": "negative"
     },
     {
         "title": "සද කැන් වැසිලා",
@@ -5253,7 +5905,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 26200
+        "streams": 45400,
+        "sentiment": "negative"
     },
     {
         "title": "සංසාර සාගරේ",
@@ -5261,7 +5914,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 20100
+        "streams": 11600,
+        "sentiment": "negative"
     },
     {
         "title": "සන්තාප මාවතේ",
@@ -5269,7 +5923,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 15900
+        "streams": 7200,
+        "sentiment": "negative"
     },
     {
         "title": "සප්ත ස්වරයයි",
@@ -5277,7 +5932,8 @@
         "singers": [
             "ඉන්දික රුවන් (Roony)"
         ],
-        "streams": 25400
+        "streams": 22800,
+        "sentiment": "negative"
     },
     {
         "title": "සරා සඳේ",
@@ -5285,7 +5941,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 36400
+        "streams": 12900,
+        "sentiment": "negative"
     },
     {
         "title": "සරා සිහින රහසේ",
@@ -5293,7 +5950,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 30600
+        "streams": 23800,
+        "sentiment": "negative"
     },
     {
         "title": "සරසවි උයනේ",
@@ -5301,7 +5959,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 49800
+        "streams": 21500,
+        "sentiment": "negative"
     },
     {
         "title": "සරුංගලේ වරල් සැලේ",
@@ -5309,7 +5968,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 42900
+        "streams": 11400,
+        "sentiment": "negative"
     },
     {
         "title": "සසර වසන තුරු",
@@ -5317,7 +5977,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 43200
+        "streams": 18800,
+        "sentiment": "negative"
     },
     {
         "title": "සතර දිගින් එන",
@@ -5325,7 +5986,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 35200
+        "streams": 37800,
+        "sentiment": "negative"
     },
     {
         "title": "සයුරක් නොදුටු ගඟුලක්",
@@ -5333,7 +5995,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 31500
+        "streams": 47600,
+        "sentiment": "negative"
     },
     {
         "title": "සයුරට නොතරම්",
@@ -5341,7 +6004,8 @@
         "singers": [
             "දයාන් විතාරණ"
         ],
-        "streams": 33800
+        "streams": 44300,
+        "sentiment": "negative"
     },
     {
         "title": "සයුරේ",
@@ -5349,7 +6013,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 11800
+        "streams": 13300,
+        "sentiment": "negative"
     },
     {
         "title": "සයුරෙහි පාවී",
@@ -5357,7 +6022,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 16000
+        "streams": 41700,
+        "sentiment": "negative"
     },
     {
         "title": "සීත මාරුතේ",
@@ -5365,7 +6031,8 @@
         "singers": [
             "රුවන් හෙට්ටිආරච්චි"
         ],
-        "streams": 16900
+        "streams": 21600,
+        "sentiment": "negative"
     },
     {
         "title": "සීත සුනිල් දිය දහරා",
@@ -5373,7 +6040,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 23300
+        "streams": 11800,
+        "sentiment": "negative"
     },
     {
         "title": "සෙල්ලම්ගේ",
@@ -5381,7 +6049,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 6700
+        "streams": 45200,
+        "sentiment": "negative"
     },
     {
         "title": "සැනසුම",
@@ -5389,7 +6058,8 @@
         "singers": [
             "සේනක බටගොඩ"
         ],
-        "streams": 32900
+        "streams": 21800,
+        "sentiment": "negative"
     },
     {
         "title": "සෙනෙහස ඉල්ලා",
@@ -5397,7 +6067,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 48900
+        "streams": 15400,
+        "sentiment": "negative"
     },
     {
         "title": "සෙනෙහස විඳිනට",
@@ -5405,7 +6076,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 34700
+        "streams": 16100,
+        "sentiment": "negative"
     },
     {
         "title": "සෙනෙහසකට අරුතක්",
@@ -5413,7 +6085,8 @@
         "singers": [
             "අසංක ප්‍රියමන්ත"
         ],
-        "streams": 43000
+        "streams": 14900,
+        "sentiment": "negative"
     },
     {
         "title": "සෙනෙහසේ මල් පිපේවා",
@@ -5421,7 +6094,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 41200
+        "streams": 5000,
+        "sentiment": "negative"
     },
     {
         "title": "සෙවණැලි වාගේ",
@@ -5429,7 +6103,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 34500
+        "streams": 20700,
+        "sentiment": "negative"
     },
     {
         "title": "ශිල්ප සොඳින්",
@@ -5437,7 +6112,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 40400
+        "streams": 26000,
+        "sentiment": "negative"
     },
     {
         "title": "ශෝභාව හංගා",
@@ -5445,7 +6121,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 30800
+        "streams": 15200,
+        "sentiment": "negative"
     },
     {
         "title": "සිදුවී නම් වරදක්",
@@ -5453,7 +6130,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 6900
+        "streams": 35100,
+        "sentiment": "negative"
     },
     {
         "title": "සිහිල් සුළං රැල්ලේ",
@@ -5461,7 +6139,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 15300
+        "streams": 33300,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින ගෙනෙන",
@@ -5469,7 +6148,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 13100
+        "streams": 9400,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින ලොවක්",
@@ -5477,7 +6157,8 @@
         "singers": [
             "ක්ලැරන්ස් විජේවර්ධන"
         ],
-        "streams": 40800
+        "streams": 41100,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින නෙළුම් මල",
@@ -5485,7 +6166,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 49200
+        "streams": 39600,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින පැතුම් විමනේ",
@@ -5493,7 +6175,8 @@
         "singers": [
             "ඇනස්ලි මාලේවන"
         ],
-        "streams": 19800
+        "streams": 31900,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින සතක්",
@@ -5501,7 +6184,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 48600
+        "streams": 49100,
+        "sentiment": "negative"
     },
     {
         "title": "සිහින විජිතේ සරන්නේ සදා",
@@ -5509,7 +6193,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 34000
+        "streams": 37100,
+        "sentiment": "negative"
     },
     {
         "title": "සිහිනේ විලසේ",
@@ -5518,7 +6203,8 @@
             "අතුල අධිකාරී",
             "සමිතා මුදුන්කොටුව"
         ],
-        "streams": 30300
+        "streams": 10500,
+        "sentiment": "negative"
     },
     {
         "title": "සිහිනෙන් ඔබ මට පෙනෙනවා නම්",
@@ -5526,7 +6212,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 31100
+        "streams": 43500,
+        "sentiment": "negative"
     },
     {
         "title": "සිනාසෙන්න බෑනේ",
@@ -5534,7 +6221,8 @@
         "singers": [
             "රොමේෂ් සුගතපාල"
         ],
-        "streams": 20600
+        "streams": 47100,
+        "sentiment": "negative"
     },
     {
         "title": "සිනහව අතරින් කඳුලක් උපන්නා",
@@ -5542,7 +6230,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 12000
+        "streams": 5900,
+        "sentiment": "negative"
     },
     {
         "title": "සිනහවයි කඳුලයි සදා",
@@ -5550,7 +6239,8 @@
         "singers": [
             "මොරිස් දහනායක"
         ],
-        "streams": 8600
+        "streams": 13300,
+        "sentiment": "negative"
     },
     {
         "title": "සිනාතොටක් විය",
@@ -5558,7 +6248,8 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 15700
+        "streams": 12900,
+        "sentiment": "negative"
     },
     {
         "title": "සිංහල සින්දු කියන",
@@ -5566,7 +6257,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 45900
+        "streams": 40600,
+        "sentiment": "negative"
     },
     {
         "title": "සිරියහනේ ලණු ඉහිරී",
@@ -5574,7 +6266,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 45300
+        "streams": 36800,
+        "sentiment": "negative"
     },
     {
         "title": "සිරියාවී",
@@ -5582,7 +6275,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 25600
+        "streams": 18100,
+        "sentiment": "negative"
     },
     {
         "title": "සිත මගේ රිදුනා",
@@ -5590,7 +6284,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 8200
+        "streams": 35300,
+        "sentiment": "negative"
     },
     {
         "title": "සිත මගෙ රිදුනා",
@@ -5598,7 +6293,8 @@
         "singers": [
             "දමිත් අසංක"
         ],
-        "streams": 27400
+        "streams": 7700,
+        "sentiment": "negative"
     },
     {
         "title": "සිත ඔබ ගැන අසනා",
@@ -5606,7 +6302,8 @@
         "singers": [
             "සමිත් සිරිමාන්න"
         ],
-        "streams": 21600
+        "streams": 6000,
+        "sentiment": "negative"
     },
     {
         "title": "සිත ඔබ පාමුල",
@@ -5614,7 +6311,8 @@
         "singers": [
             "දීපිකා ප්‍රියදර්ශනී"
         ],
-        "streams": 44200
+        "streams": 39400,
+        "sentiment": "negative"
     },
     {
         "title": "සිත ඔබට මුවාවී",
@@ -5622,7 +6320,8 @@
         "singers": [
             "නිරෝෂා විරාජිනී"
         ],
-        "streams": 33600
+        "streams": 13000,
+        "sentiment": "negative"
     },
     {
         "title": "සිත පරව ගියා",
@@ -5630,7 +6329,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 46400
+        "streams": 23500,
+        "sentiment": "negative"
     },
     {
         "title": "සිත සැලුනා",
@@ -5638,7 +6338,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 49700
+        "streams": 14100,
+        "sentiment": "negative"
     },
     {
         "title": "සිතක් කෙලෙසද මේ තරම්",
@@ -5646,7 +6347,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 16500
+        "streams": 27700,
+        "sentiment": "negative"
     },
     {
         "title": "සිතක් තියෙනවා",
@@ -5654,7 +6356,8 @@
         "singers": [
             "ඉන්ද්‍රජිත් දොලමුල්ල"
         ],
-        "streams": 25700
+        "streams": 29000,
+        "sentiment": "negative"
     },
     {
         "title": "සිතකින් හැඩූ කඳුළු",
@@ -5662,7 +6365,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 9300
+        "streams": 36600,
+        "sentiment": "negative"
     },
     {
         "title": "සිතට දැනෙන මේ ලතැවුල්",
@@ -5670,7 +6374,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 30700
+        "streams": 29200,
+        "sentiment": "negative"
     },
     {
         "title": "සිතේ දුකාක්‌ නැතී මිනිහා",
@@ -5678,7 +6383,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 23100
+        "streams": 40400,
+        "sentiment": "negative"
     },
     {
         "title": "සිතිජේ මායිමේ",
@@ -5686,7 +6392,8 @@
         "singers": [
             "උදිත අනුපම අල්විස්"
         ],
-        "streams": 12900
+        "streams": 6700,
+        "sentiment": "negative"
     },
     {
         "title": "සිතින් අදිනවා",
@@ -5694,7 +6401,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 15300
+        "streams": 19600,
+        "sentiment": "negative"
     },
     {
         "title": "සිතින් හිඳින්න මට ලංවෙලා",
@@ -5702,7 +6410,8 @@
         "singers": [
             "මොහාන් දර්ශන"
         ],
-        "streams": 23600
+        "streams": 47300,
+        "sentiment": "negative"
     },
     {
         "title": "සිතින් මා නොසැලී",
@@ -5710,7 +6419,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 21500
+        "streams": 21300,
+        "sentiment": "negative"
     },
     {
         "title": "සිතින් විතරක්‌ පෙම් කරන්නම්",
@@ -5718,7 +6428,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 9200
+        "streams": 48200,
+        "sentiment": "negative"
     },
     {
         "title": "සිතුල් පව්වෙ",
@@ -5726,7 +6437,8 @@
         "singers": [
             "නාමල් උඩුගම"
         ],
-        "streams": 48400
+        "streams": 13400,
+        "sentiment": "negative"
     },
     {
         "title": "සිතුම් පැතුම් පොදි ආදරේ",
@@ -5734,7 +6446,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 23700
+        "streams": 29200,
+        "sentiment": "negative"
     },
     {
         "title": "සිතුවිලි සිරවී",
@@ -5742,7 +6455,8 @@
         "singers": [
             "බණ්ඩාර අතාවුද"
         ],
-        "streams": 22100
+        "streams": 30800,
+        "sentiment": "negative"
     },
     {
         "title": "ස්නේහයේ නගරයයි",
@@ -5750,7 +6464,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 24300
+        "streams": 37700,
+        "sentiment": "negative"
     },
     {
         "title": "සොඳුරිය කාලය කොතරම් නපුරුද",
@@ -5758,7 +6473,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 22000
+        "streams": 36500,
+        "sentiment": "negative"
     },
     {
         "title": "සොදුරු අතීතයේ",
@@ -5766,7 +6482,8 @@
         "singers": [
             "ජයරත්න ටී. එම්."
         ],
-        "streams": 25800
+        "streams": 30000,
+        "sentiment": "negative"
     },
     {
         "title": "සොඳුර නුඹ ලිහිණියක",
@@ -5774,7 +6491,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 26600
+        "streams": 30900,
+        "sentiment": "negative"
     },
     {
         "title": "සොදුරු සිතුවම්",
@@ -5782,7 +6500,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 11700
+        "streams": 42900,
+        "sentiment": "negative"
     },
     {
         "title": "සූරා පප්පා රැජිනට කේක් එක",
@@ -5790,7 +6509,8 @@
         "singers": [
             "කාටූන් සින්දු"
         ],
-        "streams": 48900
+        "streams": 22300,
+        "sentiment": "negative"
     },
     {
         "title": "සුදු මුතු රළ පෙළ",
@@ -5799,7 +6519,8 @@
             "ජයරත්න ටී. එම්.",
             "නීලා වික්‍රමසිංහ"
         ],
-        "streams": 6500
+        "streams": 47000,
+        "sentiment": "negative"
     },
     {
         "title": "සුදු නැන්දා ඇයි",
@@ -5807,7 +6528,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 31900
+        "streams": 20900,
+        "sentiment": "negative"
     },
     {
         "title": "සුදු පාට මල් පිපුණු",
@@ -5815,7 +6537,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 11000
+        "streams": 48100,
+        "sentiment": "negative"
     },
     {
         "title": "සුදු පිරුවටයයි",
@@ -5823,7 +6546,8 @@
         "singers": [
             "චන්ද්‍රෙස්න හෙට්ටිආරච්චි"
         ],
-        "streams": 15700
+        "streams": 37500,
+        "sentiment": "negative"
     },
     {
         "title": "සුදු වත කමලේ",
@@ -5831,7 +6555,8 @@
         "singers": [
             "ප්‍රියා සූරියසේන"
         ],
-        "streams": 13500
+        "streams": 49600,
+        "sentiment": "negative"
     },
     {
         "title": "සුකුමාල කුමරියේ",
@@ -5839,7 +6564,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 27000
+        "streams": 11600,
+        "sentiment": "negative"
     },
     {
         "title": "සුලගේ පාවී",
@@ -5847,7 +6573,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 7600
+        "streams": 44800,
+        "sentiment": "negative"
     },
     {
         "title": "සුළඟ නුඹ වගෙයි",
@@ -5855,7 +6582,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 34000
+        "streams": 18100,
+        "sentiment": "negative"
     },
     {
         "title": "සුළඟ ඔබද මගෙ",
@@ -5863,7 +6591,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 41500
+        "streams": 38300,
+        "sentiment": "negative"
     },
     {
         "title": "සුමනෝ",
@@ -5871,7 +6600,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 33700
+        "streams": 40700,
+        "sentiment": "negative"
     },
     {
         "title": "සුමුදු වලාවක",
@@ -5879,7 +6609,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 8000
+        "streams": 28700,
+        "sentiment": "negative"
     },
     {
         "title": "සුන්දර උයන් පෙතක",
@@ -5887,7 +6618,8 @@
         "singers": [
             "සේනානායක වෙරලියද්ද"
         ],
-        "streams": 30200
+        "streams": 20700,
+        "sentiment": "negative"
     },
     {
         "title": "සුන්දරත්වයෙන් පිරි",
@@ -5895,7 +6627,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 19500
+        "streams": 30500,
+        "sentiment": "negative"
     },
     {
         "title": "සුන්දරියේ රන් රසු දැල්",
@@ -5903,7 +6636,8 @@
         "singers": [
             "චන්දන ලියනආරච්චි"
         ],
-        "streams": 19800
+        "streams": 31900,
+        "sentiment": "negative"
     },
     {
         "title": "සුනිල වලා සළු පිලි පටලා",
@@ -5911,7 +6645,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 31900
+        "streams": 40000,
+        "sentiment": "negative"
     },
     {
         "title": "සුනිල්වන් නුවන් යුග",
@@ -5919,7 +6654,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 29000
+        "streams": 11300,
+        "sentiment": "negative"
     },
     {
         "title": "සුපිපෙන මලකින්",
@@ -5927,7 +6663,8 @@
         "singers": [
             "අමිතා වැදිසිංහ"
         ],
-        "streams": 6300
+        "streams": 19300,
+        "sentiment": "negative"
     },
     {
         "title": "සුසුදු සුදු හංස විලේ",
@@ -5935,7 +6672,8 @@
         "singers": [
             "අමල් පෙරේරා"
         ],
-        "streams": 39500
+        "streams": 28600,
+        "sentiment": "negative"
     },
     {
         "title": "සුසුමන් සලයි",
@@ -5943,7 +6681,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 8800
+        "streams": 47600,
+        "sentiment": "negative"
     },
     {
         "title": "සුව දේ",
@@ -5951,7 +6690,8 @@
         "singers": [
             "මොහිදින් බෙග්"
         ],
-        "streams": 13400
+        "streams": 45400,
+        "sentiment": "negative"
     },
     {
         "title": "සුවදෙන නැලැවිලි ගී",
@@ -5959,7 +6699,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 47000
+        "streams": 16200,
+        "sentiment": "negative"
     },
     {
         "title": "සුවඳ රෝස මල් නෙලා",
@@ -5967,7 +6708,8 @@
         "singers": [
             "ප්‍රනාන්දු C.T."
         ],
-        "streams": 25700
+        "streams": 14200,
+        "sentiment": "negative"
     },
     {
         "title": "ස්වර්ණ විමානෙට එහා ලෝකයෙන්",
@@ -5975,7 +6717,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 23700
+        "streams": 34900,
+        "sentiment": "negative"
     },
     {
         "title": "ටජ් මහලක්‌ තනවන්න නෑ මට",
@@ -5983,7 +6726,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 12000
+        "streams": 9900,
+        "sentiment": "negative"
     },
     {
         "title": "තාරකාවෝ මැදින්",
@@ -5991,7 +6735,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 13600
+        "streams": 34300,
+        "sentiment": "negative"
     },
     {
         "title": "තනි රැක්ක තනි රෝස",
@@ -5999,7 +6744,8 @@
         "singers": [
             "සෙන්ටිග්‍රේට්ස්"
         ],
-        "streams": 33000
+        "streams": 35600,
+        "sentiment": "negative"
     },
     {
         "title": "තනි වෙන්නට මගේ ලොවේ",
@@ -6007,7 +6753,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 15700
+        "streams": 38500,
+        "sentiment": "negative"
     },
     {
         "title": "තනිවී සිටින්නයි මා අදහස් කලේ",
@@ -6015,7 +6762,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 45400
+        "streams": 8100,
+        "sentiment": "negative"
     },
     {
         "title": "තනිවූ මිනිසා",
@@ -6023,7 +6771,8 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 33500
+        "streams": 8700,
+        "sentiment": "negative"
     },
     {
         "title": "තනියේ අවාරේ ඇසුණා ගී රාවේ",
@@ -6031,7 +6780,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 25600
+        "streams": 23800,
+        "sentiment": "negative"
     },
     {
         "title": "තනුව අහිමි",
@@ -6039,7 +6789,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 12200
+        "streams": 19800,
+        "sentiment": "negative"
     },
     {
         "title": "තරු අත් අකුරින් ලියා එවමි",
@@ -6047,7 +6798,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 5200
+        "streams": 42800,
+        "sentiment": "negative"
     },
     {
         "title": "තරු කැකුළියේ",
@@ -6055,7 +6807,8 @@
         "singers": [
             "චිලී තිලංක"
         ],
-        "streams": 22800
+        "streams": 23300,
+        "sentiment": "negative"
     },
     {
         "title": "තරුමල් යායම",
@@ -6063,7 +6816,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 48500
+        "streams": 44300,
+        "sentiment": "negative"
     },
     {
         "title": "තරු පාට",
@@ -6071,7 +6825,8 @@
         "singers": [
             "දුෂාන් ජයතිලක"
         ],
-        "streams": 44000
+        "streams": 39200,
+        "sentiment": "negative"
     },
     {
         "title": "තරුද නිදන මහ රෑ",
@@ -6079,7 +6834,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 40800
+        "streams": 46200,
+        "sentiment": "negative"
     },
     {
         "title": "තාරුකා නිවා දුර",
@@ -6087,7 +6843,8 @@
         "singers": [
             "අජිත් බණ්ඩාර"
         ],
-        "streams": 26900
+        "streams": 17100,
+        "sentiment": "negative"
     },
     {
         "title": "තරුණ නෙත් ජය මංගලේ",
@@ -6095,7 +6852,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 36800
+        "streams": 18300,
+        "sentiment": "negative"
     },
     {
         "title": "තටු දෙනවාදෝ කිඳුරියේ",
@@ -6103,7 +6861,8 @@
         "singers": [
             "ජයශ්‍රී"
         ],
-        "streams": 47400
+        "streams": 36800,
+        "sentiment": "negative"
     },
     {
         "title": "තටු සිදුනා කිරිල්ලියේ",
@@ -6111,7 +6870,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 37000
+        "streams": 34500,
+        "sentiment": "negative"
     },
     {
         "title": "තිදස පුරේ",
@@ -6119,7 +6879,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 21900
+        "streams": 39900,
+        "sentiment": "negative"
     },
     {
         "title": "තොටුපොල අයිනේ",
@@ -6127,7 +6888,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 9000
+        "streams": 10900,
+        "sentiment": "negative"
     },
     {
         "title": "තුරුල් වෙන්න ආසයි",
@@ -6135,7 +6897,8 @@
         "singers": [
             "භාතිය සන්තුෂ්"
         ],
-        "streams": 41700
+        "streams": 5100,
+        "sentiment": "negative"
     },
     {
         "title": "උඩ මලුවේ",
@@ -6143,7 +6906,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 32700
+        "streams": 36800,
+        "sentiment": "negative"
     },
     {
         "title": "උඬගු ලියන් ගොතා බඳින",
@@ -6151,7 +6915,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 21700
+        "streams": 17100,
+        "sentiment": "negative"
     },
     {
         "title": "උළලේනෝ",
@@ -6159,7 +6924,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 39400
+        "streams": 17600,
+        "sentiment": "negative"
     },
     {
         "title": "උල්කාපාතයක්",
@@ -6167,7 +6933,8 @@
         "singers": [
             "ඉන්ද්‍රචාපා ලියනගේ"
         ],
-        "streams": 41700
+        "streams": 39400,
+        "sentiment": "negative"
     },
     {
         "title": "උන්මාද සිතුවම්",
@@ -6175,7 +6942,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 15900
+        "streams": 15000,
+        "sentiment": "negative"
     },
     {
         "title": "උපන් බිමට කිසිදා",
@@ -6184,7 +6952,8 @@
             "විජය කුමාරතුංග",
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 33000
+        "streams": 33100,
+        "sentiment": "negative"
     },
     {
         "title": "උපුල් නුවන් විදහා",
@@ -6192,7 +6961,8 @@
         "singers": [
             "මිල්ටන් මල්ලවාරච්චි"
         ],
-        "streams": 40700
+        "streams": 16900,
+        "sentiment": "negative"
     },
     {
         "title": "උස්‌සංගොඩ කදු මුදුනට",
@@ -6200,7 +6970,8 @@
         "singers": [
             "චාමර වීරසිංහ"
         ],
-        "streams": 28300
+        "streams": 45000,
+        "sentiment": "negative"
     },
     {
         "title": "උතුරින් එන දුම්රියෙ",
@@ -6208,7 +6979,8 @@
         "singers": [
             "කරුණාරත්න දිවුල්ගනේ"
         ],
-        "streams": 42200
+        "streams": 17300,
+        "sentiment": "negative"
     },
     {
         "title": "විදුලි මිණි පහන්",
@@ -6216,7 +6988,8 @@
         "singers": [
             "ගුණදාස කපුගේ"
         ],
-        "streams": 17500
+        "streams": 8300,
+        "sentiment": "negative"
     },
     {
         "title": "වාසනාව දොර ඇරලා බලනවා",
@@ -6224,7 +6997,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 15700
+        "streams": 20400,
+        "sentiment": "negative"
     },
     {
         "title": "වාසනාව පෑදේවී",
@@ -6232,7 +7006,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 37100
+        "streams": 12200,
+        "sentiment": "negative"
     },
     {
         "title": "වහින්නට හැකි නම්",
@@ -6240,7 +7015,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 35600
+        "streams": 15700,
+        "sentiment": "negative"
     },
     {
         "title": "වලා අතුල සිරි යහනේ",
@@ -6248,7 +7024,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 34100
+        "streams": 40200,
+        "sentiment": "negative"
     },
     {
         "title": "වළාකුලක් වී",
@@ -6256,7 +7033,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 33800
+        "streams": 15100,
+        "sentiment": "negative"
     },
     {
         "title": "වළි කුකුල්ලු ඇවිදින්",
@@ -6264,7 +7042,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 36100
+        "streams": 35500,
+        "sentiment": "negative"
     },
     {
         "title": "වන මැද තනිවූ",
@@ -6272,7 +7051,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 10300
+        "streams": 42700,
+        "sentiment": "negative"
     },
     {
         "title": "වන සිව්පාවුන්",
@@ -6280,7 +7060,8 @@
         "singers": [
             "චන්ද්‍රලේකා පෙරේරා"
         ],
-        "streams": 21000
+        "streams": 22900,
+        "sentiment": "negative"
     },
     {
         "title": "වන්නි වනපෙතේ",
@@ -6288,7 +7069,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 43300
+        "streams": 18200,
+        "sentiment": "negative"
     },
     {
         "title": "වසන්තය ඇවිදින්",
@@ -6296,7 +7078,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 47300
+        "streams": 25100,
+        "sentiment": "negative"
     },
     {
         "title": "වසන්තයේ අග",
@@ -6304,7 +7087,8 @@
         "singers": [
             "එඩ්වඩ් ජයකොඩි"
         ],
-        "streams": 14200
+        "streams": 35100,
+        "sentiment": "negative"
     },
     {
         "title": "වසන්තයේ මල් පොකුරු නෙළා",
@@ -6312,7 +7096,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 47100
+        "streams": 49000,
+        "sentiment": "negative"
     },
     {
         "title": "වැස්ස නුඹ හැඩයි",
@@ -6320,7 +7105,8 @@
         "singers": [
             "කසුන් කල්හාර"
         ],
-        "streams": 44800
+        "streams": 18100,
+        "sentiment": "negative"
     },
     {
         "title": "වස්සානයට අත වනලා",
@@ -6328,7 +7114,8 @@
         "singers": [
             "උමාරා සිංහවංශ"
         ],
-        "streams": 25500
+        "streams": 35900,
+        "sentiment": "negative"
     },
     {
         "title": "වස්සානේ සිනා සලයි",
@@ -6336,7 +7123,8 @@
         "singers": [
             "මාලනී බුලත්සිංහල"
         ],
-        "streams": 19800
+        "streams": 42300,
+        "sentiment": "negative"
     },
     {
         "title": "වයන්න සිතාරේ",
@@ -6344,7 +7132,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 16400
+        "streams": 38600,
+        "sentiment": "negative"
     },
     {
         "title": "වෙනතක යන්න ගියා",
@@ -6352,7 +7141,8 @@
         "singers": [
             "ජෝතිපාල එච්. ආර්."
         ],
-        "streams": 9400
+        "streams": 17600,
+        "sentiment": "negative"
     },
     {
         "title": "වෙන්වී දැන්",
@@ -6360,7 +7150,8 @@
         "singers": [
             "චාමික සිරිමාන්න"
         ],
-        "streams": 31000
+        "streams": 11000,
+        "sentiment": "negative"
     },
     {
         "title": "වෙන්වෙන්න වාදෝ",
@@ -6368,7 +7159,8 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 17600
+        "streams": 11900,
+        "sentiment": "negative"
     },
     {
         "title": "වෙරළු ගෙඩිය",
@@ -6376,7 +7168,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 17300
+        "streams": 41200,
+        "sentiment": "negative"
     },
     {
         "title": "විඩා ගෙන දෙන",
@@ -6384,7 +7177,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 48000
+        "streams": 30300,
+        "sentiment": "negative"
     },
     {
         "title": "විහඟ ගීතය",
@@ -6392,7 +7186,8 @@
         "singers": [
             "අමරසිරි පීරිස්"
         ],
-        "streams": 29400
+        "streams": 19400,
+        "sentiment": "negative"
     },
     {
         "title": "විකසිත පෙම්",
@@ -6400,7 +7195,8 @@
         "singers": [
             "අමරදේව ඩබ්ලිව්. ඩී."
         ],
-        "streams": 32500
+        "streams": 22500,
+        "sentiment": "negative"
     },
     {
         "title": "විසේකාර අරුමැත්තී",
@@ -6408,7 +7204,8 @@
         "singers": [
             "රනිදු ලංකාගේ"
         ],
-        "streams": 12400
+        "streams": 27200,
+        "sentiment": "negative"
     },
     {
         "title": "වියෝ වූ පසුවයි දැනෙන්නේ",
@@ -6416,7 +7213,8 @@
         "singers": [
             "සුනිල් එදිරිසිංහ"
         ],
-        "streams": 8700
+        "streams": 17100,
+        "sentiment": "negative"
     },
     {
         "title": "යාළු බාල සඳේ",
@@ -6424,7 +7222,8 @@
         "singers": [
             "සෝමතිලක ජයමහ"
         ],
-        "streams": 42300
+        "streams": 41800,
+        "sentiment": "negative"
     },
     {
         "title": "යදමින් බැඳ විලංගුලා",
@@ -6432,7 +7231,8 @@
         "singers": [
             "නන්දා මාලනී"
         ],
-        "streams": 16100
+        "streams": 11800,
+        "sentiment": "negative"
     },
     {
         "title": "යසෝදරා වේවා",
@@ -6440,6 +7240,7 @@
         "singers": [
             "වික්ටර් රත්නායක"
         ],
-        "streams": 36800
+        "streams": 37500,
+        "sentiment": "negative"
     }
 ]

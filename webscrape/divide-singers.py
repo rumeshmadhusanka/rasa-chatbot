@@ -5,6 +5,14 @@ data = open("si-songs.json")
 data = json.load(data)
 new_data = []
 out_file = open("si-songs-final.json", "w")
+
+
+def predict_sentiment(singers):
+    for singer in singers:
+        if "ෆන්කි" in singer:
+            return "positive"
+    return "negative"
+
 for d in data:
     ins = dict()
     ins["title"] = d["title"]
@@ -13,6 +21,7 @@ for d in data:
     singers = [' '.join(i.strip().split()) for i in singers]
     ins["singers"] = singers
     ins["streams"] = randrange(5000, 50000, 100)
+    ins["sentiment"] = predict_sentiment(singers)
     new_data.append(ins)
 
 json.dump(new_data, out_file, ensure_ascii=False, indent=4)
