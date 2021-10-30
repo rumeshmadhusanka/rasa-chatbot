@@ -1,9 +1,9 @@
 version: '2.0'
 config:
-  store_entities_as_slots: true
+  store_entities_as_slots: false
 session_config:
   session_expiration_time: 120
-  carry_over_slots_to_new_session: true
+  carry_over_slots_to_new_session: false
 intents:
   - greet:
       use_entities: false
@@ -22,8 +22,9 @@ intents:
   - most_popular_song:
       use_entities: false
   - most_popular_song_of_artist:
-      use_entities: true
-entities: [ artist , song ]
+      use_entities:
+        - artist
+entities: [ artist ]
 slots: { }
 responses:
   utter_greet:

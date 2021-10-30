@@ -34,8 +34,11 @@ class ActionMostPopularSongOfArtist(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        artist = next(tracker.get_latest_entity_values("artist"), None)
+        # artist = next(tracker.get_latest_entity_values("artist"), None)
+        artist = tracker.latest_message["entities"]
         print(artist)
+        # print(domain)
+        # print(tracker.current_state())
         dispatcher.utter_message(text="Action: this is the most popular song of artist ")
 
         return []
