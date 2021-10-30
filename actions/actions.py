@@ -16,10 +16,31 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 songs_file = "../webscrape/si-songs-final.json"
-word_file = "../webscrape/word-count.json"
-
 songs = json.load(open(songs_file))
-words = json.load(open(word_file))
+
+
+def build_index(instances):
+    title_index = dict()
+    body_index = dict()
+    for ins in instances:
+        doc_id = ins["id"]
+        title_words = ins["title"].split()
+        for pos in range(len(title_words)):
+            if title_words[pos] in title_index:
+                title_index[title_words[pos]].append((doc_id, pos))
+            else:
+                title_index[title_words[pos]] = [(doc_id, pos)]
+
+        body_words = ins["body"].split()
+        for pos in range(len(body_words)):
+            if body_words[pos] in body_index:
+                body_index[body_words[pos]].append((doc_id, pos))
+            else:
+                body_index[body_words[pos]] = [(doc_id, pos)]
+
+    vocabulary = set(title_index.keys()).union(body_index.keys())
+
+    return title_index, body_index, vocabulary
 
 
 def song_of_artist(artist):
@@ -158,3 +179,8 @@ class ActionSuggestSadSong(Action):
         dispatcher.utter_message(text="Action: suggest song on sad mood")
 
         return []
+
+
+if __name__ == '__main__':
+    _, _, index = build_index(songs)
+    print(index)
