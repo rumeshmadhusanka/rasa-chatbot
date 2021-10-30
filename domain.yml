@@ -53,5 +53,7 @@ actions:
 - action_get_most_popular_song_of_artist
 - action_songs_of_artist
 - action_match_lyrics
+- action_suggest_happy_song
+- action_suggest_sad_song
 forms: {}
 e2e_actions: []

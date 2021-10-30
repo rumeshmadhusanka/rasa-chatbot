@@ -31,3 +31,13 @@ rules:
   steps:
     - intent: match_lyrics
     - action: action_match_lyrics
+
+- rule: Suggest song based on the mood
+  steps:
+    - intent: mood_great
+    - action: action_suggest_happy_song
+
+- rule: Suggest song based on the mood
+  steps:
+    - intent: mood_unhappy
+    - action: action_suggest_sad_song

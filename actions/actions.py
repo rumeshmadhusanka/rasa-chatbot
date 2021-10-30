@@ -8,6 +8,7 @@
 # This is a simple example for a custom action which utters "Hello World!"
 
 import json
+import random
 from typing import Any, Text, Dict, List
 
 from nltk.metrics.distance import jaccard_distance
@@ -51,6 +52,15 @@ def most_popular_of_artist(artist):
                     max_views = ins["streams"]
                     popular_song = ins["title"]
     return popular_song, max_views
+
+
+def suggest_song(mood):
+    lst = []
+    for ins in songs:
+        sent = ins["sentiment"]
+        if sent == mood:
+            lst.append(ins["title"])
+    return random.choice(lst)
 
 
 def match_lyrics(guess):
@@ -122,5 +132,29 @@ class ActionMatchLyrics(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         dispatcher.utter_message(text="Action: match song lyrics")
+
+        return []
+
+
+class ActionSuggestHappySong(Action):
+    def name(self) -> Text:
+        return "action_suggest_happy_song"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        dispatcher.utter_message(text="Action: suggest song on happy mood")
+
+        return []
+
+
+class ActionSuggestSadSong(Action):
+    def name(self) -> Text:
+        return "action_suggest_sad_song"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        dispatcher.utter_message(text="Action: suggest song on sad mood")
 
         return []
