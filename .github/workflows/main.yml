@@ -26,14 +26,14 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.8"
-      - name: Install python dependencies
-        run: |
-          pip3 install -r requirements.txt
       - name: Cache the dependecies
         uses: actions/cache@v2
         with:
           path: ~/.cache/pip
           key: ${{ hashFiles('requirements.txt') }}
+      - name: Install python dependencies
+        run: |
+          pip3 install -r requirements.txt
       - name: Train RASA model
         run: |
           rasa train
