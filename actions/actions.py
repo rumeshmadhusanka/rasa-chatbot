@@ -13,6 +13,13 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 
+def extract_artist(message):
+    if "ගේ" in message:
+        return message.split("ගේ")[0]
+    if "ගෙ" in message:
+        return message.split("ගෙ")[0]
+
+
 class ActionMostPopularSong(Action):
 
     def name(self) -> Text:
@@ -34,11 +41,37 @@ class ActionMostPopularSongOfArtist(Action):
     def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-        # artist = next(tracker.get_latest_entity_values("artist"), None)
-        artist = tracker.latest_message["entities"]
+        artist = next(tracker.get_latest_entity_values("artist"), None)
         print(artist)
-        # print(domain)
-        # print(tracker.current_state())
-        dispatcher.utter_message(text="Action: this is the most popular song of artist ")
+
+        artist = extract_artist(tracker.latest_message)
+        dispatcher.utter_message(text="Action: this is the most popular song of artist " + artist)
+
+        return []
+
+
+class ActionSongsOfSinger(Action):
+
+    def name(self) -> Text:
+        return "action_songs_of_artist"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        artist = extract_artist(tracker.latest_message)
+        dispatcher.utter_message(text="Action: this is the songs of this singer " + artist)
+
+        return []
+
+
+class ActionMatchLyrics(Action):
+
+    def name(self) -> Text:
+        return "action_match_lyrics"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        dispatcher.utter_message(text="Action: match song lyrics")
 
         return []
