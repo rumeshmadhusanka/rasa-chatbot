@@ -11,3 +11,13 @@ rules:
   steps:
   - intent: bot_challenge
   - action: utter_iamabot
+
+- rule: Find the most popular song
+  steps:
+    - intent: most_popular_song
+    - action: action_get_most_popular_song
+
+- rule: Find the most popular song by an artist
+  steps:
+    - intent: most_popular_song_of_artist
+    - action: action_get_most_popular_song_of_artist
