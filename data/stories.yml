@@ -14,7 +14,7 @@ stories:
   - intent: greet
   - action: utter_greet
   - intent: mood_unhappy
-  - action: utter_cheer_up
+  - action: action_suggest_happy_song
   - action: utter_did_that_help
   - intent: affirm
   - action: utter_happy
@@ -24,7 +24,7 @@ stories:
   - intent: greet
   - action: utter_greet
   - intent: mood_unhappy
-  - action: utter_cheer_up
+  - action: action_suggest_sad_song
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
