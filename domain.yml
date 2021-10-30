@@ -24,7 +24,15 @@ intents:
   - most_popular_song_of_artist:
       use_entities:
         - artist
-entities: [ artist ]
+  - songs_of_artist:
+      use_entities:
+        - artist
+  - match_lyrics:
+      use_entities:
+        - song
+entities:
+  - artist
+  - song
 slots: { }
 responses:
   utter_greet:
@@ -40,6 +48,10 @@ responses:
     - text: Bye
   utter_iamabot:
     - text: I am a bot, powered by Rasa.
-actions: [ action_get_most_popular_song , action_get_most_popular_song_of_artist]
+actions:
+  - action_get_most_popular_song
+  - action_get_most_popular_song_of_artist
+  - action_songs_of_artist
+  - action_match_lyrics
 forms: { }
 e2e_actions: [ ]
