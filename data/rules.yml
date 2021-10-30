@@ -21,3 +21,13 @@ rules:
   steps:
     - intent: most_popular_song_of_artist
     - action: action_get_most_popular_song_of_artist
+
+- rule: List songs by an artist
+  steps:
+    - intent: songs_of_artist
+    - action: action_songs_of_artist
+
+- rule: Find lyrics of a song
+  steps:
+    - intent: match_lyrics
+    - action: action_match_lyrics
