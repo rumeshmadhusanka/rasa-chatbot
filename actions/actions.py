@@ -7,10 +7,55 @@
 
 # This is a simple example for a custom action which utters "Hello World!"
 
+import json
 from typing import Any, Text, Dict, List
 
+from nltk.metrics.distance import jaccard_distance
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
+
+songs_file = "../webscrape/si-songs-final.json"
+word_file = "../webscrape/word-count.json"
+
+songs = json.load(open(songs_file))
+words = json.load(open(word_file))
+
+
+def song_of_artist(artist):
+    lst = []
+    for ins in songs:
+        for singer in ins["singers"]:
+            if jaccard_distance(singer, artist) < 0.3:
+                lst.append(ins["title"])
+    return lst
+
+
+def most_popular_song():
+    popular_song = ""
+    max_views = 0
+    for ins in songs:
+        for singer in ins["singers"]:
+            if max_views < ins["streams"]:
+                max_views = ins["streams"]
+                popular_song = ins["title"]
+    return popular_song, max_views
+
+
+def most_popular_of_artist(artist):
+    popular_song = ""
+    max_views = 0
+    for ins in songs:
+        for singer in ins["singers"]:
+            if jaccard_distance(singer, artist) < 0.3:
+                if max_views < ins["streams"]:
+                    max_views = ins["streams"]
+                    popular_song = ins["title"]
+    return popular_song, max_views
+
+
+def match_lyrics(guess):
+    pass
+    # todo implement proximity query
 
 
 def extract_artist(message):
@@ -22,7 +67,6 @@ def extract_artist(message):
         return message.split("ගායනා")[0]
     if "කියපු" in message:
         return message.split("කියපු")[0]
-
 
 
 class ActionMostPopularSong(Action):
