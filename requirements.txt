@@ -3,3 +3,4 @@ rasa_sdk==2.8.2
 nltk
 discord.py==1.7.3
 python-dotenv==0.19.1
+aiohttp==3.7.4
