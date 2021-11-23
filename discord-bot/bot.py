@@ -26,11 +26,15 @@ async def on_message(message):
         "sender": message.author.name,
         "message": message.content
     }
-    async with aiohttp.ClientSession() as session:
-        async with session.post(rasa_url, json=content) as resp:
-            rasa_reply = await resp.json()
-            rasa_reply = rasa_reply[0]['text']
-            await message.channel.send(rasa_reply)
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.post(rasa_url, json=content) as resp:
+                rasa_reply = await resp.json()
+                rasa_reply = rasa_reply[0]['text']
+                await message.channel.send(rasa_reply)
+    except Exception as e:
+        await message.channel.send("RASA Server Error")
+        logger.warning(str(e))
 
 
 client.run(os.environ['DISCORD_TOKEN'])
