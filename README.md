@@ -45,10 +45,11 @@ Pretrained laguage models didn't significantly improve the model. Therefore, pre
 Uses an in memory positional index to find lyrics of a song when the user gives a query containing some part of a song. Uses proximity query to retrieve the matching song. To account for misspellings, Jaccard similarity between each word of the query and songs’ words is taken.
 
 ## Discord integration
-This bot can be integrated with Discord.
+This is integrated with Discord.
 
 ## Deploymnet 
 <p align="center">
   <img src="deployment.png" />
 </p>
+
 Deployment guide: [DEPLOYMENT.md](DEPLOYMENT.md)<br>
