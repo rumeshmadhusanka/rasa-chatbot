@@ -61,6 +61,6 @@ To start the discord bot
 ```
 python3 discord-bot/bot.py
 ```
-## Run as a system service
-If you want to restart the chat bot after restarting your machine or if you want to run the chat bot in background,
+## Run on docker
+docker compose up
 
