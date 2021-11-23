@@ -1,0 +1,9 @@
+FROM python:3.8
+
+WORKDIR /app
+COPY discord-bot /app
+
+RUN pip3 install -r requirements-discord.txt
+
+ENTRYPOINT ["python3"]
+CMD ["bot.py"]
