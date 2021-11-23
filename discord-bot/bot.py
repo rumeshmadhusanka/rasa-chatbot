@@ -33,7 +33,7 @@ async def on_message(message):
                 rasa_reply = rasa_reply[0]['text']
                 await message.channel.send(rasa_reply)
     except Exception as e:
-        await message.channel.send("RASA Server Error")
+        await message.channel.send("සමාවෙන්න, RASA සර්වර් එකේ ගැටලුවක් 🙁")
         logger.warning(str(e))
 
 
