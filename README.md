@@ -38,15 +38,17 @@ Final data contains the following attributes:
 4. CountVectorsFeaturizer
 5. DIETClassifier
 6. ResponseSelector
-7. 
-Pretrained laguage models didn't significantly improve the model, they were not used.<br>
+
+Pretrained laguage models didn't significantly improve the model. Therefore, pretrained models were not used.<br>
 
 ## Lyrics Search
+Uses an in memory positional index to find lyrics of a song when the user gives a query containing some part of a song. Uses proximity query to retrieve the matching song. To account for misspellings, Jaccard similarity between each word of the query and songs’ words is taken.
 
 ## Discord integration
-
+This bot can be integrated with Discord.
 
 ## Deploymnet 
 <p align="center">
   <img src="deployment.png" />
 </p>
+Deployment guide: [DEPLOYMENT.md](DEPLOYMENT.md)<br>
