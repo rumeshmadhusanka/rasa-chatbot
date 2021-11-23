@@ -1,0 +1,30 @@
+version: "3.7"
+services:
+  rasa-bot:
+    image: rasa-si-bot
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5005:5005"
+    container_name: rasa-si-bot
+  rasa-actions:
+    image: rasa-si-bot
+    entrypoint: rasa
+    command:
+      - run
+      - actions
+    ports:
+      - "5055:5055"
+    depends_on:
+      - rasa-bot
+  disocord-bot:
+    build:
+      context: .
+      dockerfile: Dockerfile-discord-bot.yaml
+    container_name: rasa-discord
+    env_file:
+      - discord-bot/.env
+
+
+#todo add volumes and env variables
