@@ -46,8 +46,9 @@ Create a `.env` file and store your token
 ```
 echo 'DISCORD_TOKEN=<your-discord-token>' > discord-bot/.env
 ```
+If you don't want to integrate with Discord, replace you can skip the above step. Replace the `rasa run` commnad in the next step with `rasa shell` to interact with the chat bot in your terminal.
 ## Start the chatbot
-On seperate terminals run:
+Run the foloowing commands on seperate terminals:<br>
 To start the chatbot
 ```
 rasa run
