@@ -2,5 +2,7 @@
 [![CI](https://github.com/rumeshmadhusanka/rasa-chatbot/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/rumeshmadhusanka/rasa-chatbot/actions/workflows/main.yml)
 [![CodeQL](https://github.com/rumeshmadhusanka/rasa-chatbot/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rumeshmadhusanka/rasa-chatbot/actions/workflows/codeql-analysis.yml)
 
-Deployment guide: [DEPLOY.md](DEPLOY.md)<br>
-![background](background.png)
+Deployment guide: [DEPLOY.md](DEPLOY.md)<br><br>
+<p align="center">
+  <img src="background.png" />
+</p>
