@@ -1,6 +1,7 @@
 # Deployment Guide
-## Install dependecies
-Clone this repository
+## Install the dependecies
+Deployemnt guide for Ubuntu 20.04 on a local machine or a cloud VM <br>
+Clone the repository
 ```
 git clone https://github.com/rumeshmadhusanka/rasa-chatbot.git
 ```
@@ -24,13 +25,41 @@ python3 webscrape/scrape.py
 ```
 Scrape the song infomation from the urls
 ```
-python3 song-info-scrape.py
+python3 webscrape/song-info-scrape.py
 ```
-
-Train the rasa chat bot
+Clean the data
+```
+python3 webscrape/divide-singers.py
+```
+Index the data
+```
+python3 webscrape/count-words.py
+```
+## Train the RASA chat bot
 ```
 rasa train 
 ```
 ## Integrate with Discord
-Create a discord application and obtain a token -- Follow this guide: [How to Get a Discord Bot Token](https://www.writebots.com/discord-bot-token/)<br>
-Keep this token safe. Don't commit it to GitHub.
+Create a discord application and obtain a token -- Follow this tutorial: [How to Get a Discord Bot Token](https://www.writebots.com/discord-bot-token/)<br>
+Keep this token safe. Don't commit it to GitHub.<br>
+Create a `.env` file and store your token
+```
+echo 'DISCORD_TOKEN=<your-discord-token>' > discord-bot/.env
+```
+## Start the chatbot
+On seperate terminals run:
+To start the chatbot
+```
+rasa run
+```
+To run the actions server
+```
+rasa run actions
+```
+To start the discord bot
+```
+python3 discord-bot/bot.py
+```
+## Run as a system service
+If you want to restart the chat bot after restarting your machine or if you want to run the chat bot in background,
+
