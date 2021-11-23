@@ -5,7 +5,7 @@
   <img src="background.png" />
 </p>
 
-Deployment guide: [DEPLOY.md](DEPLOY.md)<br>
+Deployment guide: [DEPLOYMENT.md](DEPLOYMENT.md)<br>
 ## Data
 This chatbot is trained on Sinhala lyrics scraped from [lyricslk.com](https://lyricslk.com). First the URLs that contain song lyrics are gahtherd. Then the webpages are scraped using BeautifulSoup library. Finally data is cleaned. Sripts relatedd to web scraping and data cleanning are stored in [webscrape](webscrape) directory.<br>
 Final data contains the following attributes: 
