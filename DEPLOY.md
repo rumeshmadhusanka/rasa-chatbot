@@ -15,7 +15,7 @@ source env/bin/activate
 ```
 Install the dependencies
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt -r requirements-discord.txt
 ```
 ## Scrape Data (optional)
 Data is already commited to the repo. If you wish to scrape data yourself you can follow the steps:<br>
