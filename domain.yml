@@ -45,9 +45,9 @@ responses:
   utter_happy:
   - text: Great, carry on!
   utter_goodbye:
-  - text: Bye
+  - text: බායි
   utter_iamabot:
-  - text: I am a bot, powered by Rasa.
+  - text: මම බොට් කෙනෙක් 🤖
 actions:
 - action_get_most_popular_song
 - action_get_most_popular_song_of_artist
