@@ -15,7 +15,7 @@ source env/bin/activate
 ```
 Install the dependencies
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt -r requirements-discord.txt
 ```
 ## Scrape Data (optional)
 Data is already commited to the repo. If you wish to scrape data yourself you can follow the steps:<br>
@@ -61,6 +61,6 @@ To start the discord bot
 ```
 python3 discord-bot/bot.py
 ```
-## Run as a system service
-If you want to restart the chat bot after restarting your machine or if you want to run the chat bot in background,
+## Run on docker
+docker-compose up
 
