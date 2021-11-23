@@ -5,6 +5,9 @@ chromedriver
 k8s-artifacts
 tmp
 rasa
+results
+tests
+models
 
 
 #from boilerplate
