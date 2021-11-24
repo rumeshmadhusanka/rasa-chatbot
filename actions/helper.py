@@ -21,6 +21,12 @@ jaccard_dis = 0.3
 logger = get_logger("actions_helper")
 
 
+def get_song_by_id(id_song):
+    for ins in songs:
+        if ins['id'] == id_song:
+            return ins['title'], ins['body'], ins['singers']
+
+
 def build_index(instances):
     title_index = dict()
     body_index = dict()
@@ -56,15 +62,24 @@ def songs_of_artist(artist):
     return lst
 
 
-def most_popular_song():
+def get_most_popular_song():
     popular_song = ""
     max_views = 0
     for ins in songs:
         for singer in ins["singers"]:
             if max_views < ins["streams"]:
                 max_views = ins["streams"]
-                popular_song = ins["title"]
-    return popular_song, max_views
+                popular_song = ins["id"]
+    title, body, singers = get_song_by_id(popular_song)
+    singer_str = ""
+    if len(singers) > 1:
+        for i in range(len(singers) - 1):
+            singer_str += singers[i] + " සහ "
+    else:
+        singer_str = singers[0]
+    string = "මගේ ළඟ තියෙන ප්‍රසිද්ධම  සිංදුව: **" + title + "**\n  මේක ගායනා කරන්නේ " + singer_str + " විසින්.\n" + \
+             "මේ ගීතය " + max_views + " වාර ගණනක් අහල තියෙනවා.\n" + "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
+    return string
 
 
 def most_popular_of_artist(artist):
@@ -93,25 +108,19 @@ def suggest_song(mood):
         sing = singers[0] + " සහ " + singers[1]
     else:
         sing = singers[0]
-    string = sing + " ගායනා කරන " + title + " ගීතය අහන්න\n " + "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
+    string = sing + " ගායනා කරන " + "**" + title + "**" + " ගීතය අහන්න\n " + "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
     return string
 
 
-def extract_artist(message):
-    if "ගේ" in message:
-        return message.split("ගේ")[0]
-    if "ගෙ" in message:
-        return message.split("ගෙ")[0]
-    if "ගායනා" in message:
-        return message.split("ගායනා")[0]
-    if "කියපු" in message:
-        return message.split("කියපු")[0]
-
-
-def get_song_by_id(id_song):
-    for ins in songs:
-        if ins['id'] == id_song:
-            return ins['title'], ins['body'], ins['singers']
+# def extract_artist(message):
+#     if "ගේ" in message:
+#         return message.split("ගේ")[0]
+#     if "ගෙ" in message:
+#         return message.split("ගෙ")[0]
+#     if "ගායනා" in message:
+#         return message.split("ගායනා")[0]
+#     if "කියපු" in message:
+#         return message.split("කියපු")[0]
 
 
 def match_lyrics(guess):
@@ -145,12 +154,26 @@ def match_lyrics(guess):
         logger.debug("Final prospects: " + str(final_prospects) + " " + str(song_id))
         chosen_song = get_song_by_id(song_id)
         logger.debug("Chosen song: " + str(chosen_song))
-        return chosen_song
+        return get_song_by_id(song_id)
     return None
 
 
+def get_matched_lyrics(guess):
+    matched = match_lyrics(guess)
+    if matched is None:
+        return "සමාවන්න 🙁 ඔබ ඉල්ලු **" + guess + "** ගීතය මා සතුව නැත."
+    title, body, singers = match_lyrics(guess)
+    if len(singers) > 1:
+        sing = singers[0] + " සහ " + singers[1]
+    else:
+        sing = singers[0]
+    out = "** " + title + "** ගීතය " + sing + "  විසින් ගායනා කරන ලද්දකි.\n" + \
+          "** 🎵🎵🎵\n"+body+"** 🎵🎵🎵"
+    return out
+
+
 if __name__ == '__main__':
-    mps = most_popular_song()
+    mps = get_most_popular_song()
     print(mps)
     mpsa = most_popular_of_artist("ෆන්කි ඩර්ට්")
     print(mpsa)
