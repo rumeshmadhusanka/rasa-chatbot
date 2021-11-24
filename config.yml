@@ -16,8 +16,8 @@ pipeline:
     max_ngram: 4
     use_shared_vocab: False
 #  - name: "MitieEntityExtractor"
-  - name: CRFEntityExtractor
-    max_iterations: 50
+#  - name: CRFEntityExtractor
+#    max_iterations: 50
 #  - name: LanguageModelFeaturizer
 #    # Name of the language model to use
 #    model_name: "roberta"
