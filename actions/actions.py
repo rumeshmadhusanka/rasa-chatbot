@@ -37,7 +37,9 @@ class ActionMostPopularSongOfArtist(Action):
         artist = artist_obj['value']
         logger.debug(artist_obj)
         resp = most_popular_of_artist(artist)
+        print(resp)
         dispatcher.utter_message(text=resp)
+
         return []
 
 
@@ -71,7 +73,7 @@ class ActionMatchLyrics(Action):
         song = song_obj['value']
         logger.debug(song_obj)
         resp = get_matched_lyrics(song)
-        dispatcher.utter_message(text="Action: match song lyrics")
+        dispatcher.utter_message(text=resp)
 
         return []
 

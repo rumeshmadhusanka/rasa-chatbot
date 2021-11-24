@@ -51,15 +51,24 @@ def build_index(instances):
     return title_index, body_index, vocabulary
 
 
+title_index, body_index, vocabulary = build_index(songs)
+
+
 def songs_of_artist(artist):
     lst = []
+    ori_artist = str(artist)
     artist = set(artist)
     for ins in songs:
         for singer in ins["singers"]:
             singer = set(singer)
             if jaccard_distance(singer, artist) < 0.3:
                 lst.append(ins["title"])
-    return lst
+    if len(lst) == 0:
+        return ori_artist + "ගේ ගීත මා සතුව නොමැත. කරුණාකර නිවැරැදිව ලියා ඇත්දැයි බලන්න 🔤"
+    string = ori_artist + "ගේ ගීත:\n"
+    for i in range(len(lst)):
+        string += str(i+1) + " " + lst[i]+"\n"
+    return string
 
 
 def get_most_popular_song():
@@ -77,14 +86,15 @@ def get_most_popular_song():
             singer_str += singers[i] + " සහ "
     else:
         singer_str = singers[0]
-    string = "මගේ ළඟ තියෙන ප්‍රසිද්ධම  සිංදුව: **" + title + "**\n  මේක ගායනා කරන්නේ " + singer_str + " විසින්.\n" + \
-             "මේ ගීතය " + max_views + " වාර ගණනක් අහල තියෙනවා.\n" + "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
+    string = "මගේ ළඟ තියෙන ප්‍රසිද්ධම  සිංදුව: **" + title + "**\nමේ ගීතය ගායනා කරන්නේ " + singer_str + " විසින්.\n" + \
+             "මේ ගීතය " + str(max_views) + " වාර ගණනක් අහල තියෙනවා.\n" + "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
     return string
 
 
 def most_popular_of_artist(artist):
     popular_song = ""
     max_views = 0
+    ori_artist = str(artist)
     artist = set(artist)
     for ins in songs:
         for singer in ins["singers"]:
@@ -92,8 +102,12 @@ def most_popular_of_artist(artist):
             if jaccard_distance(singer, artist) < 0.3:
                 if max_views < ins["streams"]:
                     max_views = ins["streams"]
-                    popular_song = ins["title"]
-    return popular_song, max_views
+                    popular_song = ins["id"]
+    title, body, singers = get_song_by_id(popular_song)
+    out = ori_artist + " ගෙ  ජනප්‍රියම සින්දුව: " + title + " \nමෙම ගීතය " + str(
+        max_views) + " වාර ගණනක් අසා තිබෙනවා\n" + \
+          "** 🎵🎵🎵\n" + body + "🎵🎵🎵 **"
+    return out
 
 
 def suggest_song(mood):
@@ -168,7 +182,7 @@ def get_matched_lyrics(guess):
     else:
         sing = singers[0]
     out = "** " + title + "** ගීතය " + sing + "  විසින් ගායනා කරන ලද්දකි.\n" + \
-          "** 🎵🎵🎵\n"+body+"** 🎵🎵🎵"
+          "** 🎵🎵🎵\n" + body + "** 🎵🎵🎵"
     return out
 
 
