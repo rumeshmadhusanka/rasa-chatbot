@@ -5,7 +5,7 @@
   <img src="background.png" />
 </p>
 
-Deployment guide: [DEPLOYMENT.md](DEPLOYMENT.md)<br>
+
 ## Data
 This chatbot is trained on Sinhala lyrics scraped from [lyricslk.com](https://lyricslk.com). First the URLs that contain song lyrics are gahtherd. Then the webpages are scraped using BeautifulSoup library. Finally data is cleaned. Sripts relatedd to web scraping and data cleanning are stored in [webscrape](webscrape) directory.<br>
 Final data contains the following attributes: 
@@ -19,17 +19,19 @@ Final data contains the following attributes:
 ## Intentions the Chatbot Trained on
 
 
-| | Intent | Example user utterance|
-| ---| --- | ----------- |
-|1|Greet|ආයුඛෝවන්|
-|2|Goodbye|බායි|
-|3|Mood great|මම හොඳින් ඉන්නවා|
-|4|Mood unhappy|මට දුකයි|
-|5|Bot challenge|ඔබ මනුෂ්‍යයෙක්ද?|
-|6|Find the most popular song|ඔයා ළඟ තියෙන ජනප්‍රියම ගීතය කුමක්ද?|
-|7|Find the most popular song of an artist|අතුල අධිකාරී ගෙ ජනප්‍රියම ගීතය මොකක්ද?|
-|8|List songs of an artist|රූකාන්ත ගුණතිලක කියපු සින්දු මොනවාද?|
-|9|Find lyrics of a song|අවසර නැත මට සින්දුවේ ලිරික්ස් හොයල දෙන්න|
+| | Intent | Example user utterance|Response from the bot |
+| ---| --- | ----------- |-----|
+|1|Greet|ආයුඛෝවන්| Greet back|
+|2|Goodbye|බායි| Greet goodbye|
+|3|Mood great|මම හොඳින් ඉන්නවා|Suggest a song with happy sentiment|
+|4|Mood unhappy|මට දුකයි|Suggest a song with sad sentiment|
+|5|Bot challenge|ඔබ මනුෂ්‍යයෙක්ද?|Tell that it's a bot|
+|6|Find the most popular song|ඔයා ළඟ තියෙන ජනප්‍රියම ගීතය කුමක්ද?|Find the lyrics of the most popular song|
+|7|Find the most popular song of an artist|අතුල අධිකාරී ගෙ ජනප්‍රියම ගීතය මොකක්ද?|Find the lyrics of the most popular song of that artist|
+|8|List songs of an artist|රූකාන්ත ගුණතිලක කියපු සින්දු මොනවාද?| List the songs of that artist|
+|9|Find lyrics of a song|අවසර නැත මට සින්දුවේ ලිරික්ස් හොයල දෙන්න| Match the song to the guess using proximity query. Display the lyrics | 
+
+6,7,8,9 triggers the Actions server
 
 ## Training Pipeline
 1. WhitespaceTokenizer
@@ -45,10 +47,78 @@ Pretrained laguage models didn't significantly improve the model. Therefore, pre
 Uses an in memory positional index to find lyrics of a song when the user gives a query containing some part of a song. Uses proximity query to retrieve the matching song. To account for misspellings, Jaccard similarity between each word of the query and songs’ words is taken.
 
 ## Discord integration
-This bot can be integrated with Discord.
+This is integrated with Discord.
 
-## Deploymnet 
+## Deploymnet Guide
 <p align="center">
   <img src="deployment.png" />
 </p>
-Deployment guide: [DEPLOYMENT.md](DEPLOYMENT.md)<br>
+
+
+### Install the dependecies
+Deployemnt guide for Ubuntu 20.04 on a local machine or a cloud VM <br>
+Clone the repository
+```
+git clone https://github.com/rumeshmadhusanka/rasa-chatbot.git
+```
+Create a python virtual environment
+``` 
+virtualenv env
+```
+Activate the created virtual environment
+```
+source env/bin/activate
+```
+Install the dependencies
+```
+pip3 install -r requirements.txt -r requirements-discord.txt
+```
+### Scrape Data (optional)
+Data is already commited to the repo. If you wish to scrape data yourself you can follow the steps:<br>
+Scrape URLs
+```
+python3 webscrape/scrape.py
+```
+Scrape the song infomation from the urls
+```
+python3 webscrape/song-info-scrape.py
+```
+Clean the data
+```
+python3 webscrape/divide-singers.py
+```
+Index the data
+```
+python3 webscrape/count-words.py
+```
+### Train the RASA chat bot
+```
+rasa train 
+```
+### Integrate with Discord
+Create a discord application and obtain a token -- Follow this tutorial: [How to Get a Discord Bot Token](https://www.writebots.com/discord-bot-token/)<br>
+Keep this token safe. Don't commit it to GitHub.<br>
+Create a `.env` file and store your token
+```
+echo 'DISCORD_TOKEN=<your-discord-token>' > discord-bot/.env
+```
+If you don't want to integrate with Discord, replace you can skip the above step. Replace the `rasa run` commnad in the next step with `rasa shell` to interact with the chat bot in your terminal.
+## Start the chatbot
+Run the foloowing commands on seperate terminals:<br>
+To start the chatbot
+```
+rasa run
+```
+To run the actions server
+```
+rasa run actions
+```
+To start the discord bot
+```
+python3 discord-bot/bot.py
+```
+### Run on docker
+```
+docker-compose up
+```
+
