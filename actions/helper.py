@@ -103,6 +103,8 @@ def most_popular_of_artist(artist):
                 if max_views < ins["streams"]:
                     max_views = ins["streams"]
                     popular_song = ins["id"]
+    if max_views == 0:
+        return ori_artist + "ගේ ගීත මා සතුව නොමැත. කරුණාකර නිවැරැදිව ලියා ඇත්දැයි බලන්න 🔤"
     title, body, singers = get_song_by_id(popular_song)
     out = ori_artist + " ගෙ  ජනප්‍රියම සින්දුව: " + title + " \nමෙම ගීතය " + str(
         max_views) + " වාර ගණනක් අසා තිබෙනවා\n" + \
