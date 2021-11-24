@@ -23,8 +23,8 @@ Final data contains the following attributes:
 | ---| --- | ----------- |-----|
 |1|Greet|ආයුඛෝවන්| Greet back|
 |2|Goodbye|බායි| Greet goodbye|
-|3|Mood great|මම හොඳින් ඉන්නවා|Suggest a song with happy sentiment|
-|4|Mood unhappy|මට දුකයි|Suggest a song with sad sentiment|
+|3|Mood great|මම හොඳින් ඉන්නවා|Suggest a song with positive sentiment|
+|4|Mood unhappy|මට දුකයි|Suggest a song with negative sentiment|
 |5|Bot challenge|ඔබ මනුෂ්‍යයෙක්ද?|Tell that it's a bot|
 |6|Find the most popular song|ඔයා ළඟ තියෙන ජනප්‍රියම ගීතය කුමක්ද?|Find the lyrics of the most popular song|
 |7|Find the most popular song of an artist|අතුල අධිකාරී ගෙ ජනප්‍රියම ගීතය මොකක්ද?|Find the lyrics of the most popular song of that artist|
