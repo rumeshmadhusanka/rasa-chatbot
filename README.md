@@ -117,7 +117,7 @@ To start the discord bot
 ```
 python3 discord-bot/bot.py
 ```
-### Run on docker
+### Run on docker (optional)
 ```
 docker-compose up
 ```
