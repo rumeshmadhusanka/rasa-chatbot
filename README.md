@@ -19,17 +19,19 @@ Final data contains the following attributes:
 ## Intentions the Chatbot Trained on
 
 
-| | Intent | Example user utterance|
-| ---| --- | ----------- |
-|1|Greet|ආයුඛෝවන්|
-|2|Goodbye|බායි|
-|3|Mood great|මම හොඳින් ඉන්නවා|
-|4|Mood unhappy|මට දුකයි|
-|5|Bot challenge|ඔබ මනුෂ්‍යයෙක්ද?|
-|6|Find the most popular song|ඔයා ළඟ තියෙන ජනප්‍රියම ගීතය කුමක්ද?|
-|7|Find the most popular song of an artist|අතුල අධිකාරී ගෙ ජනප්‍රියම ගීතය මොකක්ද?|
-|8|List songs of an artist|රූකාන්ත ගුණතිලක කියපු සින්දු මොනවාද?|
-|9|Find lyrics of a song|අවසර නැත මට සින්දුවේ ලිරික්ස් හොයල දෙන්න|
+| | Intent | Example user utterance|Response from the bot |
+| ---| --- | ----------- |-----|
+|1|Greet|ආයුඛෝවන්| Greet back|
+|2|Goodbye|බායි| Greet goodbye|
+|3|Mood great|මම හොඳින් ඉන්නවා|Suggest a song with happy sentiment|
+|4|Mood unhappy|මට දුකයි|Suggest a song with sad sentiment|
+|5|Bot challenge|ඔබ මනුෂ්‍යයෙක්ද?|Tell that it's a bot|
+|6|Find the most popular song|ඔයා ළඟ තියෙන ජනප්‍රියම ගීතය කුමක්ද?|Find the lyrics of the most popular song|
+|7|Find the most popular song of an artist|අතුල අධිකාරී ගෙ ජනප්‍රියම ගීතය මොකක්ද?|Find the lyrics of the most popular song of that artist|
+|8|List songs of an artist|රූකාන්ත ගුණතිලක කියපු සින්දු මොනවාද?| List the songs of that artist|
+|9|Find lyrics of a song|අවසර නැත මට සින්දුවේ ලිරික්ස් හොයල දෙන්න| Match the song to the guess using proximity query. Display the lyrics | 
+
+6,7,8,9 triggers the Actions server
 
 ## Training Pipeline
 1. WhitespaceTokenizer
@@ -116,5 +118,5 @@ To start the discord bot
 python3 discord-bot/bot.py
 ```
 ### Run on docker
-docker-compose up
+```docker-compose up```
 
