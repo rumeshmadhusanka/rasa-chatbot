@@ -3,3 +3,4 @@ rasa_sdk==2.8.2
 nltk
 aiohttp==3.7.4
 beautifulsoup4==4.6.3
+transformers=3.5.1
