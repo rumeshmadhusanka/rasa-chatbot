@@ -44,8 +44,11 @@ Final data contains the following attributes:
 Pretrained laguage models didn't significantly improve the model. Therefore, pretrained models were not used.<br>
 
 ## Lyrics Search
-Uses an in memory positional index to find lyrics of a song when the user gives a query containing some part of a song. Uses proximity query to retrieve the matching song. To account for misspellings, Jaccard similarity between each word of the query and songs’ words is taken.
-
+Uses an in memory positional index to find lyrics of a song when the user gives a query containing some part of a song. Uses proximity query to retrieve the matching song. To account for misspellings, Jaccard similarity between each word of the query and songs’ words is taken.<br>
+Given: query<br>
+1. Index the lyrics using positional index. 
+   Format: \<term>:\[(\<id>,\<pos>),(\<id1>,\<pos1>),]
+2. Calculate Jaccard Distance between the 
 ## Discord integration
 This is integrated with Discord.
 
