@@ -31,7 +31,7 @@ Final data contains the following attributes:
 |8|List songs of an artist|රූකාන්ත ගුණතිලක කියපු සින්දු මොනවාද?| List the songs of that artist|
 |9|Find lyrics of a song|අවසර නැත මට සින්දුවේ ලිරික්ස් හොයල දෙන්න| Match the song to the guess using proximity query. Display the lyrics | 
 
-6,7,8,9 triggers the Actions server
+3,4,6,7,8,9 triggers the Actions server
 
 ## Training Pipeline
 1. WhitespaceTokenizer
