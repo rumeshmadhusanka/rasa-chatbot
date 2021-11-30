@@ -9,32 +9,32 @@ stories:
   - intent: mood_great
   - action: action_suggest_happy_song
 
-- story: Ask the most popular song
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_happy
-  - action: action_suggest_happy_song
-  - intent: most_popular_song
-  - action: action_get_most_popular_song
+# - story: Ask the most popular song
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: mood_happy
+#   - action: action_suggest_happy_song
+#   - intent: most_popular_song
+#   - action: action_get_most_popular_song
 
-- story: Ask the most popular song of an artist
-  steps:
-    - intent: greet
-    - action: utter_greet
-    - intent: mood_unhappy
-    - action: action_suggest_sad_song
-    - intent: most_popular_song
-    - action: action_get_most_popular_song_of_artist
+# - story: Ask the most popular song of an artist
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: mood_unhappy
+#     - action: action_suggest_sad_song
+#     - intent: most_popular_song
+#     - action: action_get_most_popular_song_of_artist
 
-- story: Ask the about lyrics
-  steps:
-    - intent: greet
-    - action: utter_greet
-    - intent: mood_unhappy
-    - action: action_suggest_sad_song
-    - intent: match_lyrics
-    - action: action_match_lyrics
+# - story: Ask the about lyrics
+#   steps:
+#     - intent: greet
+#     - action: utter_greet
+#     - intent: mood_unhappy
+#     - action: action_suggest_sad_song
+#     - intent: match_lyrics
+#     - action: action_match_lyrics
 #
 #- story: sad path 2
 #  steps:
